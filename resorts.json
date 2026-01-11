@@ -1,0 +1,1215 @@
+[
+  {
+    "name": "ニセコユナイテッド (Niseko United)",
+    "keywords": [
+      "niseko",
+      "ニセコ",
+      "ヒラフ",
+      "アンヌプリ"
+    ],
+    "lat": 42.8631,
+    "lon": 140.7042,
+    "address": "北海道虻田郡ニセコ町"
+  },
+  {
+    "name": "ルスツリゾート (Rusutsu)",
+    "keywords": [
+      "rusutsu",
+      "ルスツ",
+      "留寿都"
+    ],
+    "lat": 42.7533,
+    "lon": 140.9029,
+    "address": "北海道虻田郡留寿都村"
+  },
+  {
+    "name": "富良野スキー場 (Furano)",
+    "keywords": [
+      "furano",
+      "富良野"
+    ],
+    "lat": 43.3243,
+    "lon": 142.3456,
+    "address": "北海道富良野市"
+  },
+  {
+    "name": "キロロスノーワールド (Kiroro)",
+    "keywords": [
+      "kiroro",
+      "キロロ"
+    ],
+    "lat": 43.0722,
+    "lon": 140.9781,
+    "address": "北海道余市郡赤井川村"
+  },
+  {
+    "name": "札幌国際スキー場 (Sapporo Kokusai)",
+    "keywords": [
+      "sapporo",
+      "札幌国際"
+    ],
+    "lat": 43.0724,
+    "lon": 141.0827,
+    "address": "北海道札幌市南区"
+  },
+  {
+    "name": "トマムスキー場 (Tomamu)",
+    "keywords": [
+      "tomamu",
+      "トマム"
+    ],
+    "lat": 43.0628,
+    "lon": 142.6322,
+    "address": "北海道勇払郡占冠村"
+  },
+  {
+    "name": "サッポロテイネ (Sapporo Teine)",
+    "keywords": [
+      "teine",
+      "テイネ",
+      "手稲"
+    ],
+    "lat": 43.0973,
+    "lon": 141.2044,
+    "address": "北海道札幌市手稲区"
+  },
+  {
+    "name": "カムイスキーリンクス (Kamui)",
+    "keywords": [
+      "kamui",
+      "カムイ"
+    ],
+    "lat": 43.6444,
+    "lon": 142.2283,
+    "address": "北海道旭川市"
+  },
+  {
+    "name": "サホロリゾート (Sahoro)",
+    "keywords": [
+      "sahoro",
+      "サホロ"
+    ],
+    "lat": 43.1749,
+    "lon": 142.8076,
+    "address": "北海道上川郡新得町"
+  },
+  {
+    "name": "ニセコモイワスキー場 (Niseko Moiwa)",
+    "keywords": [
+      "moiwa",
+      "モイワ"
+    ],
+    "lat": 42.855,
+    "lon": 140.638,
+    "address": "北海道虻田郡ニセコ町"
+  },
+  {
+    "name": "大雪山旭岳ロープウェイ (Asahidake)",
+    "keywords": [
+      "asahidake",
+      "旭岳"
+    ],
+    "lat": 43.6542,
+    "lon": 142.7964,
+    "address": "北海道上川郡東川町"
+  },
+  {
+    "name": "八甲田スキー場 (Hakkoda)",
+    "keywords": [
+      "hakkoda",
+      "八甲田"
+    ],
+    "lat": 40.6868,
+    "lon": 140.8654,
+    "address": "青森県青森市"
+  },
+  {
+    "name": "青森スプリング (Aomori Spring)",
+    "keywords": [
+      "aomori spring",
+      "鯵ヶ沢"
+    ],
+    "lat": 40.7303,
+    "lon": 140.2479,
+    "address": "青森県西津軽郡鰺ヶ沢町"
+  },
+  {
+    "name": "モヤヒルズ (Moya Hills)",
+    "keywords": [
+      "moya",
+      "モヤ"
+    ],
+    "lat": 40.7275,
+    "lon": 140.8033,
+    "address": "青森県青森市"
+  },
+  {
+    "name": "大鰐温泉スキー場 (Owani Onsen)",
+    "keywords": [
+      "owani",
+      "大鰐"
+    ],
+    "lat": 40.505,
+    "lon": 140.556,
+    "address": "青森県南津軽郡大鰐町"
+  },
+  {
+    "name": "安比高原スキー場 (Appi Kogen)",
+    "keywords": [
+      "appi",
+      "安比"
+    ],
+    "lat": 40.0019,
+    "lon": 140.9749,
+    "address": "岩手県八幡平市"
+  },
+  {
+    "name": "夏油高原スキー場 (Geto Kogen)",
+    "keywords": [
+      "geto",
+      "夏油"
+    ],
+    "lat": 39.2311,
+    "lon": 140.9419,
+    "address": "岩手県北上市"
+  },
+  {
+    "name": "雫石スキー場 (Shizukuishi)",
+    "keywords": [
+      "shizukuishi",
+      "雫石"
+    ],
+    "lat": 39.718,
+    "lon": 140.9575,
+    "address": "岩手県岩手郡雫石町"
+  },
+  {
+    "name": "八幡平リゾート (Hachimantai)",
+    "keywords": [
+      "hachimantai",
+      "八幡平"
+    ],
+    "lat": 39.9075,
+    "lon": 141.0264,
+    "address": "岩手県八幡平市"
+  },
+  {
+    "name": "岩手高原スノーパーク (Iwate Kogen)",
+    "keywords": [
+      "iwate kogen",
+      "岩手高原"
+    ],
+    "lat": 39.715,
+    "lon": 140.98,
+    "address": "岩手県岩手郡雫石町"
+  },
+  {
+    "name": "みやぎ蔵王えぼし (Eboshi)",
+    "keywords": [
+      "eboshi",
+      "えぼし"
+    ],
+    "lat": 38.1257,
+    "lon": 140.5422,
+    "address": "宮城県刈田郡蔵王町"
+  },
+  {
+    "name": "スプリングバレー仙台泉 (Spring Valley)",
+    "keywords": [
+      "spring valley",
+      "泉高原"
+    ],
+    "lat": 38.423,
+    "lon": 140.7226,
+    "address": "宮城県仙台市"
+  },
+  {
+    "name": "オニコウベスキー場 (Onikoube)",
+    "keywords": [
+      "onikoube",
+      "鬼首"
+    ],
+    "lat": 38.802,
+    "lon": 140.645,
+    "address": "宮城県大崎市"
+  },
+  {
+    "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
+    "keywords": [
+      "sumikawa",
+      "すみかわ"
+    ],
+    "lat": 38.125,
+    "lon": 140.482,
+    "address": "宮城県刈田郡蔵王町"
+  },
+  {
+    "name": "たざわ湖スキー場 (Tazawako)",
+    "keywords": [
+      "tazawako",
+      "たざわ湖",
+      "田沢湖"
+    ],
+    "lat": 39.757,
+    "lon": 140.758,
+    "address": "秋田県仙北市"
+  },
+  {
+    "name": "ジュネス栗駒 (Jeunesse)",
+    "keywords": [
+      "jeunesse",
+      "ジュネス"
+    ],
+    "lat": 39.1822,
+    "lon": 140.6713,
+    "address": "秋田県雄勝郡東成瀬村"
+  },
+  {
+    "name": "阿仁スキー場 (Ani)",
+    "keywords": [
+      "ani",
+      "阿仁"
+    ],
+    "lat": 39.953,
+    "lon": 140.354,
+    "address": "秋田県北秋田市"
+  },
+  {
+    "name": "太平山スキー場オーパス (Opas)",
+    "keywords": [
+      "opas",
+      "オーパス",
+      "太平山"
+    ],
+    "lat": 39.78,
+    "lon": 140.18,
+    "address": "秋田県秋田市"
+  },
+  {
+    "name": "蔵王温泉スキー場 (Zao Onsen)",
+    "keywords": [
+      "zao",
+      "蔵王",
+      "山形蔵王"
+    ],
+    "lat": 38.1636,
+    "lon": 140.4042,
+    "address": "山形県山形市"
+  },
+  {
+    "name": "天元台高原 (Tengendai)",
+    "keywords": [
+      "tengendai",
+      "天元台"
+    ],
+    "lat": 37.7983,
+    "lon": 140.1197,
+    "address": "山形県米沢市"
+  },
+  {
+    "name": "ジャングルジャングル (Jungle Jungle)",
+    "keywords": [
+      "jungle",
+      "ジャングル",
+      "黒伏"
+    ],
+    "lat": 38.455,
+    "lon": 140.455,
+    "address": "山形県東根市"
+  },
+  {
+    "name": "月山スキー場 (Gassan)",
+    "keywords": [
+      "gassan",
+      "月山"
+    ],
+    "lat": 38.51892,
+    "lon": 140.00662,
+    "address": "山形県西村山郡西川町"
+  },
+  {
+    "name": "星野リゾート ネコマ マウンテン (Nekoma)",
+    "keywords": [
+      "nekoma",
+      "alts",
+      "猫魔",
+      "アルツ"
+    ],
+    "lat": 37.6042,
+    "lon": 140.0381,
+    "address": "福島県耶麻郡磐梯町"
+  },
+  {
+    "name": "グランデコスノーリゾート (Grandeco)",
+    "keywords": [
+      "grandeco",
+      "グランデコ",
+      "デコ"
+    ],
+    "lat": 37.6853,
+    "lon": 140.0933,
+    "address": "福島県耶麻郡北塩原村"
+  },
+  {
+    "name": "猪苗代スキー場 (Inawashiro)",
+    "keywords": [
+      "inawashiro",
+      "猪苗代"
+    ],
+    "lat": 37.575,
+    "lon": 140.063,
+    "address": "福島県耶麻郡猪苗代町"
+  },
+  {
+    "name": "箕輪スキー場 (Minowa)",
+    "keywords": [
+      "minowa",
+      "箕輪"
+    ],
+    "lat": 37.64,
+    "lon": 140.23,
+    "address": "福島県耶麻郡猪苗代町"
+  },
+  {
+    "name": "沼尻スキー場 (Numajiri)",
+    "keywords": [
+      "numajiri",
+      "沼尻"
+    ],
+    "lat": 37.625,
+    "lon": 140.245,
+    "address": "福島県耶麻郡猪苗代町"
+  },
+  {
+    "name": "会津高原だいくらスキー場 (Daikura)",
+    "keywords": [
+      "daikura",
+      "だいくら"
+    ],
+    "lat": 37.155,
+    "lon": 139.705,
+    "address": "福島県南会津郡南会津町"
+  },
+  {
+    "name": "ハンターマウンテン塩原 (Hunter Mt)",
+    "keywords": [
+      "hunter",
+      "ハンター",
+      "ハンタマ"
+    ],
+    "lat": 36.9377,
+    "lon": 139.7744,
+    "address": "栃木県那須塩原市"
+  },
+  {
+    "name": "マウントジーンズ那須 (Mt.JEANS)",
+    "keywords": [
+      "jeans",
+      "マウントジーンズ"
+    ],
+    "lat": 37.1264,
+    "lon": 139.988,
+    "address": "栃木県那須郡那須町"
+  },
+  {
+    "name": "エーデルワイススキーリゾート (Edelweiss)",
+    "keywords": [
+      "edelweiss",
+      "エーデルワイス"
+    ],
+    "lat": 36.932,
+    "lon": 139.755,
+    "address": "栃木県日光市"
+  },
+  {
+    "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
+    "keywords": [
+      "nikko",
+      "yumoto",
+      "日光湯元"
+    ],
+    "lat": 36.805,
+    "lon": 139.42,
+    "address": "栃木県日光市"
+  },
+  {
+    "name": "丸沼高原スキー場 (Marunuma)",
+    "keywords": [
+      "marunuma",
+      "丸沼"
+    ],
+    "lat": 36.8183,
+    "lon": 139.3364,
+    "address": "群馬県利根郡片品村"
+  },
+  {
+    "name": "川場スキー場 (Kawaba)",
+    "keywords": [
+      "kawaba",
+      "川場"
+    ],
+    "lat": 36.8122,
+    "lon": 139.1083,
+    "address": "群馬県利根郡川場村"
+  },
+  {
+    "name": "たんばらスキーパーク (Tambara)",
+    "keywords": [
+      "tambara",
+      "たんばら"
+    ],
+    "lat": 36.7867,
+    "lon": 139.0667,
+    "address": "群馬県沼田市"
+  },
+  {
+    "name": "万座温泉スキー場 (Manza Onsen)",
+    "keywords": [
+      "manza",
+      "万座"
+    ],
+    "lat": 36.6341,
+    "lon": 138.5133,
+    "address": "群馬県吾妻郡嬬恋村"
+  },
+  {
+    "name": "ノルン水上スキー場 (Norn Minakami)",
+    "keywords": [
+      "norn",
+      "ノルン",
+      "水上"
+    ],
+    "lat": 36.8042,
+    "lon": 138.9722,
+    "address": "群馬県利根郡みなかみ町"
+  },
+  {
+    "name": "ホワイトワールド尾瀬岩鞍 (Oze Iwakura)",
+    "keywords": [
+      "oze",
+      "iwakura",
+      "岩鞍"
+    ],
+    "lat": 36.84,
+    "lon": 139.22,
+    "address": "群馬県利根郡片品村"
+  },
+  {
+    "name": "かたしな高原スキー場 (Katashina)",
+    "keywords": [
+      "katashina",
+      "かたしな"
+    ],
+    "lat": 36.83,
+    "lon": 139.23,
+    "address": "群馬県利根郡片品村"
+  },
+  {
+    "name": "群馬みなかみほうだいぎスキー場 (Houdaigi)",
+    "keywords": [
+      "houdaigi",
+      "宝台樹"
+    ],
+    "lat": 36.852,
+    "lon": 139.055,
+    "address": "群馬県利根郡みなかみ町"
+  },
+  {
+    "name": "奥利根スノーパーク (Okutone)",
+    "keywords": [
+      "okutone",
+      "奥利根"
+    ],
+    "lat": 36.805,
+    "lon": 139.005,
+    "address": "群馬県利根郡みなかみ町"
+  },
+  {
+    "name": "苗場スキー場 (Naeba)",
+    "keywords": [
+      "naeba",
+      "苗場"
+    ],
+    "lat": 36.7933,
+    "lon": 138.7844,
+    "address": "新潟県南魚沼郡湯沢町"
+  },
+  {
+    "name": "かぐらスキー場 (Kagura)",
+    "keywords": [
+      "kagura",
+      "かぐら",
+      "神楽"
+    ],
+    "lat": 36.8375,
+    "lon": 138.7778,
+    "address": "新潟県南魚沼郡湯沢町"
+  },
+  {
+    "name": "GALA湯沢 (GALA Yuzawa)",
+    "keywords": [
+      "gala",
+      "ガーラ",
+      "湯沢"
+    ],
+    "lat": 36.9405,
+    "lon": 138.7944,
+    "address": "新潟県南魚沼郡湯沢町"
+  },
+  {
+    "name": "石打丸山スキー場 (Ishiuchi)",
+    "keywords": [
+      "ishiuchi",
+      "石打",
+      "丸山"
+    ],
+    "lat": 36.9892,
+    "lon": 138.8028,
+    "address": "新潟県南魚沼市"
+  },
+  {
+    "name": "ロッテアライリゾート (Lotte Arai)",
+    "keywords": [
+      "arai",
+      "lotte",
+      "アライ"
+    ],
+    "lat": 36.99064,
+    "lon": 138.18138,
+    "address": "新潟県妙高市"
+  },
+  {
+    "name": "妙高杉ノ原スキー場 (Myoko Suginohara)",
+    "keywords": [
+      "myoko",
+      "suginohara",
+      "杉ノ原"
+    ],
+    "lat": 36.8336,
+    "lon": 138.1633,
+    "address": "新潟県妙高市"
+  },
+  {
+    "name": "舞子スノーリゾート (Maiko)",
+    "keywords": [
+      "maiko",
+      "舞子"
+    ],
+    "lat": 36.953,
+    "lon": 138.835,
+    "address": "新潟県南魚沼市"
+  },
+  {
+    "name": "湯沢高原スキー場 (Yuzawa Kogen)",
+    "keywords": [
+      "yuzawa kogen",
+      "湯沢高原"
+    ],
+    "lat": 36.945,
+    "lon": 138.805,
+    "address": "新潟県南魚沼郡湯沢町"
+  },
+  {
+    "name": "神立スノーリゾート (Kandatsu)",
+    "keywords": [
+      "kandatsu",
+      "神立"
+    ],
+    "lat": 36.92,
+    "lon": 138.835,
+    "address": "新潟県南魚沼郡湯沢町"
+  },
+  {
+    "name": "ムイカスノーリゾート (Muika)",
+    "keywords": [
+      "muikamachi",
+      "六日町",
+      "ハッカイサン"
+    ],
+    "lat": 37.055,
+    "lon": 138.955,
+    "address": "新潟県南魚沼市"
+  },
+  {
+    "name": "シャルマン火打スキー場 (Charmant)",
+    "keywords": [
+      "charmant",
+      "シャルマン"
+    ],
+    "lat": 36.985,
+    "lon": 138.055,
+    "address": "新潟県糸魚川市"
+  },
+  {
+    "name": "赤倉観光リゾート (Akakura)",
+    "keywords": [
+      "akakura",
+      "赤倉"
+    ],
+    "lat": 36.885,
+    "lon": 138.165,
+    "address": "新潟県妙高市"
+  },
+  {
+    "name": "関温泉スキー場 (Seki Onsen)",
+    "keywords": [
+      "seki",
+      "関温泉"
+    ],
+    "lat": 36.895,
+    "lon": 138.135,
+    "address": "新潟県妙高市"
+  },
+  {
+    "name": "上越国際スキー場 (Joetsu Kokusai)",
+    "keywords": [
+      "joetsu",
+      "上国"
+    ],
+    "lat": 37.015,
+    "lon": 138.85,
+    "address": "新潟県南魚沼市"
+  },
+  {
+    "name": "白馬八方尾根スキー場 (Hakuba Happo)",
+    "keywords": [
+      "happo",
+      "八方"
+    ],
+    "lat": 36.7018,
+    "lon": 137.8327,
+    "address": "長野県北安曇郡白馬村"
+  },
+  {
+    "name": "白馬五竜スキー場 (Hakuba Goryu)",
+    "keywords": [
+      "goryu",
+      "五竜"
+    ],
+    "lat": 36.6572,
+    "lon": 137.8306,
+    "address": "長野県北安曇郡白馬村"
+  },
+  {
+    "name": "栂池高原スキー場 (Tsugaike)",
+    "keywords": [
+      "tsugaike",
+      "栂池"
+    ],
+    "lat": 36.7536,
+    "lon": 137.8767,
+    "address": "長野県北安曇郡小谷村"
+  },
+  {
+    "name": "野沢温泉スキー場 (Nozawa Onsen)",
+    "keywords": [
+      "nozawa",
+      "野沢"
+    ],
+    "lat": 36.9197,
+    "lon": 138.4485,
+    "address": "長野県下高井郡野沢温泉村"
+  },
+  {
+    "name": "志賀高原 焼額山 (Shiga Kogen)",
+    "keywords": [
+      "shiga",
+      "志賀",
+      "焼額"
+    ],
+    "lat": 36.7621,
+    "lon": 138.5367,
+    "address": "長野県下高井郡山ノ内町"
+  },
+  {
+    "name": "菅平高原スノーリゾート (Sugadaira)",
+    "keywords": [
+      "sugadaira",
+      "菅平"
+    ],
+    "lat": 36.5414,
+    "lon": 138.3581,
+    "address": "長野県上田市"
+  },
+  {
+    "name": "軽井沢プリンスホテルスキー場 (Karuizawa)",
+    "keywords": [
+      "karuizawa",
+      "軽井沢"
+    ],
+    "lat": 36.3353,
+    "lon": 138.6339,
+    "address": "長野県北佐久郡軽井沢町"
+  },
+  {
+    "name": "白馬コルチナスキー場 (Cortina)",
+    "keywords": [
+      "cortina",
+      "コルチナ"
+    ],
+    "lat": 36.785,
+    "lon": 137.885,
+    "address": "長野県北安曇郡小谷村"
+  },
+  {
+    "name": "白馬乗鞍温泉スキー場 (Norikura)",
+    "keywords": [
+      "norikura",
+      "乗鞍"
+    ],
+    "lat": 36.775,
+    "lon": 137.865,
+    "address": "長野県北安曇郡小谷村"
+  },
+  {
+    "name": "白馬岩岳スノーフィールド (Iwatake)",
+    "keywords": [
+      "iwatake",
+      "岩岳"
+    ],
+    "lat": 36.715,
+    "lon": 137.865,
+    "address": "長野県北安曇郡白馬村"
+  },
+  {
+    "name": "Hakuba47",
+    "keywords": [
+      "47",
+      "yonnana"
+    ],
+    "lat": 36.685,
+    "lon": 137.835,
+    "address": "長野県北安曇郡白馬村"
+  },
+  {
+    "name": "竜王スキーパーク (Ryuoo)",
+    "keywords": [
+      "ryuoo",
+      "竜王"
+    ],
+    "lat": 36.805,
+    "lon": 138.455,
+    "address": "長野県下高井郡山ノ内町"
+  },
+  {
+    "name": "斑尾高原スキー場 (Madarao)",
+    "keywords": [
+      "madarao",
+      "斑尾"
+    ],
+    "lat": 36.845,
+    "lon": 138.305,
+    "address": "長野県飯山市"
+  },
+  {
+    "name": "タングラムスキーサーカス (Tangram)",
+    "keywords": [
+      "tangram",
+      "タングラム"
+    ],
+    "lat": 36.855,
+    "lon": 138.285,
+    "address": "長野県上水内郡信濃町"
+  },
+  {
+    "name": "戸隠スキー場 (Togakushi)",
+    "keywords": [
+      "togakushi",
+      "戸隠"
+    ],
+    "lat": 36.765,
+    "lon": 138.085,
+    "address": "長野県長野市"
+  },
+  {
+    "name": "車山高原SKYPARK (Kurumayama)",
+    "keywords": [
+      "kurumayama",
+      "車山"
+    ],
+    "lat": 36.105,
+    "lon": 138.205,
+    "address": "長野県茅野市"
+  },
+  {
+    "name": "奥志賀高原スキー場 (Okushiga)",
+    "keywords": [
+      "okushiga",
+      "奥志賀"
+    ],
+    "lat": 36.78,
+    "lon": 138.54,
+    "address": "長野県下高井郡山ノ内町"
+  },
+  {
+    "name": "ふじてんスノーリゾート (Fujiten)",
+    "keywords": [
+      "fujiten",
+      "ふじてん"
+    ],
+    "lat": 35.4328,
+    "lon": 138.6947,
+    "address": "山梨県南都留郡鳴沢村"
+  },
+  {
+    "name": "サンメドウズ清里 (Sun Meadows)",
+    "keywords": [
+      "kiyosato",
+      "清里"
+    ],
+    "lat": 35.9381,
+    "lon": 138.4069,
+    "address": "山梨県北杜市"
+  },
+  {
+    "name": "カムイみさかスキー場 (Misaka)",
+    "keywords": [
+      "misaka",
+      "御坂"
+    ],
+    "lat": 35.585,
+    "lon": 138.655,
+    "address": "山梨県笛吹市"
+  },
+  {
+    "name": "高鷲スノーパーク (Takasu Snow Park)",
+    "keywords": [
+      "takasu",
+      "高鷲"
+    ],
+    "lat": 35.998,
+    "lon": 136.8773,
+    "address": "岐阜県郡上市"
+  },
+  {
+    "name": "ダイナランド (Dynaland)",
+    "keywords": [
+      "dynaland",
+      "ダイナ"
+    ],
+    "lat": 35.9967,
+    "lon": 136.8606,
+    "address": "岐阜県郡上市"
+  },
+  {
+    "name": "鷲ヶ岳スキー場 (Washigatake)",
+    "keywords": [
+      "washigatake",
+      "鷲ヶ岳"
+    ],
+    "lat": 35.9794,
+    "lon": 136.8483,
+    "address": "岐阜県郡上市"
+  },
+  {
+    "name": "ホワイトピアたかす (White Pia)",
+    "keywords": [
+      "white pia",
+      "ホワイトピア"
+    ],
+    "lat": 35.956,
+    "lon": 136.935,
+    "address": "岐阜県郡上市"
+  },
+  {
+    "name": "ウイングヒルズ白鳥 (Wing Hills)",
+    "keywords": [
+      "wing hills",
+      "ウイングヒルズ",
+      "白鳥"
+    ],
+    "lat": 35.9672,
+    "lon": 136.7906,
+    "address": "岐阜県郡上市"
+  },
+  {
+    "name": "スノーウェーブパーク白鳥高原 (Shiratori Kogen)",
+    "keywords": [
+      "shiratori",
+      "白鳥高原"
+    ],
+    "lat": 35.9397,
+    "lon": 136.7864,
+    "address": "岐阜県郡上市"
+  },
+  {
+    "name": "めいほうスキー場 (Meiho)",
+    "keywords": [
+      "meiho",
+      "めいほう",
+      "明宝"
+    ],
+    "lat": 35.9418,
+    "lon": 137.043,
+    "address": "岐阜県郡上市"
+  },
+  {
+    "name": "ほおのき平スキー場 (Honoki Daira)",
+    "keywords": [
+      "honoki",
+      "ほおのき",
+      "朴の木"
+    ],
+    "lat": 36.1436,
+    "lon": 137.4528,
+    "address": "岐阜県高山市"
+  },
+  {
+    "name": "ひるがの高原スキー場 (Hirugano)",
+    "keywords": [
+      "hirugano",
+      "ひるがの"
+    ],
+    "lat": 35.985,
+    "lon": 136.905,
+    "address": "岐阜県郡上市"
+  },
+  {
+    "name": "スキージャム勝山 (Ski Jam Katsuyama)",
+    "keywords": [
+      "ski jam",
+      "スキージャム",
+      "勝山"
+    ],
+    "lat": 36.0733,
+    "lon": 136.5556,
+    "address": "福井県勝山市"
+  },
+  {
+    "name": "福井和泉スキー場 (Fukui Izumi)",
+    "keywords": [
+      "izumi",
+      "和泉"
+    ],
+    "lat": 35.9397,
+    "lon": 136.69208,
+    "address": "福井県大野市"
+  },
+  {
+    "name": "今庄365スキー場 (Imajo)",
+    "keywords": [
+      "imajo",
+      "今庄"
+    ],
+    "lat": 35.755,
+    "lon": 136.155,
+    "address": "福井県南条郡南越前町"
+  },
+  {
+    "name": "白山セイモアスキー場 (Hakusan Seymour)",
+    "keywords": [
+      "seymour",
+      "セイモア"
+    ],
+    "lat": 36.3472,
+    "lon": 136.6789,
+    "address": "石川県白山市"
+  },
+  {
+    "name": "白山一里野温泉スキー場 (Ichirino)",
+    "keywords": [
+      "ichirino",
+      "一里野"
+    ],
+    "lat": 36.2683,
+    "lon": 136.715,
+    "address": "石川県白山市"
+  },
+  {
+    "name": "金沢市営医王山スキー場 (Iozen)",
+    "keywords": [
+      "iozen",
+      "医王山"
+    ],
+    "lat": 36.48,
+    "lon": 136.7,
+    "address": "石川県金沢市"
+  },
+  {
+    "name": "立山山麓スキー場 (Tateyama Sanroku)",
+    "keywords": [
+      "tateyama",
+      "立山"
+    ],
+    "lat": 36.5747,
+    "lon": 137.417,
+    "address": "富山県富山市"
+  },
+  {
+    "name": "IOX-AROSA (イオックスアローザ)",
+    "keywords": [
+      "iox",
+      "arosa",
+      "アローザ"
+    ],
+    "lat": 36.5149,
+    "lon": 136.8209,
+    "address": "富山県南砺市"
+  },
+  {
+    "name": "牛岳温泉スキー場 (Ushidake Onsen)",
+    "keywords": [
+      "ushidake",
+      "牛岳",
+      "温泉"
+    ],
+    "lat": 36.5737,
+    "lon": 137.057,
+    "address": "富山県富山市"
+  },
+  {
+    "name": "たいらスキー場 (Taira)",
+    "keywords": [
+      "taira",
+      "たいら"
+    ],
+    "lat": 36.45,
+    "lon": 136.95,
+    "address": "富山県南砺市"
+  },
+  {
+    "name": "びわ湖バレイ (Biwako Valley)",
+    "keywords": [
+      "biwako",
+      "びわ湖",
+      "琵琶湖"
+    ],
+    "lat": 35.203,
+    "lon": 135.907,
+    "address": "滋賀県大津市"
+  },
+  {
+    "name": "グランスノー奥伊吹 (Okuibuki)",
+    "keywords": [
+      "okuibuki",
+      "奥伊吹"
+    ],
+    "lat": 35.522,
+    "lon": 136.3872,
+    "address": "滋賀県米原市"
+  },
+  {
+    "name": "箱館山スキー場 (Hakodateyama)",
+    "keywords": [
+      "hakodateyama",
+      "箱館山"
+    ],
+    "lat": 35.455,
+    "lon": 136.035,
+    "address": "滋賀県高島市"
+  },
+  {
+    "name": "ハチ北高原スキー場 (Hachi Kita)",
+    "keywords": [
+      "hachi",
+      "ハチ北",
+      "鉢伏"
+    ],
+    "lat": 35.4045,
+    "lon": 134.558,
+    "address": "兵庫県美方郡香美町"
+  },
+  {
+    "name": "スカイバレースキー場 (Sky Valley)",
+    "keywords": [
+      "sky valley",
+      "スカイバレー"
+    ],
+    "lat": 35.4489,
+    "lon": 134.5458,
+    "address": "兵庫県美方郡香美町"
+  },
+  {
+    "name": "おじろスキー場 (Ojiro)",
+    "keywords": [
+      "ojiro",
+      "おじろ"
+    ],
+    "lat": 35.425,
+    "lon": 134.585,
+    "address": "兵庫県美方郡香美町"
+  },
+  {
+    "name": "ちくさ高原スキー場 (Chikusa)",
+    "keywords": [
+      "chikusa",
+      "ちくさ"
+    ],
+    "lat": 35.185,
+    "lon": 134.455,
+    "address": "兵庫県宍粟市"
+  },
+  {
+    "name": "峰山高原リゾート (Mineyama)",
+    "keywords": [
+      "mineyama",
+      "峰山"
+    ],
+    "lat": 35.155,
+    "lon": 134.705,
+    "address": "兵庫県神崎郡神河町"
+  },
+  {
+    "name": "氷ノ山国際スキー場 (Hyonosen)",
+    "keywords": [
+      "hyonosen",
+      "氷ノ山"
+    ],
+    "lat": 35.355,
+    "lon": 134.525,
+    "address": "兵庫県養父市"
+  },
+  {
+    "name": "恐羅漢スノーパーク (Osorakan)",
+    "keywords": [
+      "osorakan",
+      "恐羅漢"
+    ],
+    "lat": 34.5957,
+    "lon": 132.1466,
+    "address": "広島県山県郡安芸太田町"
+  },
+  {
+    "name": "めがひらスキー場 (Megahira)",
+    "keywords": [
+      "megahira",
+      "めがひら",
+      "女鹿平"
+    ],
+    "lat": 34.4533,
+    "lon": 132.1158,
+    "address": "広島県廿日市市"
+  },
+  {
+    "name": "芸北高原大佐スキー場 (Osa)",
+    "keywords": [
+      "osa",
+      "大佐",
+      "芸北"
+    ],
+    "lat": 34.7479,
+    "lon": 132.2203,
+    "address": "広島県山県郡北広島町"
+  },
+  {
+    "name": "ユートピアサイオト (Saioto)",
+    "keywords": [
+      "saioto",
+      "サイオト"
+    ],
+    "lat": 34.725,
+    "lon": 132.355,
+    "address": "広島県山県郡北広島町"
+  },
+  {
+    "name": "やわたハイランド191 (Yawata)",
+    "keywords": [
+      "yawata",
+      "やわた",
+      "191"
+    ],
+    "lat": 34.6946,
+    "lon": 132.16,
+    "address": "広島県山県郡北広島町"
+  }
+]
