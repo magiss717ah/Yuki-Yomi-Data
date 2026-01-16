@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-16T14:22:02.534Z",
+  "updated_at": "2026-01-16T15:22:08.417Z",
   "dates": [
     {
       "date": "2026-01-17",
@@ -13,32 +13,11 @@
           "lon": 140.758
         },
         {
-          "name": "カムイスキーリンクス (Kamui)",
-          "snow": 1.5,
-          "prefecture": "北海道",
-          "lat": 43.6444,
-          "lon": 142.2283
-        },
-        {
-          "name": "ニセコモイワスキー場 (Niseko Moiwa)",
-          "snow": 1.5,
-          "prefecture": "北海道",
-          "lat": 42.855,
-          "lon": 140.638
-        },
-        {
           "name": "八甲田スキー場 (Hakkoda)",
           "snow": 1.1,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
-        },
-        {
-          "name": "ニセコユナイテッド (Niseko United)",
-          "snow": 0.8,
-          "prefecture": "北海道",
-          "lat": 42.8631,
-          "lon": 140.7042
         },
         {
           "name": "青森スプリング (Aomori Spring)",
@@ -55,18 +34,11 @@
           "lon": 140.354
         },
         {
-          "name": "夏油高原スキー場 (Geto Kogen)",
-          "snow": 0.7,
-          "prefecture": "岩手県",
-          "lat": 39.2311,
-          "lon": 140.9419
-        },
-        {
-          "name": "大雪山旭岳ロープウェイ (Asahidake)",
+          "name": "ニセコモイワスキー場 (Niseko Moiwa)",
           "snow": 0.6,
           "prefecture": "北海道",
-          "lat": 43.6542,
-          "lon": 142.7964
+          "lat": 42.855,
+          "lon": 140.638
         },
         {
           "name": "モヤヒルズ (Moya Hills)",
@@ -83,13 +55,6 @@
           "lon": 141.0264
         },
         {
-          "name": "サッポロテイネ (Sapporo Teine)",
-          "snow": 0.4,
-          "prefecture": "北海道",
-          "lat": 43.0973,
-          "lon": 141.2044
-        },
-        {
           "name": "雫石スキー場 (Shizukuishi)",
           "snow": 0.4,
           "prefecture": "岩手県",
@@ -97,11 +62,39 @@
           "lon": 140.9575
         },
         {
+          "name": "ニセコユナイテッド (Niseko United)",
+          "snow": 0.3,
+          "prefecture": "北海道",
+          "lat": 42.8631,
+          "lon": 140.7042
+        },
+        {
           "name": "キロロスノーワールド (Kiroro)",
           "snow": 0.3,
           "prefecture": "北海道",
           "lat": 43.0722,
           "lon": 140.9781
+        },
+        {
+          "name": "カムイスキーリンクス (Kamui)",
+          "snow": 0.2,
+          "prefecture": "北海道",
+          "lat": 43.6444,
+          "lon": 142.2283
+        },
+        {
+          "name": "サッポロテイネ (Sapporo Teine)",
+          "snow": 0.1,
+          "prefecture": "北海道",
+          "lat": 43.0973,
+          "lon": 141.2044
+        },
+        {
+          "name": "大雪山旭岳ロープウェイ (Asahidake)",
+          "snow": 0.1,
+          "prefecture": "北海道",
+          "lat": 43.6542,
+          "lon": 142.7964
         },
         {
           "name": "大鰐温泉スキー場 (Owani Onsen)",
@@ -116,20 +109,6 @@
           "prefecture": "岩手県",
           "lat": 39.715,
           "lon": 140.98
-        },
-        {
-          "name": "オニコウベスキー場 (Onikoube)",
-          "snow": 0.1,
-          "prefecture": "宮城県",
-          "lat": 38.802,
-          "lon": 140.645
-        },
-        {
-          "name": "ジュネス栗駒 (Jeunesse)",
-          "snow": 0.1,
-          "prefecture": "秋田県",
-          "lat": 39.1822,
-          "lon": 140.6713
         },
         {
           "name": "ルスツリゾート (Rusutsu)",
@@ -174,6 +153,13 @@
           "lon": 140.9749
         },
         {
+          "name": "夏油高原スキー場 (Geto Kogen)",
+          "snow": 0,
+          "prefecture": "岩手県",
+          "lat": 39.2311,
+          "lon": 140.9419
+        },
+        {
           "name": "みやぎ蔵王えぼし (Eboshi)",
           "snow": 0,
           "prefecture": "宮城県",
@@ -188,11 +174,25 @@
           "lon": 140.7226
         },
         {
+          "name": "オニコウベスキー場 (Onikoube)",
+          "snow": 0,
+          "prefecture": "宮城県",
+          "lat": 38.802,
+          "lon": 140.645
+        },
+        {
           "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
           "snow": 0,
           "prefecture": "宮城県",
           "lat": 38.125,
           "lon": 140.482
+        },
+        {
+          "name": "ジュネス栗駒 (Jeunesse)",
+          "snow": 0,
+          "prefecture": "秋田県",
+          "lat": 39.1822,
+          "lon": 140.6713
         },
         {
           "name": "太平山スキー場オーパス (Opas)",
