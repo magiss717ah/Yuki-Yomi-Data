@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-29T13:59:04.328Z",
+  "updated_at": "2026-01-29T14:48:42.191Z",
   "dates": [
     {
       "date": "2026-01-30",
@@ -18,6 +18,13 @@
           "prefecture": "新潟県",
           "lat": 36.99064,
           "lon": 138.18138
+        },
+        {
+          "name": "キューピッドバレイスキー場 (Cupid Valley)",
+          "snow": 29.2,
+          "prefecture": "新潟県",
+          "lat": 37.05513,
+          "lon": 138.4845
         },
         {
           "name": "白山一里野温泉スキー場 (Ichirino)",
@@ -950,6 +957,13 @@
           "lon": 136.715
         },
         {
+          "name": "キューピッドバレイスキー場 (Cupid Valley)",
+          "snow": 9.5,
+          "prefecture": "新潟県",
+          "lat": 37.05513,
+          "lon": 138.4845
+        },
+        {
           "name": "立山山麓スキー場 (Tateyama Sanroku)",
           "snow": 9.4,
           "prefecture": "富山県",
@@ -1689,6 +1703,13 @@
           "prefecture": "山形県",
           "lat": 38.51892,
           "lon": 140.00662
+        },
+        {
+          "name": "キューピッドバレイスキー場 (Cupid Valley)",
+          "snow": 9.8,
+          "prefecture": "新潟県",
+          "lat": 37.05513,
+          "lon": 138.4845
         },
         {
           "name": "八甲田スキー場 (Hakkoda)",
@@ -2726,6 +2747,13 @@
           "lon": 138.7778
         },
         {
+          "name": "キューピッドバレイスキー場 (Cupid Valley)",
+          "snow": 2.7,
+          "prefecture": "新潟県",
+          "lat": 37.05513,
+          "lon": 138.4845
+        },
+        {
           "name": "高鷲スノーパーク (Takasu Snow Park)",
           "snow": 2.6,
           "prefecture": "岐阜県",
@@ -3437,6 +3465,13 @@
           "prefecture": "新潟県",
           "lat": 36.945,
           "lon": 138.805
+        },
+        {
+          "name": "キューピッドバレイスキー場 (Cupid Valley)",
+          "snow": 6.4,
+          "prefecture": "新潟県",
+          "lat": 37.05513,
+          "lon": 138.4845
         },
         {
           "name": "志賀高原 焼額山 (Shiga Kogen)",
@@ -4677,6 +4712,13 @@
           "lon": 138.135
         },
         {
+          "name": "キューピッドバレイスキー場 (Cupid Valley)",
+          "snow": 0,
+          "prefecture": "新潟県",
+          "lat": 37.05513,
+          "lon": 138.4845
+        },
+        {
           "name": "白馬八方尾根スキー場 (Hakuba Happo)",
           "snow": 0,
           "prefecture": "長野県",
@@ -5605,6 +5647,13 @@
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
+        },
+        {
+          "name": "キューピッドバレイスキー場 (Cupid Valley)",
+          "snow": 0,
+          "prefecture": "新潟県",
+          "lat": 37.05513,
+          "lon": 138.4845
         },
         {
           "name": "野沢温泉スキー場 (Nozawa Onsen)",
