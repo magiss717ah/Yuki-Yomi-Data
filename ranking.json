@@ -1,30 +1,37 @@
 {
-  "updated_at": "2026-02-04T05:47:37.211Z",
+  "updated_at": "2026-02-04T06:50:19.437Z",
   "dates": [
     {
       "date": "2026-02-05",
       "display_date": "2/5 (木)",
       "rankings": [
         {
-          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
-          "snow": 0.8,
-          "prefecture": "宮城県",
-          "lat": 38.125,
-          "lon": 140.482
-        },
-        {
-          "name": "月山スキー場 (Gassan)",
-          "snow": 0.8,
-          "prefecture": "山形県",
-          "lat": 38.51892,
-          "lon": 140.00662
-        },
-        {
           "name": "グランデコスノーリゾート (Grandeco)",
-          "snow": 0.3,
+          "snow": 1.1,
           "prefecture": "福島県",
           "lat": 37.6853,
           "lon": 140.0933
+        },
+        {
+          "name": "箕輪スキー場 (Minowa)",
+          "snow": 0.8,
+          "prefecture": "福島県",
+          "lat": 37.64,
+          "lon": 140.23
+        },
+        {
+          "name": "沼尻スキー場 (Numajiri)",
+          "snow": 0.8,
+          "prefecture": "福島県",
+          "lat": 37.625,
+          "lon": 140.245
+        },
+        {
+          "name": "月山スキー場 (Gassan)",
+          "snow": 0.6,
+          "prefecture": "山形県",
+          "lat": 38.51892,
+          "lon": 140.00662
         },
         {
           "name": "八幡平リゾート (Hachimantai)",
@@ -34,18 +41,18 @@
           "lon": 141.0264
         },
         {
-          "name": "箕輪スキー場 (Minowa)",
+          "name": "オニコウベスキー場 (Onikoube)",
           "snow": 0.1,
-          "prefecture": "福島県",
-          "lat": 37.64,
-          "lon": 140.23
+          "prefecture": "宮城県",
+          "lat": 38.802,
+          "lon": 140.645
         },
         {
-          "name": "沼尻スキー場 (Numajiri)",
+          "name": "たざわ湖スキー場 (Tazawako)",
           "snow": 0.1,
-          "prefecture": "福島県",
-          "lat": 37.625,
-          "lon": 140.245
+          "prefecture": "秋田県",
+          "lat": 39.757,
+          "lon": 140.758
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -195,18 +202,11 @@
           "lon": 140.7226
         },
         {
-          "name": "オニコウベスキー場 (Onikoube)",
+          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
           "snow": 0,
           "prefecture": "宮城県",
-          "lat": 38.802,
-          "lon": 140.645
-        },
-        {
-          "name": "たざわ湖スキー場 (Tazawako)",
-          "snow": 0,
-          "prefecture": "秋田県",
-          "lat": 39.757,
-          "lon": 140.758
+          "lat": 38.125,
+          "lon": 140.482
         },
         {
           "name": "ジュネス栗駒 (Jeunesse)",
@@ -943,6 +943,13 @@
           "lon": 140.8654
         },
         {
+          "name": "安比高原スキー場 (Appi Kogen)",
+          "snow": 0.4,
+          "prefecture": "岩手県",
+          "lat": 40.0019,
+          "lon": 140.9749
+        },
+        {
           "name": "ジュネス栗駒 (Jeunesse)",
           "snow": 0.3,
           "prefecture": "秋田県",
@@ -955,13 +962,6 @@
           "prefecture": "秋田県",
           "lat": 39.953,
           "lon": 140.354
-        },
-        {
-          "name": "安比高原スキー場 (Appi Kogen)",
-          "snow": 0.2,
-          "prefecture": "岩手県",
-          "lat": 40.0019,
-          "lon": 140.9749
         },
         {
           "name": "八幡平リゾート (Hachimantai)",
