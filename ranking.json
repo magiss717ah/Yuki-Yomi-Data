@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-03T23:26:37.740Z",
+  "updated_at": "2026-02-04T01:55:03.963Z",
   "dates": [
     {
       "date": "2026-02-05",
@@ -7,10 +7,17 @@
       "rankings": [
         {
           "name": "月山スキー場 (Gassan)",
-          "snow": 2.4,
+          "snow": 2.5,
           "prefecture": "山形県",
           "lat": 38.51892,
           "lon": 140.00662
+        },
+        {
+          "name": "八幡平リゾート (Hachimantai)",
+          "snow": 0.3,
+          "prefecture": "岩手県",
+          "lat": 39.9075,
+          "lon": 141.0264
         },
         {
           "name": "安比高原スキー場 (Appi Kogen)",
@@ -20,11 +27,11 @@
           "lon": 140.9749
         },
         {
-          "name": "八幡平リゾート (Hachimantai)",
+          "name": "スプリングバレー仙台泉 (Spring Valley)",
           "snow": 0.1,
-          "prefecture": "岩手県",
-          "lat": 39.9075,
-          "lon": 141.0264
+          "prefecture": "宮城県",
+          "lat": 38.423,
+          "lon": 140.7226
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -158,13 +165,6 @@
           "prefecture": "宮城県",
           "lat": 38.1257,
           "lon": 140.5422
-        },
-        {
-          "name": "スプリングバレー仙台泉 (Spring Valley)",
-          "snow": 0,
-          "prefecture": "宮城県",
-          "lat": 38.423,
-          "lon": 140.7226
         },
         {
           "name": "オニコウベスキー場 (Onikoube)",
@@ -950,18 +950,18 @@
           "lon": 140.354
         },
         {
+          "name": "安比高原スキー場 (Appi Kogen)",
+          "snow": 0.4,
+          "prefecture": "岩手県",
+          "lat": 40.0019,
+          "lon": 140.9749
+        },
+        {
           "name": "大雪山旭岳ロープウェイ (Asahidake)",
           "snow": 0.3,
           "prefecture": "北海道",
           "lat": 43.6542,
           "lon": 142.7964
-        },
-        {
-          "name": "安比高原スキー場 (Appi Kogen)",
-          "snow": 0.3,
-          "prefecture": "岩手県",
-          "lat": 40.0019,
-          "lon": 140.9749
         },
         {
           "name": "八幡平リゾート (Hachimantai)",
