@@ -1,17 +1,10 @@
 {
-  "updated_at": "2026-02-23T14:43:03.963Z",
+  "updated_at": "2026-02-23T15:43:05.159Z",
   "dates": [
     {
       "date": "2026-02-24",
       "display_date": "2/24 (火)",
       "rankings": [
-        {
-          "name": "富良野スキー場 (Furano)",
-          "snow": 0.1,
-          "prefecture": "北海道",
-          "lat": 43.3243,
-          "lon": 142.3456
-        },
         {
           "name": "サッポロテイネ (Sapporo Teine)",
           "snow": 0.1,
@@ -39,6 +32,13 @@
           "prefecture": "北海道",
           "lat": 42.7533,
           "lon": 140.9029
+        },
+        {
+          "name": "富良野スキー場 (Furano)",
+          "snow": 0,
+          "prefecture": "北海道",
+          "lat": 43.3243,
+          "lon": 142.3456
         },
         {
           "name": "キロロスノーワールド (Kiroro)",
