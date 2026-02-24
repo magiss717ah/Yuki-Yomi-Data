@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-24T21:32:52.861Z",
+  "updated_at": "2026-02-24T22:31:50.050Z",
   "dates": [
     {
       "date": "2026-02-25",
@@ -2545,31 +2545,45 @@
       "rankings": [
         {
           "name": "富良野スキー場 (Furano)",
-          "snow": 8.8,
+          "snow": 2.7,
           "prefecture": "北海道",
           "lat": 43.3243,
           "lon": 142.3456
         },
         {
-          "name": "サホロリゾート (Sahoro)",
-          "snow": 2.8,
+          "name": "カムイスキーリンクス (Kamui)",
+          "snow": 1.6,
           "prefecture": "北海道",
-          "lat": 43.1749,
-          "lon": 142.8076
+          "lat": 43.6444,
+          "lon": 142.2283
         },
         {
           "name": "トマムスキー場 (Tomamu)",
-          "snow": 2.5,
+          "snow": 0.9,
           "prefecture": "北海道",
           "lat": 43.0628,
           "lon": 142.6322
         },
         {
+          "name": "サホロリゾート (Sahoro)",
+          "snow": 0.9,
+          "prefecture": "北海道",
+          "lat": 43.1749,
+          "lon": 142.8076
+        },
+        {
           "name": "サッポロテイネ (Sapporo Teine)",
-          "snow": 0.5,
+          "snow": 0.8,
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
+        },
+        {
+          "name": "キロロスノーワールド (Kiroro)",
+          "snow": 0.4,
+          "prefecture": "北海道",
+          "lat": 43.0722,
+          "lon": 140.9781
         },
         {
           "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
@@ -2579,18 +2593,11 @@
           "lon": 140.482
         },
         {
-          "name": "キロロスノーワールド (Kiroro)",
-          "snow": 0.2,
+          "name": "札幌国際スキー場 (Sapporo Kokusai)",
+          "snow": 0.1,
           "prefecture": "北海道",
-          "lat": 43.0722,
-          "lon": 140.9781
-        },
-        {
-          "name": "カムイスキーリンクス (Kamui)",
-          "snow": 0.2,
-          "prefecture": "北海道",
-          "lat": 43.6444,
-          "lon": 142.2283
+          "lat": 43.0724,
+          "lon": 141.0827
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -2605,13 +2612,6 @@
           "prefecture": "北海道",
           "lat": 42.7533,
           "lon": 140.9029
-        },
-        {
-          "name": "札幌国際スキー場 (Sapporo Kokusai)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.0724,
-          "lon": 141.0827
         },
         {
           "name": "ニセコモイワスキー場 (Niseko Moiwa)",
@@ -3390,20 +3390,6 @@
       "display_date": "3/1 (日)",
       "rankings": [
         {
-          "name": "サッポロテイネ (Sapporo Teine)",
-          "snow": 0.6,
-          "prefecture": "北海道",
-          "lat": 43.0973,
-          "lon": 141.2044
-        },
-        {
-          "name": "大雪山旭岳ロープウェイ (Asahidake)",
-          "snow": 0.6,
-          "prefecture": "北海道",
-          "lat": 43.6542,
-          "lon": 142.7964
-        },
-        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -3446,6 +3432,13 @@
           "lon": 142.6322
         },
         {
+          "name": "サッポロテイネ (Sapporo Teine)",
+          "snow": 0,
+          "prefecture": "北海道",
+          "lat": 43.0973,
+          "lon": 141.2044
+        },
+        {
           "name": "カムイスキーリンクス (Kamui)",
           "snow": 0,
           "prefecture": "北海道",
@@ -3465,6 +3458,13 @@
           "prefecture": "北海道",
           "lat": 42.855,
           "lon": 140.638
+        },
+        {
+          "name": "大雪山旭岳ロープウェイ (Asahidake)",
+          "snow": 0,
+          "prefecture": "北海道",
+          "lat": 43.6542,
+          "lon": 142.7964
         },
         {
           "name": "八甲田スキー場 (Hakkoda)",
