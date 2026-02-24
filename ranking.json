@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-23T23:33:10.407Z",
+  "updated_at": "2026-02-24T01:58:22.270Z",
   "dates": [
     {
       "date": "2026-02-25",
@@ -7,66 +7,59 @@
       "rankings": [
         {
           "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
-          "snow": 7.6,
+          "snow": 9.2,
           "prefecture": "宮城県",
           "lat": 38.125,
           "lon": 140.482
         },
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 6.4,
+          "snow": 6,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
         },
         {
-          "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 6,
-          "prefecture": "青森県",
-          "lat": 40.6868,
-          "lon": 140.8654
-        },
-        {
-          "name": "大鰐温泉スキー場 (Owani Onsen)",
-          "snow": 6,
-          "prefecture": "青森県",
-          "lat": 40.505,
-          "lon": 140.556
-        },
-        {
           "name": "モヤヒルズ (Moya Hills)",
-          "snow": 5.7,
+          "snow": 5.5,
           "prefecture": "青森県",
           "lat": 40.7275,
           "lon": 140.8033
         },
         {
-          "name": "月山スキー場 (Gassan)",
-          "snow": 5.2,
-          "prefecture": "山形県",
-          "lat": 38.51892,
-          "lon": 140.00662
+          "name": "八甲田スキー場 (Hakkoda)",
+          "snow": 4.8,
+          "prefecture": "青森県",
+          "lat": 40.6868,
+          "lon": 140.8654
         },
         {
           "name": "青森スプリング (Aomori Spring)",
-          "snow": 3.5,
+          "snow": 4.8,
           "prefecture": "青森県",
           "lat": 40.7303,
           "lon": 140.2479
         },
         {
-          "name": "安比高原スキー場 (Appi Kogen)",
-          "snow": 3.2,
-          "prefecture": "岩手県",
-          "lat": 40.0019,
-          "lon": 140.9749
+          "name": "大鰐温泉スキー場 (Owani Onsen)",
+          "snow": 4.3,
+          "prefecture": "青森県",
+          "lat": 40.505,
+          "lon": 140.556
         },
         {
           "name": "阿仁スキー場 (Ani)",
-          "snow": 3,
+          "snow": 4.3,
           "prefecture": "秋田県",
           "lat": 39.953,
           "lon": 140.354
+        },
+        {
+          "name": "安比高原スキー場 (Appi Kogen)",
+          "snow": 2.5,
+          "prefecture": "岩手県",
+          "lat": 40.0019,
+          "lon": 140.9749
         },
         {
           "name": "八幡平リゾート (Hachimantai)",
@@ -76,18 +69,18 @@
           "lon": 141.0264
         },
         {
+          "name": "月山スキー場 (Gassan)",
+          "snow": 2.1,
+          "prefecture": "山形県",
+          "lat": 38.51892,
+          "lon": 140.00662
+        },
+        {
           "name": "白馬乗鞍温泉スキー場 (Norikura)",
-          "snow": 1.9,
+          "snow": 1.6,
           "prefecture": "長野県",
           "lat": 36.775,
           "lon": 137.865
-        },
-        {
-          "name": "白馬コルチナスキー場 (Cortina)",
-          "snow": 0.5,
-          "prefecture": "長野県",
-          "lat": 36.785,
-          "lon": 137.885
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -531,6 +524,13 @@
           "lon": 138.6339
         },
         {
+          "name": "白馬コルチナスキー場 (Cortina)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.785,
+          "lon": 137.885
+        },
+        {
           "name": "白馬岩岳スノーフィールド (Iwatake)",
           "snow": 0,
           "prefecture": "長野県",
@@ -852,32 +852,11 @@
       "display_date": "2/26 (木)",
       "rankings": [
         {
-          "name": "みやぎ蔵王えぼし (Eboshi)",
+          "name": "万座温泉スキー場 (Manza Onsen)",
           "snow": 0.1,
-          "prefecture": "宮城県",
-          "lat": 38.1257,
-          "lon": 140.5422
-        },
-        {
-          "name": "ハンターマウンテン塩原 (Hunter Mt)",
-          "snow": 0.1,
-          "prefecture": "栃木県",
-          "lat": 36.9377,
-          "lon": 139.7744
-        },
-        {
-          "name": "マウントジーンズ那須 (Mt.JEANS)",
-          "snow": 0.1,
-          "prefecture": "栃木県",
-          "lat": 37.1264,
-          "lon": 139.988
-        },
-        {
-          "name": "エーデルワイススキーリゾート (Edelweiss)",
-          "snow": 0.1,
-          "prefecture": "栃木県",
-          "lat": 36.932,
-          "lon": 139.755
+          "prefecture": "群馬県",
+          "lat": 36.6341,
+          "lon": 138.5133
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -1020,6 +999,13 @@
           "lon": 140.98
         },
         {
+          "name": "みやぎ蔵王えぼし (Eboshi)",
+          "snow": 0,
+          "prefecture": "宮城県",
+          "lat": 38.1257,
+          "lon": 140.5422
+        },
+        {
           "name": "スプリングバレー仙台泉 (Spring Valley)",
           "snow": 0,
           "prefecture": "宮城県",
@@ -1139,6 +1125,27 @@
           "lon": 139.705
         },
         {
+          "name": "ハンターマウンテン塩原 (Hunter Mt)",
+          "snow": 0,
+          "prefecture": "栃木県",
+          "lat": 36.9377,
+          "lon": 139.7744
+        },
+        {
+          "name": "マウントジーンズ那須 (Mt.JEANS)",
+          "snow": 0,
+          "prefecture": "栃木県",
+          "lat": 37.1264,
+          "lon": 139.988
+        },
+        {
+          "name": "エーデルワイススキーリゾート (Edelweiss)",
+          "snow": 0,
+          "prefecture": "栃木県",
+          "lat": 36.932,
+          "lon": 139.755
+        },
+        {
           "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
           "snow": 0,
           "prefecture": "栃木県",
@@ -1165,13 +1172,6 @@
           "prefecture": "群馬県",
           "lat": 36.7867,
           "lon": 139.0667
-        },
-        {
-          "name": "万座温泉スキー場 (Manza Onsen)",
-          "snow": 0,
-          "prefecture": "群馬県",
-          "lat": 36.6341,
-          "lon": 138.5133
         },
         {
           "name": "ノルン水上スキー場 (Norn Minakami)",
