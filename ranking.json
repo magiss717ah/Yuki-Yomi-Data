@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-25T17:16:16.028Z",
+  "updated_at": "2026-02-25T19:04:18.458Z",
   "dates": [
     {
       "date": "2026-02-26",
@@ -852,13 +852,6 @@
       "display_date": "2/27 (金)",
       "rankings": [
         {
-          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
-          "snow": 0.1,
-          "prefecture": "宮城県",
-          "lat": 38.125,
-          "lon": 140.482
-        },
-        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -1018,6 +1011,13 @@
           "prefecture": "宮城県",
           "lat": 38.802,
           "lon": 140.645
+        },
+        {
+          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
+          "snow": 0,
+          "prefecture": "宮城県",
+          "lat": 38.125,
+          "lon": 140.482
         },
         {
           "name": "たざわ湖スキー場 (Tazawako)",
