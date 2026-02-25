@@ -1,34 +1,41 @@
 {
-  "updated_at": "2026-02-25T10:49:45.373Z",
+  "updated_at": "2026-02-25T11:39:01.978Z",
   "dates": [
     {
       "date": "2026-02-26",
       "display_date": "2/26 (木)",
       "rankings": [
         {
-          "name": "マウントジーンズ那須 (Mt.JEANS)",
-          "snow": 1.2,
-          "prefecture": "栃木県",
-          "lat": 37.1264,
-          "lon": 139.988
-        },
-        {
           "name": "箕輪スキー場 (Minowa)",
-          "snow": 0.9,
+          "snow": 0.8,
           "prefecture": "福島県",
           "lat": 37.64,
           "lon": 140.23
         },
         {
           "name": "沼尻スキー場 (Numajiri)",
-          "snow": 0.9,
+          "snow": 0.8,
           "prefecture": "福島県",
           "lat": 37.625,
           "lon": 140.245
         },
         {
+          "name": "マウントジーンズ那須 (Mt.JEANS)",
+          "snow": 0.8,
+          "prefecture": "栃木県",
+          "lat": 37.1264,
+          "lon": 139.988
+        },
+        {
+          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
+          "snow": 0.1,
+          "prefecture": "宮城県",
+          "lat": 38.125,
+          "lon": 140.482
+        },
+        {
           "name": "ハンターマウンテン塩原 (Hunter Mt)",
-          "snow": 0.3,
+          "snow": 0.1,
           "prefecture": "栃木県",
           "lat": 36.9377,
           "lon": 139.7744
@@ -207,13 +214,6 @@
           "prefecture": "宮城県",
           "lat": 38.802,
           "lon": 140.645
-        },
-        {
-          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
-          "snow": 0,
-          "prefecture": "宮城県",
-          "lat": 38.125,
-          "lon": 140.482
         },
         {
           "name": "たざわ湖スキー場 (Tazawako)",
@@ -853,7 +853,7 @@
       "rankings": [
         {
           "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
-          "snow": 0.4,
+          "snow": 0.1,
           "prefecture": "宮城県",
           "lat": 38.125,
           "lon": 140.482
