@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-26T05:56:26.600Z",
+  "updated_at": "2026-02-26T07:01:56.706Z",
   "dates": [
     {
       "date": "2026-02-27",
@@ -894,13 +894,6 @@
           "lon": 140.9781
         },
         {
-          "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0.8,
-          "prefecture": "青森県",
-          "lat": 40.6868,
-          "lon": 140.8654
-        },
-        {
           "name": "トマムスキー場 (Tomamu)",
           "snow": 0.4,
           "prefecture": "北海道",
@@ -941,6 +934,13 @@
           "prefecture": "北海道",
           "lat": 43.6542,
           "lon": 142.7964
+        },
+        {
+          "name": "八甲田スキー場 (Hakkoda)",
+          "snow": 0,
+          "prefecture": "青森県",
+          "lat": 40.6868,
+          "lon": 140.8654
         },
         {
           "name": "青森スプリング (Aomori Spring)",
