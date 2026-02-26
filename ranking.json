@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-26T17:56:26.892Z",
+  "updated_at": "2026-02-26T18:54:14.910Z",
   "dates": [
     {
       "date": "2026-02-27",
@@ -881,10 +881,17 @@
         },
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 2.5,
+          "snow": 2,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
+        },
+        {
+          "name": "万座温泉スキー場 (Manza Onsen)",
+          "snow": 1.5,
+          "prefecture": "群馬県",
+          "lat": 36.6341,
+          "lon": 138.5133
         },
         {
           "name": "サッポロテイネ (Sapporo Teine)",
@@ -906,13 +913,6 @@
           "prefecture": "北海道",
           "lat": 43.0724,
           "lon": 141.0827
-        },
-        {
-          "name": "万座温泉スキー場 (Manza Onsen)",
-          "snow": 0.4,
-          "prefecture": "群馬県",
-          "lat": 36.6341,
-          "lon": 138.5133
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
