@@ -1,17 +1,10 @@
 {
-  "updated_at": "2026-02-25T23:29:30.907Z",
+  "updated_at": "2026-02-26T01:56:06.328Z",
   "dates": [
     {
       "date": "2026-02-27",
       "display_date": "2/27 (金)",
       "rankings": [
-        {
-          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
-          "snow": 0.1,
-          "prefecture": "宮城県",
-          "lat": 38.125,
-          "lon": 140.482
-        },
         {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
@@ -172,6 +165,13 @@
           "prefecture": "宮城県",
           "lat": 38.802,
           "lon": 140.645
+        },
+        {
+          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
+          "snow": 0,
+          "prefecture": "宮城県",
+          "lat": 38.125,
+          "lon": 140.482
         },
         {
           "name": "たざわ湖スキー場 (Tazawako)",
@@ -704,6 +704,146 @@
           "prefecture": "石川県",
           "lat": 36.3472,
           "lon": 136.6789
+        },
+        {
+          "name": "白山一里野温泉スキー場 (Ichirino)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.2683,
+          "lon": 136.715
+        },
+        {
+          "name": "金沢市営医王山スキー場 (Iozen)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.48,
+          "lon": 136.7
+        },
+        {
+          "name": "立山山麓スキー場 (Tateyama Sanroku)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5747,
+          "lon": 137.417
+        },
+        {
+          "name": "IOX-AROSA (イオックスアローザ)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5149,
+          "lon": 136.8209
+        },
+        {
+          "name": "牛岳温泉スキー場 (Ushidake Onsen)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5737,
+          "lon": 137.057
+        },
+        {
+          "name": "たいらスキー場 (Taira)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.45,
+          "lon": 136.95
+        },
+        {
+          "name": "びわ湖バレイ (Biwako Valley)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.203,
+          "lon": 135.907
+        },
+        {
+          "name": "グランスノー奥伊吹 (Okuibuki)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.522,
+          "lon": 136.3872
+        },
+        {
+          "name": "箱館山スキー場 (Hakodateyama)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.455,
+          "lon": 136.035
+        },
+        {
+          "name": "ハチ北高原スキー場 (Hachi Kita)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4045,
+          "lon": 134.558
+        },
+        {
+          "name": "スカイバレースキー場 (Sky Valley)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4489,
+          "lon": 134.5458
+        },
+        {
+          "name": "おじろスキー場 (Ojiro)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.425,
+          "lon": 134.585
+        },
+        {
+          "name": "ちくさ高原スキー場 (Chikusa)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.185,
+          "lon": 134.455
+        },
+        {
+          "name": "峰山高原リゾート (Mineyama)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.155,
+          "lon": 134.705
+        },
+        {
+          "name": "氷ノ山国際スキー場 (Hyonosen)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.355,
+          "lon": 134.525
+        },
+        {
+          "name": "恐羅漢スノーパーク (Osorakan)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.5957,
+          "lon": 132.1466
+        },
+        {
+          "name": "めがひらスキー場 (Megahira)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.4533,
+          "lon": 132.1158
+        },
+        {
+          "name": "芸北高原大佐スキー場 (Osa)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.7479,
+          "lon": 132.2203
+        },
+        {
+          "name": "ユートピアサイオト (Saioto)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.725,
+          "lon": 132.355
+        },
+        {
+          "name": "やわたハイランド191 (Yawata)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.6946,
+          "lon": 132.16
         }
       ]
     },
@@ -769,7 +909,7 @@
         },
         {
           "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0.8,
+          "snow": 1.1,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
@@ -780,6 +920,13 @@
           "prefecture": "北海道",
           "lat": 42.855,
           "lon": 140.638
+        },
+        {
+          "name": "安比高原スキー場 (Appi Kogen)",
+          "snow": 0.1,
+          "prefecture": "岩手県",
+          "lat": 40.0019,
+          "lon": 140.9749
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -822,13 +969,6 @@
           "prefecture": "青森県",
           "lat": 40.505,
           "lon": 140.556
-        },
-        {
-          "name": "安比高原スキー場 (Appi Kogen)",
-          "snow": 0,
-          "prefecture": "岩手県",
-          "lat": 40.0019,
-          "lon": 140.9749
         },
         {
           "name": "夏油高原スキー場 (Geto Kogen)",
@@ -1410,6 +1550,146 @@
           "prefecture": "石川県",
           "lat": 36.3472,
           "lon": 136.6789
+        },
+        {
+          "name": "白山一里野温泉スキー場 (Ichirino)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.2683,
+          "lon": 136.715
+        },
+        {
+          "name": "金沢市営医王山スキー場 (Iozen)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.48,
+          "lon": 136.7
+        },
+        {
+          "name": "立山山麓スキー場 (Tateyama Sanroku)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5747,
+          "lon": 137.417
+        },
+        {
+          "name": "IOX-AROSA (イオックスアローザ)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5149,
+          "lon": 136.8209
+        },
+        {
+          "name": "牛岳温泉スキー場 (Ushidake Onsen)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5737,
+          "lon": 137.057
+        },
+        {
+          "name": "たいらスキー場 (Taira)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.45,
+          "lon": 136.95
+        },
+        {
+          "name": "びわ湖バレイ (Biwako Valley)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.203,
+          "lon": 135.907
+        },
+        {
+          "name": "グランスノー奥伊吹 (Okuibuki)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.522,
+          "lon": 136.3872
+        },
+        {
+          "name": "箱館山スキー場 (Hakodateyama)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.455,
+          "lon": 136.035
+        },
+        {
+          "name": "ハチ北高原スキー場 (Hachi Kita)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4045,
+          "lon": 134.558
+        },
+        {
+          "name": "スカイバレースキー場 (Sky Valley)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4489,
+          "lon": 134.5458
+        },
+        {
+          "name": "おじろスキー場 (Ojiro)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.425,
+          "lon": 134.585
+        },
+        {
+          "name": "ちくさ高原スキー場 (Chikusa)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.185,
+          "lon": 134.455
+        },
+        {
+          "name": "峰山高原リゾート (Mineyama)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.155,
+          "lon": 134.705
+        },
+        {
+          "name": "氷ノ山国際スキー場 (Hyonosen)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.355,
+          "lon": 134.525
+        },
+        {
+          "name": "恐羅漢スノーパーク (Osorakan)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.5957,
+          "lon": 132.1466
+        },
+        {
+          "name": "めがひらスキー場 (Megahira)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.4533,
+          "lon": 132.1158
+        },
+        {
+          "name": "芸北高原大佐スキー場 (Osa)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.7479,
+          "lon": 132.2203
+        },
+        {
+          "name": "ユートピアサイオト (Saioto)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.725,
+          "lon": 132.355
+        },
+        {
+          "name": "やわたハイランド191 (Yawata)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.6946,
+          "lon": 132.16
         }
       ]
     },
@@ -2116,6 +2396,146 @@
           "prefecture": "石川県",
           "lat": 36.3472,
           "lon": 136.6789
+        },
+        {
+          "name": "白山一里野温泉スキー場 (Ichirino)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.2683,
+          "lon": 136.715
+        },
+        {
+          "name": "金沢市営医王山スキー場 (Iozen)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.48,
+          "lon": 136.7
+        },
+        {
+          "name": "立山山麓スキー場 (Tateyama Sanroku)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5747,
+          "lon": 137.417
+        },
+        {
+          "name": "IOX-AROSA (イオックスアローザ)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5149,
+          "lon": 136.8209
+        },
+        {
+          "name": "牛岳温泉スキー場 (Ushidake Onsen)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5737,
+          "lon": 137.057
+        },
+        {
+          "name": "たいらスキー場 (Taira)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.45,
+          "lon": 136.95
+        },
+        {
+          "name": "びわ湖バレイ (Biwako Valley)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.203,
+          "lon": 135.907
+        },
+        {
+          "name": "グランスノー奥伊吹 (Okuibuki)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.522,
+          "lon": 136.3872
+        },
+        {
+          "name": "箱館山スキー場 (Hakodateyama)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.455,
+          "lon": 136.035
+        },
+        {
+          "name": "ハチ北高原スキー場 (Hachi Kita)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4045,
+          "lon": 134.558
+        },
+        {
+          "name": "スカイバレースキー場 (Sky Valley)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4489,
+          "lon": 134.5458
+        },
+        {
+          "name": "おじろスキー場 (Ojiro)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.425,
+          "lon": 134.585
+        },
+        {
+          "name": "ちくさ高原スキー場 (Chikusa)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.185,
+          "lon": 134.455
+        },
+        {
+          "name": "峰山高原リゾート (Mineyama)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.155,
+          "lon": 134.705
+        },
+        {
+          "name": "氷ノ山国際スキー場 (Hyonosen)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.355,
+          "lon": 134.525
+        },
+        {
+          "name": "恐羅漢スノーパーク (Osorakan)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.5957,
+          "lon": 132.1466
+        },
+        {
+          "name": "めがひらスキー場 (Megahira)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.4533,
+          "lon": 132.1158
+        },
+        {
+          "name": "芸北高原大佐スキー場 (Osa)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.7479,
+          "lon": 132.2203
+        },
+        {
+          "name": "ユートピアサイオト (Saioto)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.725,
+          "lon": 132.355
+        },
+        {
+          "name": "やわたハイランド191 (Yawata)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.6946,
+          "lon": 132.16
         }
       ]
     },
@@ -2822,6 +3242,146 @@
           "prefecture": "石川県",
           "lat": 36.3472,
           "lon": 136.6789
+        },
+        {
+          "name": "白山一里野温泉スキー場 (Ichirino)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.2683,
+          "lon": 136.715
+        },
+        {
+          "name": "金沢市営医王山スキー場 (Iozen)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.48,
+          "lon": 136.7
+        },
+        {
+          "name": "立山山麓スキー場 (Tateyama Sanroku)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5747,
+          "lon": 137.417
+        },
+        {
+          "name": "IOX-AROSA (イオックスアローザ)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5149,
+          "lon": 136.8209
+        },
+        {
+          "name": "牛岳温泉スキー場 (Ushidake Onsen)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5737,
+          "lon": 137.057
+        },
+        {
+          "name": "たいらスキー場 (Taira)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.45,
+          "lon": 136.95
+        },
+        {
+          "name": "びわ湖バレイ (Biwako Valley)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.203,
+          "lon": 135.907
+        },
+        {
+          "name": "グランスノー奥伊吹 (Okuibuki)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.522,
+          "lon": 136.3872
+        },
+        {
+          "name": "箱館山スキー場 (Hakodateyama)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.455,
+          "lon": 136.035
+        },
+        {
+          "name": "ハチ北高原スキー場 (Hachi Kita)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4045,
+          "lon": 134.558
+        },
+        {
+          "name": "スカイバレースキー場 (Sky Valley)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4489,
+          "lon": 134.5458
+        },
+        {
+          "name": "おじろスキー場 (Ojiro)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.425,
+          "lon": 134.585
+        },
+        {
+          "name": "ちくさ高原スキー場 (Chikusa)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.185,
+          "lon": 134.455
+        },
+        {
+          "name": "峰山高原リゾート (Mineyama)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.155,
+          "lon": 134.705
+        },
+        {
+          "name": "氷ノ山国際スキー場 (Hyonosen)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.355,
+          "lon": 134.525
+        },
+        {
+          "name": "恐羅漢スノーパーク (Osorakan)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.5957,
+          "lon": 132.1466
+        },
+        {
+          "name": "めがひらスキー場 (Megahira)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.4533,
+          "lon": 132.1158
+        },
+        {
+          "name": "芸北高原大佐スキー場 (Osa)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.7479,
+          "lon": 132.2203
+        },
+        {
+          "name": "ユートピアサイオト (Saioto)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.725,
+          "lon": 132.355
+        },
+        {
+          "name": "やわたハイランド191 (Yawata)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.6946,
+          "lon": 132.16
         }
       ]
     },
@@ -3528,6 +4088,146 @@
           "prefecture": "石川県",
           "lat": 36.3472,
           "lon": 136.6789
+        },
+        {
+          "name": "白山一里野温泉スキー場 (Ichirino)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.2683,
+          "lon": 136.715
+        },
+        {
+          "name": "金沢市営医王山スキー場 (Iozen)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.48,
+          "lon": 136.7
+        },
+        {
+          "name": "立山山麓スキー場 (Tateyama Sanroku)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5747,
+          "lon": 137.417
+        },
+        {
+          "name": "IOX-AROSA (イオックスアローザ)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5149,
+          "lon": 136.8209
+        },
+        {
+          "name": "牛岳温泉スキー場 (Ushidake Onsen)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5737,
+          "lon": 137.057
+        },
+        {
+          "name": "たいらスキー場 (Taira)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.45,
+          "lon": 136.95
+        },
+        {
+          "name": "びわ湖バレイ (Biwako Valley)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.203,
+          "lon": 135.907
+        },
+        {
+          "name": "グランスノー奥伊吹 (Okuibuki)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.522,
+          "lon": 136.3872
+        },
+        {
+          "name": "箱館山スキー場 (Hakodateyama)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.455,
+          "lon": 136.035
+        },
+        {
+          "name": "ハチ北高原スキー場 (Hachi Kita)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4045,
+          "lon": 134.558
+        },
+        {
+          "name": "スカイバレースキー場 (Sky Valley)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4489,
+          "lon": 134.5458
+        },
+        {
+          "name": "おじろスキー場 (Ojiro)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.425,
+          "lon": 134.585
+        },
+        {
+          "name": "ちくさ高原スキー場 (Chikusa)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.185,
+          "lon": 134.455
+        },
+        {
+          "name": "峰山高原リゾート (Mineyama)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.155,
+          "lon": 134.705
+        },
+        {
+          "name": "氷ノ山国際スキー場 (Hyonosen)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.355,
+          "lon": 134.525
+        },
+        {
+          "name": "恐羅漢スノーパーク (Osorakan)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.5957,
+          "lon": 132.1466
+        },
+        {
+          "name": "めがひらスキー場 (Megahira)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.4533,
+          "lon": 132.1158
+        },
+        {
+          "name": "芸北高原大佐スキー場 (Osa)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.7479,
+          "lon": 132.2203
+        },
+        {
+          "name": "ユートピアサイオト (Saioto)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.725,
+          "lon": 132.355
+        },
+        {
+          "name": "やわたハイランド191 (Yawata)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.6946,
+          "lon": 132.16
         }
       ]
     },
@@ -4234,6 +4934,146 @@
           "prefecture": "石川県",
           "lat": 36.3472,
           "lon": 136.6789
+        },
+        {
+          "name": "白山一里野温泉スキー場 (Ichirino)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.2683,
+          "lon": 136.715
+        },
+        {
+          "name": "金沢市営医王山スキー場 (Iozen)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.48,
+          "lon": 136.7
+        },
+        {
+          "name": "立山山麓スキー場 (Tateyama Sanroku)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5747,
+          "lon": 137.417
+        },
+        {
+          "name": "IOX-AROSA (イオックスアローザ)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5149,
+          "lon": 136.8209
+        },
+        {
+          "name": "牛岳温泉スキー場 (Ushidake Onsen)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5737,
+          "lon": 137.057
+        },
+        {
+          "name": "たいらスキー場 (Taira)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.45,
+          "lon": 136.95
+        },
+        {
+          "name": "びわ湖バレイ (Biwako Valley)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.203,
+          "lon": 135.907
+        },
+        {
+          "name": "グランスノー奥伊吹 (Okuibuki)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.522,
+          "lon": 136.3872
+        },
+        {
+          "name": "箱館山スキー場 (Hakodateyama)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.455,
+          "lon": 136.035
+        },
+        {
+          "name": "ハチ北高原スキー場 (Hachi Kita)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4045,
+          "lon": 134.558
+        },
+        {
+          "name": "スカイバレースキー場 (Sky Valley)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4489,
+          "lon": 134.5458
+        },
+        {
+          "name": "おじろスキー場 (Ojiro)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.425,
+          "lon": 134.585
+        },
+        {
+          "name": "ちくさ高原スキー場 (Chikusa)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.185,
+          "lon": 134.455
+        },
+        {
+          "name": "峰山高原リゾート (Mineyama)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.155,
+          "lon": 134.705
+        },
+        {
+          "name": "氷ノ山国際スキー場 (Hyonosen)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.355,
+          "lon": 134.525
+        },
+        {
+          "name": "恐羅漢スノーパーク (Osorakan)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.5957,
+          "lon": 132.1466
+        },
+        {
+          "name": "めがひらスキー場 (Megahira)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.4533,
+          "lon": 132.1158
+        },
+        {
+          "name": "芸北高原大佐スキー場 (Osa)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.7479,
+          "lon": 132.2203
+        },
+        {
+          "name": "ユートピアサイオト (Saioto)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.725,
+          "lon": 132.355
+        },
+        {
+          "name": "やわたハイランド191 (Yawata)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.6946,
+          "lon": 132.16
         }
       ]
     },
@@ -4241,13 +5081,6 @@
       "date": "2026-03-05",
       "display_date": "3/5 (木)",
       "rankings": [
-        {
-          "name": "白馬乗鞍温泉スキー場 (Norikura)",
-          "snow": 18.9,
-          "prefecture": "長野県",
-          "lat": 36.775,
-          "lon": 137.865
-        },
         {
           "name": "白馬八方尾根スキー場 (Hakuba Happo)",
           "snow": 18.8,
@@ -4261,6 +5094,13 @@
           "prefecture": "長野県",
           "lat": 36.785,
           "lon": 137.885
+        },
+        {
+          "name": "白馬乗鞍温泉スキー場 (Norikura)",
+          "snow": 18.8,
+          "prefecture": "長野県",
+          "lat": 36.775,
+          "lon": 137.865
         },
         {
           "name": "栂池高原スキー場 (Tsugaike)",
@@ -4306,7 +5146,7 @@
         },
         {
           "name": "白馬五竜スキー場 (Hakuba Goryu)",
-          "snow": 8.2,
+          "snow": 8.1,
           "prefecture": "長野県",
           "lat": 36.6572,
           "lon": 137.8306
@@ -4366,6 +5206,13 @@
           "prefecture": "群馬県",
           "lat": 36.84,
           "lon": 139.22
+        },
+        {
+          "name": "たいらスキー場 (Taira)",
+          "snow": 5.7,
+          "prefecture": "富山県",
+          "lat": 36.45,
+          "lon": 136.95
         },
         {
           "name": "川場スキー場 (Kawaba)",
@@ -4457,6 +5304,13 @@
           "prefecture": "岩手県",
           "lat": 39.715,
           "lon": 140.98
+        },
+        {
+          "name": "白山一里野温泉スキー場 (Ichirino)",
+          "snow": 3.3,
+          "prefecture": "石川県",
+          "lat": 36.2683,
+          "lon": 136.715
         },
         {
           "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
@@ -4600,14 +5454,14 @@
         },
         {
           "name": "サンメドウズ清里 (Sun Meadows)",
-          "snow": 0.9,
+          "snow": 0.8,
           "prefecture": "山梨県",
           "lat": 35.9381,
           "lon": 138.4069
         },
         {
           "name": "ほおのき平スキー場 (Honoki Daira)",
-          "snow": 0.9,
+          "snow": 0.8,
           "prefecture": "岐阜県",
           "lat": 36.1436,
           "lon": 137.4528
@@ -4635,7 +5489,7 @@
         },
         {
           "name": "車山高原SKYPARK (Kurumayama)",
-          "snow": 0.3,
+          "snow": 0.2,
           "prefecture": "長野県",
           "lat": 36.105,
           "lon": 138.205
@@ -4940,6 +5794,132 @@
           "prefecture": "石川県",
           "lat": 36.3472,
           "lon": 136.6789
+        },
+        {
+          "name": "金沢市営医王山スキー場 (Iozen)",
+          "snow": 0,
+          "prefecture": "石川県",
+          "lat": 36.48,
+          "lon": 136.7
+        },
+        {
+          "name": "立山山麓スキー場 (Tateyama Sanroku)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5747,
+          "lon": 137.417
+        },
+        {
+          "name": "IOX-AROSA (イオックスアローザ)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5149,
+          "lon": 136.8209
+        },
+        {
+          "name": "牛岳温泉スキー場 (Ushidake Onsen)",
+          "snow": 0,
+          "prefecture": "富山県",
+          "lat": 36.5737,
+          "lon": 137.057
+        },
+        {
+          "name": "びわ湖バレイ (Biwako Valley)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.203,
+          "lon": 135.907
+        },
+        {
+          "name": "グランスノー奥伊吹 (Okuibuki)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.522,
+          "lon": 136.3872
+        },
+        {
+          "name": "箱館山スキー場 (Hakodateyama)",
+          "snow": 0,
+          "prefecture": "滋賀県",
+          "lat": 35.455,
+          "lon": 136.035
+        },
+        {
+          "name": "ハチ北高原スキー場 (Hachi Kita)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4045,
+          "lon": 134.558
+        },
+        {
+          "name": "スカイバレースキー場 (Sky Valley)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.4489,
+          "lon": 134.5458
+        },
+        {
+          "name": "おじろスキー場 (Ojiro)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.425,
+          "lon": 134.585
+        },
+        {
+          "name": "ちくさ高原スキー場 (Chikusa)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.185,
+          "lon": 134.455
+        },
+        {
+          "name": "峰山高原リゾート (Mineyama)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.155,
+          "lon": 134.705
+        },
+        {
+          "name": "氷ノ山国際スキー場 (Hyonosen)",
+          "snow": 0,
+          "prefecture": "兵庫県",
+          "lat": 35.355,
+          "lon": 134.525
+        },
+        {
+          "name": "恐羅漢スノーパーク (Osorakan)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.5957,
+          "lon": 132.1466
+        },
+        {
+          "name": "めがひらスキー場 (Megahira)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.4533,
+          "lon": 132.1158
+        },
+        {
+          "name": "芸北高原大佐スキー場 (Osa)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.7479,
+          "lon": 132.2203
+        },
+        {
+          "name": "ユートピアサイオト (Saioto)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.725,
+          "lon": 132.355
+        },
+        {
+          "name": "やわたハイランド191 (Yawata)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.6946,
+          "lon": 132.16
         }
       ]
     }
