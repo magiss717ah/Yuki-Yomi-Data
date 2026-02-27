@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-27T14:50:16.773Z",
+  "updated_at": "2026-02-27T15:36:05.675Z",
   "dates": [
     {
       "date": "2026-02-28",
@@ -7,14 +7,14 @@
       "rankings": [
         {
           "name": "富良野スキー場 (Furano)",
-          "snow": 8.7,
+          "snow": 8.6,
           "prefecture": "北海道",
           "lat": 43.3243,
           "lon": 142.3456
         },
         {
           "name": "カムイスキーリンクス (Kamui)",
-          "snow": 8.1,
+          "snow": 8,
           "prefecture": "北海道",
           "lat": 43.6444,
           "lon": 142.2283
@@ -48,18 +48,18 @@
           "lon": 142.6322
         },
         {
-          "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0.5,
-          "prefecture": "青森県",
-          "lat": 40.6868,
-          "lon": 140.8654
-        },
-        {
           "name": "札幌国際スキー場 (Sapporo Kokusai)",
           "snow": 0.2,
           "prefecture": "北海道",
           "lat": 43.0724,
           "lon": 141.0827
+        },
+        {
+          "name": "八甲田スキー場 (Hakkoda)",
+          "snow": 0.2,
+          "prefecture": "青森県",
+          "lat": 40.6868,
+          "lon": 140.8654
         },
         {
           "name": "万座温泉スキー場 (Manza Onsen)",
