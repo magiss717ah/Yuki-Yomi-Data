@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-27T11:30:49.853Z",
+  "updated_at": "2026-02-27T12:55:37.166Z",
   "dates": [
     {
       "date": "2026-02-28",
@@ -27,6 +27,13 @@
           "lon": 141.2044
         },
         {
+          "name": "関温泉スキー場 (Seki Onsen)",
+          "snow": 2,
+          "prefecture": "新潟県",
+          "lat": 36.895,
+          "lon": 138.135
+        },
+        {
           "name": "サホロリゾート (Sahoro)",
           "snow": 1.9,
           "prefecture": "北海道",
@@ -34,25 +41,18 @@
           "lon": 142.8076
         },
         {
-          "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 1.7,
-          "prefecture": "新潟県",
-          "lat": 36.895,
-          "lon": 138.135
-        },
-        {
-          "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 1.4,
-          "prefecture": "青森県",
-          "lat": 40.6868,
-          "lon": 140.8654
-        },
-        {
           "name": "トマムスキー場 (Tomamu)",
           "snow": 0.8,
           "prefecture": "北海道",
           "lat": 43.0628,
           "lon": 142.6322
+        },
+        {
+          "name": "八甲田スキー場 (Hakkoda)",
+          "snow": 0.5,
+          "prefecture": "青森県",
+          "lat": 40.6868,
+          "lon": 140.8654
         },
         {
           "name": "札幌国際スキー場 (Sapporo Kokusai)",
@@ -908,6 +908,13 @@
           "lon": 142.8076
         },
         {
+          "name": "シャルマン火打スキー場 (Charmant)",
+          "snow": 0.1,
+          "prefecture": "新潟県",
+          "lat": 36.985,
+          "lon": 138.055
+        },
+        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -1277,13 +1284,6 @@
           "prefecture": "新潟県",
           "lat": 37.055,
           "lon": 138.955
-        },
-        {
-          "name": "シャルマン火打スキー場 (Charmant)",
-          "snow": 0,
-          "prefecture": "新潟県",
-          "lat": 36.985,
-          "lon": 138.055
         },
         {
           "name": "赤倉観光リゾート (Akakura)",
