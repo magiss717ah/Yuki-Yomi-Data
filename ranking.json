@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-28T12:41:29.346Z",
+  "updated_at": "2026-02-28T13:35:10.794Z",
   "dates": [
     {
       "date": "2026-03-01",
@@ -39,6 +39,13 @@
           "prefecture": "山形県",
           "lat": 38.51892,
           "lon": 140.00662
+        },
+        {
+          "name": "シャルマン火打スキー場 (Charmant)",
+          "snow": 0.3,
+          "prefecture": "新潟県",
+          "lat": 36.985,
+          "lon": 138.055
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -452,13 +459,6 @@
           "prefecture": "新潟県",
           "lat": 37.055,
           "lon": 138.955
-        },
-        {
-          "name": "シャルマン火打スキー場 (Charmant)",
-          "snow": 0,
-          "prefecture": "新潟県",
-          "lat": 36.985,
-          "lon": 138.055
         },
         {
           "name": "赤倉観光リゾート (Akakura)",
