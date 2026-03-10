@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T18:43:56.125Z",
+  "updated_at": "2026-03-10T19:37:03.802Z",
   "dates": [
     {
       "date": "2026-03-11",
@@ -11,6 +11,13 @@
           "prefecture": "北海道",
           "lat": 42.855,
           "lon": 140.638
+        },
+        {
+          "name": "八甲田スキー場 (Hakkoda)",
+          "snow": 0.1,
+          "prefecture": "青森県",
+          "lat": 40.6868,
+          "lon": 140.8654
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -81,13 +88,6 @@
           "prefecture": "北海道",
           "lat": 43.6542,
           "lon": 142.7964
-        },
-        {
-          "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0,
-          "prefecture": "青森県",
-          "lat": 40.6868,
-          "lon": 140.8654
         },
         {
           "name": "青森スプリング (Aomori Spring)",
@@ -853,10 +853,17 @@
       "rankings": [
         {
           "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 2.2,
+          "snow": 2.9,
           "prefecture": "山梨県",
           "lat": 35.4328,
           "lon": 138.6947
+        },
+        {
+          "name": "サンメドウズ清里 (Sun Meadows)",
+          "snow": 0.4,
+          "prefecture": "山梨県",
+          "lat": 35.9381,
+          "lon": 138.4069
         },
         {
           "name": "サッポロテイネ (Sapporo Teine)",
@@ -864,13 +871,6 @@
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
-        },
-        {
-          "name": "サンメドウズ清里 (Sun Meadows)",
-          "snow": 0.1,
-          "prefecture": "山梨県",
-          "lat": 35.9381,
-          "lon": 138.4069
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
