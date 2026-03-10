@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T11:31:33.934Z",
+  "updated_at": "2026-03-10T12:56:55.389Z",
   "dates": [
     {
       "date": "2026-03-11",
@@ -7,24 +7,17 @@
       "rankings": [
         {
           "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0.7,
+          "snow": 0.6,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
         },
         {
-          "name": "青森スプリング (Aomori Spring)",
-          "snow": 0.4,
-          "prefecture": "青森県",
-          "lat": 40.7303,
-          "lon": 140.2479
-        },
-        {
-          "name": "会津高原だいくらスキー場 (Daikura)",
-          "snow": 0.4,
-          "prefecture": "福島県",
-          "lat": 37.155,
-          "lon": 139.705
+          "name": "シャルマン火打スキー場 (Charmant)",
+          "snow": 0.3,
+          "prefecture": "新潟県",
+          "lat": 36.985,
+          "lon": 138.055
         },
         {
           "name": "キロロスノーワールド (Kiroro)",
@@ -48,32 +41,11 @@
           "lon": 140.638
         },
         {
-          "name": "モヤヒルズ (Moya Hills)",
+          "name": "青森スプリング (Aomori Spring)",
           "snow": 0.2,
           "prefecture": "青森県",
-          "lat": 40.7275,
-          "lon": 140.8033
-        },
-        {
-          "name": "星野リゾート ネコマ マウンテン (Nekoma)",
-          "snow": 0.2,
-          "prefecture": "福島県",
-          "lat": 37.6042,
-          "lon": 140.0381
-        },
-        {
-          "name": "猪苗代スキー場 (Inawashiro)",
-          "snow": 0.2,
-          "prefecture": "福島県",
-          "lat": 37.575,
-          "lon": 140.063
-        },
-        {
-          "name": "シャルマン火打スキー場 (Charmant)",
-          "snow": 0.2,
-          "prefecture": "新潟県",
-          "lat": 36.985,
-          "lon": 138.055
+          "lat": 40.7303,
+          "lon": 140.2479
         },
         {
           "name": "サッポロテイネ (Sapporo Teine)",
@@ -81,6 +53,13 @@
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
+        },
+        {
+          "name": "モヤヒルズ (Moya Hills)",
+          "snow": 0.1,
+          "prefecture": "青森県",
+          "lat": 40.7275,
+          "lon": 140.8033
         },
         {
           "name": "天元台高原 (Tengendai)",
@@ -97,11 +76,11 @@
           "lon": 140.0933
         },
         {
-          "name": "舞子スノーリゾート (Maiko)",
+          "name": "ロッテアライリゾート (Lotte Arai)",
           "snow": 0.1,
           "prefecture": "新潟県",
-          "lat": 36.953,
-          "lon": 138.835
+          "lat": 36.99064,
+          "lon": 138.18138
         },
         {
           "name": "関温泉スキー場 (Seki Onsen)",
@@ -279,6 +258,20 @@
           "lon": 140.00662
         },
         {
+          "name": "星野リゾート ネコマ マウンテン (Nekoma)",
+          "snow": 0,
+          "prefecture": "福島県",
+          "lat": 37.6042,
+          "lon": 140.0381
+        },
+        {
+          "name": "猪苗代スキー場 (Inawashiro)",
+          "snow": 0,
+          "prefecture": "福島県",
+          "lat": 37.575,
+          "lon": 140.063
+        },
+        {
           "name": "箕輪スキー場 (Minowa)",
           "snow": 0,
           "prefecture": "福島県",
@@ -291,6 +284,13 @@
           "prefecture": "福島県",
           "lat": 37.625,
           "lon": 140.245
+        },
+        {
+          "name": "会津高原だいくらスキー場 (Daikura)",
+          "snow": 0,
+          "prefecture": "福島県",
+          "lat": 37.155,
+          "lon": 139.705
         },
         {
           "name": "ハンターマウンテン塩原 (Hunter Mt)",
@@ -412,18 +412,18 @@
           "lon": 138.8028
         },
         {
-          "name": "ロッテアライリゾート (Lotte Arai)",
-          "snow": 0,
-          "prefecture": "新潟県",
-          "lat": 36.99064,
-          "lon": 138.18138
-        },
-        {
           "name": "妙高杉ノ原スキー場 (Myoko Suginohara)",
           "snow": 0,
           "prefecture": "新潟県",
           "lat": 36.8336,
           "lon": 138.1633
+        },
+        {
+          "name": "舞子スノーリゾート (Maiko)",
+          "snow": 0,
+          "prefecture": "新潟県",
+          "lat": 36.953,
+          "lon": 138.835
         },
         {
           "name": "湯沢高原スキー場 (Yuzawa Kogen)",
@@ -853,7 +853,7 @@
       "rankings": [
         {
           "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 1.8,
+          "snow": 2.3,
           "prefecture": "山梨県",
           "lat": 35.4328,
           "lon": 138.6947
