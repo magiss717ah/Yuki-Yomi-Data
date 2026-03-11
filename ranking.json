@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T05:47:16.516Z",
+  "updated_at": "2026-03-11T06:51:35.101Z",
   "dates": [
     {
       "date": "2026-03-12",
@@ -7,14 +7,14 @@
       "rankings": [
         {
           "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 0.4,
+          "snow": 0.7,
           "prefecture": "山梨県",
           "lat": 35.4328,
           "lon": 138.6947
         },
         {
           "name": "サンメドウズ清里 (Sun Meadows)",
-          "snow": 0.1,
+          "snow": 0.4,
           "prefecture": "山梨県",
           "lat": 35.9381,
           "lon": 138.4069
@@ -873,18 +873,18 @@
           "lon": 141.0827
         },
         {
-          "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 0.6,
-          "prefecture": "山梨県",
-          "lat": 35.4328,
-          "lon": 138.6947
-        },
-        {
           "name": "ニセコモイワスキー場 (Niseko Moiwa)",
           "snow": 0.4,
           "prefecture": "北海道",
           "lat": 42.855,
           "lon": 140.638
+        },
+        {
+          "name": "ふじてんスノーリゾート (Fujiten)",
+          "snow": 0.4,
+          "prefecture": "山梨県",
+          "lat": 35.4328,
+          "lon": 138.6947
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
