@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-03-11T11:31:28.794Z",
+  "updated_at": "2026-03-11T12:56:33.498Z",
   "dates": [
     {
       "date": "2026-03-12",
       "display_date": "3/12 (木)",
       "rankings": [
         {
-          "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 0.3,
-          "prefecture": "山梨県",
-          "lat": 35.4328,
-          "lon": 138.6947
-        },
-        {
           "name": "サンメドウズ清里 (Sun Meadows)",
-          "snow": 0.3,
+          "snow": 0.2,
           "prefecture": "山梨県",
           "lat": 35.9381,
           "lon": 138.4069
@@ -25,6 +18,20 @@
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
+        },
+        {
+          "name": "月山スキー場 (Gassan)",
+          "snow": 0.1,
+          "prefecture": "山形県",
+          "lat": 38.51892,
+          "lon": 140.00662
+        },
+        {
+          "name": "ふじてんスノーリゾート (Fujiten)",
+          "snow": 0.1,
+          "prefecture": "山梨県",
+          "lat": 35.4328,
+          "lon": 138.6947
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -235,13 +242,6 @@
           "prefecture": "山形県",
           "lat": 38.455,
           "lon": 140.455
-        },
-        {
-          "name": "月山スキー場 (Gassan)",
-          "snow": 0,
-          "prefecture": "山形県",
-          "lat": 38.51892,
-          "lon": 140.00662
         },
         {
           "name": "星野リゾート ネコマ マウンテン (Nekoma)",
@@ -873,20 +873,6 @@
           "lon": 141.0827
         },
         {
-          "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 1.3,
-          "prefecture": "山梨県",
-          "lat": 35.4328,
-          "lon": 138.6947
-        },
-        {
-          "name": "芸北高原大佐スキー場 (Osa)",
-          "snow": 0.7,
-          "prefecture": "広島県",
-          "lat": 34.7479,
-          "lon": 132.2203
-        },
-        {
           "name": "ニセコモイワスキー場 (Niseko Moiwa)",
           "snow": 0.6,
           "prefecture": "北海道",
@@ -894,11 +880,18 @@
           "lon": 140.638
         },
         {
-          "name": "やわたハイランド191 (Yawata)",
-          "snow": 0.6,
-          "prefecture": "広島県",
-          "lat": 34.6946,
-          "lon": 132.16
+          "name": "キューピッドバレイスキー場 (Cupid Valley)",
+          "snow": 0.4,
+          "prefecture": "新潟県",
+          "lat": 37.05513,
+          "lon": 138.4845
+        },
+        {
+          "name": "ふじてんスノーリゾート (Fujiten)",
+          "snow": 0.4,
+          "prefecture": "山梨県",
+          "lat": 35.4328,
+          "lon": 138.6947
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -908,11 +901,18 @@
           "lon": 140.7042
         },
         {
-          "name": "ユートピアサイオト (Saioto)",
-          "snow": 0.3,
-          "prefecture": "広島県",
-          "lat": 34.725,
-          "lon": 132.355
+          "name": "八甲田スキー場 (Hakkoda)",
+          "snow": 0.2,
+          "prefecture": "青森県",
+          "lat": 40.6868,
+          "lon": 140.8654
+        },
+        {
+          "name": "モヤヒルズ (Moya Hills)",
+          "snow": 0.2,
+          "prefecture": "青森県",
+          "lat": 40.7275,
+          "lon": 140.8033
         },
         {
           "name": "トマムスキー場 (Tomamu)",
@@ -929,25 +929,11 @@
           "lon": 142.8076
         },
         {
-          "name": "八甲田スキー場 (Hakkoda)",
+          "name": "大鰐温泉スキー場 (Owani Onsen)",
           "snow": 0.1,
           "prefecture": "青森県",
-          "lat": 40.6868,
-          "lon": 140.8654
-        },
-        {
-          "name": "モヤヒルズ (Moya Hills)",
-          "snow": 0.1,
-          "prefecture": "青森県",
-          "lat": 40.7275,
-          "lon": 140.8033
-        },
-        {
-          "name": "妙高杉ノ原スキー場 (Myoko Suginohara)",
-          "snow": 0.1,
-          "prefecture": "新潟県",
-          "lat": 36.8336,
-          "lon": 138.1633
+          "lat": 40.505,
+          "lon": 140.556
         },
         {
           "name": "赤倉観光リゾート (Akakura)",
@@ -957,11 +943,18 @@
           "lon": 138.165
         },
         {
-          "name": "恐羅漢スノーパーク (Osorakan)",
+          "name": "芸北高原大佐スキー場 (Osa)",
           "snow": 0.1,
           "prefecture": "広島県",
-          "lat": 34.5957,
-          "lon": 132.1466
+          "lat": 34.7479,
+          "lon": 132.2203
+        },
+        {
+          "name": "やわたハイランド191 (Yawata)",
+          "snow": 0.1,
+          "prefecture": "広島県",
+          "lat": 34.6946,
+          "lon": 132.16
         },
         {
           "name": "ルスツリゾート (Rusutsu)",
@@ -997,13 +990,6 @@
           "prefecture": "青森県",
           "lat": 40.7303,
           "lon": 140.2479
-        },
-        {
-          "name": "大鰐温泉スキー場 (Owani Onsen)",
-          "snow": 0,
-          "prefecture": "青森県",
-          "lat": 40.505,
-          "lon": 140.556
         },
         {
           "name": "安比高原スキー場 (Appi Kogen)",
@@ -1293,6 +1279,13 @@
           "lon": 138.18138
         },
         {
+          "name": "妙高杉ノ原スキー場 (Myoko Suginohara)",
+          "snow": 0,
+          "prefecture": "新潟県",
+          "lat": 36.8336,
+          "lon": 138.1633
+        },
+        {
           "name": "舞子スノーリゾート (Maiko)",
           "snow": 0,
           "prefecture": "新潟県",
@@ -1340,13 +1333,6 @@
           "prefecture": "新潟県",
           "lat": 37.015,
           "lon": 138.85
-        },
-        {
-          "name": "キューピッドバレイスキー場 (Cupid Valley)",
-          "snow": 0,
-          "prefecture": "新潟県",
-          "lat": 37.05513,
-          "lon": 138.4845
         },
         {
           "name": "白馬八方尾根スキー場 (Hakuba Happo)",
@@ -1685,11 +1671,25 @@
           "lon": 134.525
         },
         {
+          "name": "恐羅漢スノーパーク (Osorakan)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.5957,
+          "lon": 132.1466
+        },
+        {
           "name": "めがひらスキー場 (Megahira)",
           "snow": 0,
           "prefecture": "広島県",
           "lat": 34.4533,
           "lon": 132.1158
+        },
+        {
+          "name": "ユートピアサイオト (Saioto)",
+          "snow": 0,
+          "prefecture": "広島県",
+          "lat": 34.725,
+          "lon": 132.355
         }
       ]
     },
