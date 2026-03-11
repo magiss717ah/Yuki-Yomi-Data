@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T23:25:38.009Z",
+  "updated_at": "2026-03-11T01:52:18.778Z",
   "dates": [
     {
       "date": "2026-03-12",
@@ -7,7 +7,7 @@
       "rankings": [
         {
           "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 0.6,
+          "snow": 0.4,
           "prefecture": "山梨県",
           "lat": 35.4328,
           "lon": 138.6947
@@ -852,13 +852,6 @@
       "display_date": "3/13 (金)",
       "rankings": [
         {
-          "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 6.9,
-          "prefecture": "山梨県",
-          "lat": 35.4328,
-          "lon": 138.6947
-        },
-        {
           "name": "氷ノ山国際スキー場 (Hyonosen)",
           "snow": 5.7,
           "prefecture": "兵庫県",
@@ -885,6 +878,13 @@
           "prefecture": "北海道",
           "lat": 43.0722,
           "lon": 140.9781
+        },
+        {
+          "name": "ふじてんスノーリゾート (Fujiten)",
+          "snow": 3.6,
+          "prefecture": "山梨県",
+          "lat": 35.4328,
+          "lon": 138.6947
         },
         {
           "name": "おじろスキー場 (Ojiro)",
@@ -5124,13 +5124,6 @@
           "lon": 137.865
         },
         {
-          "name": "ルスツリゾート (Rusutsu)",
-          "snow": 0.1,
-          "prefecture": "北海道",
-          "lat": 42.7533,
-          "lon": 140.9029
-        },
-        {
           "name": "妙高杉ノ原スキー場 (Myoko Suginohara)",
           "snow": 0.1,
           "prefecture": "新潟県",
@@ -5171,6 +5164,13 @@
           "prefecture": "北海道",
           "lat": 42.8631,
           "lon": 140.7042
+        },
+        {
+          "name": "ルスツリゾート (Rusutsu)",
+          "snow": 0,
+          "prefecture": "北海道",
+          "lat": 42.7533,
+          "lon": 140.9029
         },
         {
           "name": "富良野スキー場 (Furano)",
