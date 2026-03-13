@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-13T08:37:22.438Z",
+  "updated_at": "2026-03-13T09:37:17.116Z",
   "dates": [
     {
       "date": "2026-03-14",
@@ -48,6 +48,13 @@
           "lon": 138.135
         },
         {
+          "name": "キロロスノーワールド (Kiroro)",
+          "snow": 0.3,
+          "prefecture": "北海道",
+          "lat": 43.0722,
+          "lon": 140.9781
+        },
+        {
           "name": "奥志賀高原スキー場 (Okushiga)",
           "snow": 0.3,
           "prefecture": "長野県",
@@ -76,11 +83,11 @@
           "lon": 138.285
         },
         {
-          "name": "キロロスノーワールド (Kiroro)",
+          "name": "サッポロテイネ (Sapporo Teine)",
           "snow": 0.1,
           "prefecture": "北海道",
-          "lat": 43.0722,
-          "lon": 140.9781
+          "lat": 43.0973,
+          "lon": 141.2044
         },
         {
           "name": "かぐらスキー場 (Kagura)",
@@ -137,13 +144,6 @@
           "prefecture": "北海道",
           "lat": 43.0628,
           "lon": 142.6322
-        },
-        {
-          "name": "サッポロテイネ (Sapporo Teine)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.0973,
-          "lon": 141.2044
         },
         {
           "name": "カムイスキーリンクス (Kamui)",
@@ -853,7 +853,7 @@
       "rankings": [
         {
           "name": "大雪山旭岳ロープウェイ (Asahidake)",
-          "snow": 1.8,
+          "snow": 1.5,
           "prefecture": "北海道",
           "lat": 43.6542,
           "lon": 142.7964
@@ -866,18 +866,18 @@
           "lon": 138.835
         },
         {
-          "name": "カムイスキーリンクス (Kamui)",
-          "snow": 0.5,
-          "prefecture": "北海道",
-          "lat": 43.6444,
-          "lon": 142.2283
-        },
-        {
           "name": "シャルマン火打スキー場 (Charmant)",
           "snow": 0.4,
           "prefecture": "新潟県",
           "lat": 36.985,
           "lon": 138.055
+        },
+        {
+          "name": "カムイスキーリンクス (Kamui)",
+          "snow": 0.3,
+          "prefecture": "北海道",
+          "lat": 43.6444,
+          "lon": 142.2283
         },
         {
           "name": "かぐらスキー場 (Kagura)",
@@ -888,10 +888,17 @@
         },
         {
           "name": "富良野スキー場 (Furano)",
-          "snow": 0.2,
+          "snow": 0.1,
           "prefecture": "北海道",
           "lat": 43.3243,
           "lon": 142.3456
+        },
+        {
+          "name": "サッポロテイネ (Sapporo Teine)",
+          "snow": 0.1,
+          "prefecture": "北海道",
+          "lat": 43.0973,
+          "lon": 141.2044
         },
         {
           "name": "苗場スキー場 (Naeba)",
@@ -941,13 +948,6 @@
           "prefecture": "北海道",
           "lat": 43.0628,
           "lon": 142.6322
-        },
-        {
-          "name": "サッポロテイネ (Sapporo Teine)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.0973,
-          "lon": 141.2044
         },
         {
           "name": "サホロリゾート (Sahoro)",
@@ -2544,6 +2544,20 @@
       "display_date": "3/17 (火)",
       "rankings": [
         {
+          "name": "トマムスキー場 (Tomamu)",
+          "snow": 0.2,
+          "prefecture": "北海道",
+          "lat": 43.0628,
+          "lon": 142.6322
+        },
+        {
+          "name": "サホロリゾート (Sahoro)",
+          "snow": 0.2,
+          "prefecture": "北海道",
+          "lat": 43.1749,
+          "lon": 142.8076
+        },
+        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -2579,13 +2593,6 @@
           "lon": 141.0827
         },
         {
-          "name": "トマムスキー場 (Tomamu)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.0628,
-          "lon": 142.6322
-        },
-        {
           "name": "サッポロテイネ (Sapporo Teine)",
           "snow": 0,
           "prefecture": "北海道",
@@ -2598,13 +2605,6 @@
           "prefecture": "北海道",
           "lat": 43.6444,
           "lon": 142.2283
-        },
-        {
-          "name": "サホロリゾート (Sahoro)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.1749,
-          "lon": 142.8076
         },
         {
           "name": "ニセコモイワスキー場 (Niseko Moiwa)",
@@ -3390,27 +3390,6 @@
       "display_date": "3/18 (水)",
       "rankings": [
         {
-          "name": "白馬五竜スキー場 (Hakuba Goryu)",
-          "snow": 0.7,
-          "prefecture": "長野県",
-          "lat": 36.6572,
-          "lon": 137.8306
-        },
-        {
-          "name": "白馬コルチナスキー場 (Cortina)",
-          "snow": 0.6,
-          "prefecture": "長野県",
-          "lat": 36.785,
-          "lon": 137.885
-        },
-        {
-          "name": "白馬乗鞍温泉スキー場 (Norikura)",
-          "snow": 0.6,
-          "prefecture": "長野県",
-          "lat": 36.775,
-          "lon": 137.865
-        },
-        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -3880,6 +3859,13 @@
           "lon": 137.8327
         },
         {
+          "name": "白馬五竜スキー場 (Hakuba Goryu)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.6572,
+          "lon": 137.8306
+        },
+        {
           "name": "栂池高原スキー場 (Tsugaike)",
           "snow": 0,
           "prefecture": "長野県",
@@ -3913,6 +3899,20 @@
           "prefecture": "長野県",
           "lat": 36.3353,
           "lon": 138.6339
+        },
+        {
+          "name": "白馬コルチナスキー場 (Cortina)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.785,
+          "lon": 137.885
+        },
+        {
+          "name": "白馬乗鞍温泉スキー場 (Norikura)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.775,
+          "lon": 137.865
         },
         {
           "name": "白馬岩岳スノーフィールド (Iwatake)",
