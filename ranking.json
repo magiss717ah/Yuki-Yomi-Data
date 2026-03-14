@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T14:27:17.061Z",
+  "updated_at": "2026-03-14T15:26:18.201Z",
   "dates": [
     {
       "date": "2026-03-15",
@@ -28,7 +28,7 @@
         },
         {
           "name": "サッポロテイネ (Sapporo Teine)",
-          "snow": 0.4,
+          "snow": 0.3,
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
@@ -53,13 +53,6 @@
           "prefecture": "北海道",
           "lat": 42.855,
           "lon": 140.638
-        },
-        {
-          "name": "月山スキー場 (Gassan)",
-          "snow": 0.1,
-          "prefecture": "山形県",
-          "lat": 38.51892,
-          "lon": 140.00662
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -228,6 +221,13 @@
           "prefecture": "山形県",
           "lat": 38.455,
           "lon": 140.455
+        },
+        {
+          "name": "月山スキー場 (Gassan)",
+          "snow": 0,
+          "prefecture": "山形県",
+          "lat": 38.51892,
+          "lon": 140.00662
         },
         {
           "name": "星野リゾート ネコマ マウンテン (Nekoma)",
