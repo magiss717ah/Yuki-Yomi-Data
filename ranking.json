@@ -1,17 +1,10 @@
 {
-  "updated_at": "2026-03-13T23:26:19.578Z",
+  "updated_at": "2026-03-14T01:53:56.569Z",
   "dates": [
     {
       "date": "2026-03-15",
       "display_date": "3/15 (日)",
       "rankings": [
-        {
-          "name": "シャルマン火打スキー場 (Charmant)",
-          "snow": 3.4,
-          "prefecture": "新潟県",
-          "lat": 36.985,
-          "lon": 138.055
-        },
         {
           "name": "カムイスキーリンクス (Kamui)",
           "snow": 1.6,
@@ -27,18 +20,18 @@
           "lon": 142.7964
         },
         {
-          "name": "舞子スノーリゾート (Maiko)",
-          "snow": 1,
+          "name": "赤倉観光リゾート (Akakura)",
+          "snow": 1.1,
           "prefecture": "新潟県",
-          "lat": 36.953,
-          "lon": 138.835
+          "lat": 36.885,
+          "lon": 138.165
         },
         {
-          "name": "かぐらスキー場 (Kagura)",
+          "name": "シャルマン火打スキー場 (Charmant)",
           "snow": 0.8,
           "prefecture": "新潟県",
-          "lat": 36.8375,
-          "lon": 138.7778
+          "lat": 36.985,
+          "lon": 138.055
         },
         {
           "name": "富良野スキー場 (Furano)",
@@ -48,25 +41,25 @@
           "lon": 142.3456
         },
         {
-          "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 0.6,
+          "name": "かぐらスキー場 (Kagura)",
+          "snow": 0.5,
           "prefecture": "新潟県",
-          "lat": 36.895,
-          "lon": 138.135
+          "lat": 36.8375,
+          "lon": 138.7778
         },
         {
-          "name": "苗場スキー場 (Naeba)",
-          "snow": 0.3,
+          "name": "舞子スノーリゾート (Maiko)",
+          "snow": 0.4,
           "prefecture": "新潟県",
-          "lat": 36.7933,
-          "lon": 138.7844
+          "lat": 36.953,
+          "lon": 138.835
         },
         {
-          "name": "タングラムスキーサーカス (Tangram)",
+          "name": "奥志賀高原スキー場 (Okushiga)",
           "snow": 0.3,
           "prefecture": "長野県",
-          "lat": 36.855,
-          "lon": 138.285
+          "lat": 36.78,
+          "lon": 138.54
         },
         {
           "name": "サッポロテイネ (Sapporo Teine)",
@@ -76,25 +69,25 @@
           "lon": 141.2044
         },
         {
-          "name": "赤倉観光リゾート (Akakura)",
+          "name": "苗場スキー場 (Naeba)",
           "snow": 0.1,
           "prefecture": "新潟県",
-          "lat": 36.885,
-          "lon": 138.165
+          "lat": 36.7933,
+          "lon": 138.7844
         },
         {
-          "name": "竜王スキーパーク (Ryuoo)",
+          "name": "関温泉スキー場 (Seki Onsen)",
           "snow": 0.1,
-          "prefecture": "長野県",
-          "lat": 36.805,
-          "lon": 138.455
+          "prefecture": "新潟県",
+          "lat": 36.895,
+          "lon": 138.135
         },
         {
-          "name": "奥志賀高原スキー場 (Okushiga)",
+          "name": "タングラムスキーサーカス (Tangram)",
           "snow": 0.1,
           "prefecture": "長野県",
-          "lat": 36.78,
-          "lon": 138.54
+          "lat": 36.855,
+          "lon": 138.285
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -566,6 +559,13 @@
           "lon": 137.835
         },
         {
+          "name": "竜王スキーパーク (Ryuoo)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.805,
+          "lon": 138.455
+        },
+        {
           "name": "斑尾高原スキー場 (Madarao)",
           "snow": 0,
           "prefecture": "長野県",
@@ -853,7 +853,7 @@
       "rankings": [
         {
           "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 1.8,
+          "snow": 1.9,
           "prefecture": "山梨県",
           "lat": 35.4328,
           "lon": 138.6947
