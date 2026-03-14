@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T18:35:48.984Z",
+  "updated_at": "2026-03-14T19:25:19.988Z",
   "dates": [
     {
       "date": "2026-03-15",
@@ -41,11 +41,39 @@
           "lon": 142.8076
         },
         {
+          "name": "かぐらスキー場 (Kagura)",
+          "snow": 0.4,
+          "prefecture": "新潟県",
+          "lat": 36.8375,
+          "lon": 138.7778
+        },
+        {
+          "name": "舞子スノーリゾート (Maiko)",
+          "snow": 0.4,
+          "prefecture": "新潟県",
+          "lat": 36.953,
+          "lon": 138.835
+        },
+        {
           "name": "サッポロテイネ (Sapporo Teine)",
           "snow": 0.1,
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
+        },
+        {
+          "name": "八甲田スキー場 (Hakkoda)",
+          "snow": 0.1,
+          "prefecture": "青森県",
+          "lat": 40.6868,
+          "lon": 140.8654
+        },
+        {
+          "name": "苗場スキー場 (Naeba)",
+          "snow": 0.1,
+          "prefecture": "新潟県",
+          "lat": 36.7933,
+          "lon": 138.7844
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -81,13 +109,6 @@
           "prefecture": "北海道",
           "lat": 42.855,
           "lon": 140.638
-        },
-        {
-          "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0,
-          "prefecture": "青森県",
-          "lat": 40.6868,
-          "lon": 140.8654
         },
         {
           "name": "青森スプリング (Aomori Spring)",
@@ -363,20 +384,6 @@
           "lon": 139.005
         },
         {
-          "name": "苗場スキー場 (Naeba)",
-          "snow": 0,
-          "prefecture": "新潟県",
-          "lat": 36.7933,
-          "lon": 138.7844
-        },
-        {
-          "name": "かぐらスキー場 (Kagura)",
-          "snow": 0,
-          "prefecture": "新潟県",
-          "lat": 36.8375,
-          "lon": 138.7778
-        },
-        {
           "name": "GALA湯沢 (GALA Yuzawa)",
           "snow": 0,
           "prefecture": "新潟県",
@@ -403,13 +410,6 @@
           "prefecture": "新潟県",
           "lat": 36.8336,
           "lon": 138.1633
-        },
-        {
-          "name": "舞子スノーリゾート (Maiko)",
-          "snow": 0,
-          "prefecture": "新潟県",
-          "lat": 36.953,
-          "lon": 138.835
         },
         {
           "name": "湯沢高原スキー場 (Yuzawa Kogen)",
@@ -853,7 +853,7 @@
       "rankings": [
         {
           "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 1,
+          "snow": 1.5,
           "prefecture": "山梨県",
           "lat": 35.4328,
           "lon": 138.6947
@@ -866,18 +866,18 @@
           "lon": 142.2283
         },
         {
+          "name": "サンメドウズ清里 (Sun Meadows)",
+          "snow": 0.4,
+          "prefecture": "山梨県",
+          "lat": 35.9381,
+          "lon": 138.4069
+        },
+        {
           "name": "富良野スキー場 (Furano)",
           "snow": 0.3,
           "prefecture": "北海道",
           "lat": 43.3243,
           "lon": 142.3456
-        },
-        {
-          "name": "サンメドウズ清里 (Sun Meadows)",
-          "snow": 0.2,
-          "prefecture": "山梨県",
-          "lat": 35.9381,
-          "lon": 138.4069
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
