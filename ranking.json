@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T11:24:20.075Z",
+  "updated_at": "2026-03-15T12:50:23.207Z",
   "dates": [
     {
       "date": "2026-03-16",
@@ -7,7 +7,7 @@
       "rankings": [
         {
           "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 1.2,
+          "snow": 1.1,
           "prefecture": "山梨県",
           "lat": 35.4328,
           "lon": 138.6947
@@ -25,6 +25,62 @@
           "prefecture": "北海道",
           "lat": 43.3243,
           "lon": 142.3456
+        },
+        {
+          "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
+          "snow": 0.1,
+          "prefecture": "栃木県",
+          "lat": 36.805,
+          "lon": 139.42
+        },
+        {
+          "name": "丸沼高原スキー場 (Marunuma)",
+          "snow": 0.1,
+          "prefecture": "群馬県",
+          "lat": 36.8183,
+          "lon": 139.3364
+        },
+        {
+          "name": "川場スキー場 (Kawaba)",
+          "snow": 0.1,
+          "prefecture": "群馬県",
+          "lat": 36.8122,
+          "lon": 139.1083
+        },
+        {
+          "name": "たんばらスキーパーク (Tambara)",
+          "snow": 0.1,
+          "prefecture": "群馬県",
+          "lat": 36.7867,
+          "lon": 139.0667
+        },
+        {
+          "name": "ノルン水上スキー場 (Norn Minakami)",
+          "snow": 0.1,
+          "prefecture": "群馬県",
+          "lat": 36.8042,
+          "lon": 138.9722
+        },
+        {
+          "name": "ホワイトワールド尾瀬岩鞍 (Oze Iwakura)",
+          "snow": 0.1,
+          "prefecture": "群馬県",
+          "lat": 36.84,
+          "lon": 139.22
+        },
+        {
+          "name": "かたしな高原スキー場 (Katashina)",
+          "snow": 0.1,
+          "prefecture": "群馬県",
+          "lat": 36.83,
+          "lon": 139.23
+        },
+        {
+          "name": "サンメドウズ清里 (Sun Meadows)",
+          "snow": 0.1,
+          "prefecture": "山梨県",
+          "lat": 35.9381,
+          "lon": 138.4069
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -300,60 +356,11 @@
           "lon": 139.755
         },
         {
-          "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
-          "snow": 0,
-          "prefecture": "栃木県",
-          "lat": 36.805,
-          "lon": 139.42
-        },
-        {
-          "name": "丸沼高原スキー場 (Marunuma)",
-          "snow": 0,
-          "prefecture": "群馬県",
-          "lat": 36.8183,
-          "lon": 139.3364
-        },
-        {
-          "name": "川場スキー場 (Kawaba)",
-          "snow": 0,
-          "prefecture": "群馬県",
-          "lat": 36.8122,
-          "lon": 139.1083
-        },
-        {
-          "name": "たんばらスキーパーク (Tambara)",
-          "snow": 0,
-          "prefecture": "群馬県",
-          "lat": 36.7867,
-          "lon": 139.0667
-        },
-        {
           "name": "万座温泉スキー場 (Manza Onsen)",
           "snow": 0,
           "prefecture": "群馬県",
           "lat": 36.6341,
           "lon": 138.5133
-        },
-        {
-          "name": "ノルン水上スキー場 (Norn Minakami)",
-          "snow": 0,
-          "prefecture": "群馬県",
-          "lat": 36.8042,
-          "lon": 138.9722
-        },
-        {
-          "name": "ホワイトワールド尾瀬岩鞍 (Oze Iwakura)",
-          "snow": 0,
-          "prefecture": "群馬県",
-          "lat": 36.84,
-          "lon": 139.22
-        },
-        {
-          "name": "かたしな高原スキー場 (Katashina)",
-          "snow": 0,
-          "prefecture": "群馬県",
-          "lat": 36.83,
-          "lon": 139.23
         },
         {
           "name": "群馬みなかみほうだいぎスキー場 (Houdaigi)",
@@ -592,13 +599,6 @@
           "prefecture": "長野県",
           "lat": 36.78,
           "lon": 138.54
-        },
-        {
-          "name": "サンメドウズ清里 (Sun Meadows)",
-          "snow": 0,
-          "prefecture": "山梨県",
-          "lat": 35.9381,
-          "lon": 138.4069
         },
         {
           "name": "カムイみさかスキー場 (Misaka)",
