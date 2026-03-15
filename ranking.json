@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T23:26:00.138Z",
+  "updated_at": "2026-03-15T02:10:20.422Z",
   "dates": [
     {
       "date": "2026-03-16",
@@ -7,7 +7,7 @@
       "rankings": [
         {
           "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 1.9,
+          "snow": 1.8,
           "prefecture": "山梨県",
           "lat": 35.4328,
           "lon": 138.6947
@@ -28,7 +28,7 @@
         },
         {
           "name": "サンメドウズ清里 (Sun Meadows)",
-          "snow": 0.2,
+          "snow": 0.1,
           "prefecture": "山梨県",
           "lat": 35.9381,
           "lon": 138.4069
