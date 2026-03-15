@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T18:36:17.156Z",
+  "updated_at": "2026-03-15T19:26:38.980Z",
   "dates": [
     {
       "date": "2026-03-16",
@@ -14,7 +14,7 @@
         },
         {
           "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
-          "snow": 0.6,
+          "snow": 0.5,
           "prefecture": "栃木県",
           "lat": 36.805,
           "lon": 139.42
@@ -25,6 +25,13 @@
           "prefecture": "北海道",
           "lat": 43.6444,
           "lon": 142.2283
+        },
+        {
+          "name": "舞子スノーリゾート (Maiko)",
+          "snow": 0.4,
+          "prefecture": "新潟県",
+          "lat": 36.953,
+          "lon": 138.835
         },
         {
           "name": "トマムスキー場 (Tomamu)",
@@ -41,11 +48,11 @@
           "lon": 142.8076
         },
         {
-          "name": "舞子スノーリゾート (Maiko)",
+          "name": "苗場スキー場 (Naeba)",
           "snow": 0.3,
           "prefecture": "新潟県",
-          "lat": 36.953,
-          "lon": 138.835
+          "lat": 36.7933,
+          "lon": 138.7844
         },
         {
           "name": "ハンターマウンテン塩原 (Hunter Mt)",
@@ -62,39 +69,18 @@
           "lon": 139.755
         },
         {
+          "name": "かぐらスキー場 (Kagura)",
+          "snow": 0.2,
+          "prefecture": "新潟県",
+          "lat": 36.8375,
+          "lon": 138.7778
+        },
+        {
           "name": "大雪山旭岳ロープウェイ (Asahidake)",
           "snow": 0.1,
           "prefecture": "北海道",
           "lat": 43.6542,
           "lon": 142.7964
-        },
-        {
-          "name": "ホワイトワールド尾瀬岩鞍 (Oze Iwakura)",
-          "snow": 0.1,
-          "prefecture": "群馬県",
-          "lat": 36.84,
-          "lon": 139.22
-        },
-        {
-          "name": "かたしな高原スキー場 (Katashina)",
-          "snow": 0.1,
-          "prefecture": "群馬県",
-          "lat": 36.83,
-          "lon": 139.23
-        },
-        {
-          "name": "苗場スキー場 (Naeba)",
-          "snow": 0.1,
-          "prefecture": "新潟県",
-          "lat": 36.7933,
-          "lon": 138.7844
-        },
-        {
-          "name": "かぐらスキー場 (Kagura)",
-          "snow": 0.1,
-          "prefecture": "新潟県",
-          "lat": 36.8375,
-          "lon": 138.7778
         },
         {
           "name": "ふじてんスノーリゾート (Fujiten)",
@@ -375,6 +361,20 @@
           "prefecture": "群馬県",
           "lat": 36.8042,
           "lon": 138.9722
+        },
+        {
+          "name": "ホワイトワールド尾瀬岩鞍 (Oze Iwakura)",
+          "snow": 0,
+          "prefecture": "群馬県",
+          "lat": 36.84,
+          "lon": 139.22
+        },
+        {
+          "name": "かたしな高原スキー場 (Katashina)",
+          "snow": 0,
+          "prefecture": "群馬県",
+          "lat": 36.83,
+          "lon": 139.23
         },
         {
           "name": "群馬みなかみほうだいぎスキー場 (Houdaigi)",
