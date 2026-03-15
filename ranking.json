@@ -1,17 +1,10 @@
 {
-  "updated_at": "2026-03-15T05:03:58.063Z",
+  "updated_at": "2026-03-15T06:54:50.579Z",
   "dates": [
     {
       "date": "2026-03-16",
       "display_date": "3/16 (月)",
       "rankings": [
-        {
-          "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 1.8,
-          "prefecture": "山梨県",
-          "lat": 35.4328,
-          "lon": 138.6947
-        },
         {
           "name": "富良野スキー場 (Furano)",
           "snow": 0.9,
@@ -25,6 +18,13 @@
           "prefecture": "北海道",
           "lat": 43.6444,
           "lon": 142.2283
+        },
+        {
+          "name": "ふじてんスノーリゾート (Fujiten)",
+          "snow": 0.6,
+          "prefecture": "山梨県",
+          "lat": 35.4328,
+          "lon": 138.6947
         },
         {
           "name": "大雪山旭岳ロープウェイ (Asahidake)",
