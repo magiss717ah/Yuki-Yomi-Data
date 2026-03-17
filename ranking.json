@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T17:57:01.162Z",
+  "updated_at": "2026-03-17T19:05:36.078Z",
   "dates": [
     {
       "date": "2026-03-18",
@@ -853,38 +853,38 @@
       "rankings": [
         {
           "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 3.9,
+          "snow": 4.8,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
         },
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 2.9,
+          "snow": 2.4,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
         },
         {
-          "name": "万座温泉スキー場 (Manza Onsen)",
-          "snow": 1.6,
-          "prefecture": "群馬県",
-          "lat": 36.6341,
-          "lon": 138.5133
-        },
-        {
           "name": "安比高原スキー場 (Appi Kogen)",
-          "snow": 1.3,
+          "snow": 1.4,
           "prefecture": "岩手県",
           "lat": 40.0019,
           "lon": 140.9749
         },
         {
-          "name": "車山高原SKYPARK (Kurumayama)",
+          "name": "万座温泉スキー場 (Manza Onsen)",
+          "snow": 1.1,
+          "prefecture": "群馬県",
+          "lat": 36.6341,
+          "lon": 138.5133
+        },
+        {
+          "name": "阿仁スキー場 (Ani)",
           "snow": 0.8,
-          "prefecture": "長野県",
-          "lat": 36.105,
-          "lon": 138.205
+          "prefecture": "秋田県",
+          "lat": 39.953,
+          "lon": 140.354
         },
         {
           "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
@@ -1053,13 +1053,6 @@
           "prefecture": "秋田県",
           "lat": 39.1822,
           "lon": 140.6713
-        },
-        {
-          "name": "阿仁スキー場 (Ani)",
-          "snow": 0,
-          "prefecture": "秋田県",
-          "lat": 39.953,
-          "lon": 140.354
         },
         {
           "name": "太平山スキー場オーパス (Opas)",
@@ -1424,6 +1417,13 @@
           "prefecture": "長野県",
           "lat": 36.765,
           "lon": 138.085
+        },
+        {
+          "name": "車山高原SKYPARK (Kurumayama)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.105,
+          "lon": 138.205
         },
         {
           "name": "奥志賀高原スキー場 (Okushiga)",
