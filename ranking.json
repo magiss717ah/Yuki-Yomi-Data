@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T11:42:02.646Z",
+  "updated_at": "2026-03-17T13:08:15.203Z",
   "dates": [
     {
       "date": "2026-03-18",
@@ -853,59 +853,52 @@
       "rankings": [
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 2,
+          "snow": 2.7,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
         },
         {
           "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 1.7,
+          "snow": 2.4,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
         },
         {
           "name": "万座温泉スキー場 (Manza Onsen)",
-          "snow": 1.4,
+          "snow": 1.3,
           "prefecture": "群馬県",
           "lat": 36.6341,
           "lon": 138.5133
         },
         {
-          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
-          "snow": 1.1,
-          "prefecture": "宮城県",
-          "lat": 38.125,
-          "lon": 140.482
-        },
-        {
-          "name": "車山高原SKYPARK (Kurumayama)",
-          "snow": 1,
-          "prefecture": "長野県",
-          "lat": 36.105,
-          "lon": 138.205
-        },
-        {
           "name": "安比高原スキー場 (Appi Kogen)",
-          "snow": 0.5,
+          "snow": 1,
           "prefecture": "岩手県",
           "lat": 40.0019,
           "lon": 140.9749
         },
         {
+          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
+          "snow": 0.9,
+          "prefecture": "宮城県",
+          "lat": 38.125,
+          "lon": 140.482
+        },
+        {
           "name": "阿仁スキー場 (Ani)",
-          "snow": 0.5,
+          "snow": 0.8,
           "prefecture": "秋田県",
           "lat": 39.953,
           "lon": 140.354
         },
         {
-          "name": "月山スキー場 (Gassan)",
-          "snow": 0.4,
-          "prefecture": "山形県",
-          "lat": 38.51892,
-          "lon": 140.00662
+          "name": "車山高原SKYPARK (Kurumayama)",
+          "snow": 0.8,
+          "prefecture": "長野県",
+          "lat": 36.105,
+          "lon": 138.205
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -1095,6 +1088,13 @@
           "prefecture": "山形県",
           "lat": 38.455,
           "lon": 140.455
+        },
+        {
+          "name": "月山スキー場 (Gassan)",
+          "snow": 0,
+          "prefecture": "山形県",
+          "lat": 38.51892,
+          "lon": 140.00662
         },
         {
           "name": "星野リゾート ネコマ マウンテン (Nekoma)",
