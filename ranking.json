@@ -1,24 +1,10 @@
 {
-  "updated_at": "2026-03-18T13:07:44.419Z",
+  "updated_at": "2026-03-18T15:00:53.345Z",
   "dates": [
     {
       "date": "2026-03-19",
       "display_date": "3/19 (木)",
       "rankings": [
-        {
-          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
-          "snow": 2.9,
-          "prefecture": "宮城県",
-          "lat": 38.125,
-          "lon": 140.482
-        },
-        {
-          "name": "万座温泉スキー場 (Manza Onsen)",
-          "snow": 2.1,
-          "prefecture": "群馬県",
-          "lat": 36.6341,
-          "lon": 138.5133
-        },
         {
           "name": "八甲田スキー場 (Hakkoda)",
           "snow": 2,
@@ -27,18 +13,25 @@
           "lon": 140.8654
         },
         {
-          "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 1.8,
-          "prefecture": "新潟県",
-          "lat": 36.895,
-          "lon": 138.135
-        },
-        {
           "name": "安比高原スキー場 (Appi Kogen)",
           "snow": 1.6,
           "prefecture": "岩手県",
           "lat": 40.0019,
           "lon": 140.9749
+        },
+        {
+          "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
+          "snow": 1.6,
+          "prefecture": "宮城県",
+          "lat": 38.125,
+          "lon": 140.482
+        },
+        {
+          "name": "関温泉スキー場 (Seki Onsen)",
+          "snow": 1.1,
+          "prefecture": "新潟県",
+          "lat": 36.895,
+          "lon": 138.135
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -333,6 +326,13 @@
           "prefecture": "群馬県",
           "lat": 36.7867,
           "lon": 139.0667
+        },
+        {
+          "name": "万座温泉スキー場 (Manza Onsen)",
+          "snow": 0,
+          "prefecture": "群馬県",
+          "lat": 36.6341,
+          "lon": 138.5133
         },
         {
           "name": "ノルン水上スキー場 (Norn Minakami)",
