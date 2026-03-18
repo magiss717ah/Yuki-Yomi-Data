@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-18T18:01:51.640Z",
+  "updated_at": "2026-03-18T19:46:48.532Z",
   "dates": [
     {
       "date": "2026-03-19",
@@ -7,21 +7,21 @@
       "rankings": [
         {
           "name": "安比高原スキー場 (Appi Kogen)",
-          "snow": 2,
+          "snow": 1.5,
           "prefecture": "岩手県",
           "lat": 40.0019,
           "lon": 140.9749
         },
         {
           "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 1.8,
+          "snow": 1.3,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
         },
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 1.2,
+          "snow": 0.8,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
@@ -859,11 +859,25 @@
           "lon": 142.3456
         },
         {
+          "name": "月山スキー場 (Gassan)",
+          "snow": 1.1,
+          "prefecture": "山形県",
+          "lat": 38.51892,
+          "lon": 140.00662
+        },
+        {
           "name": "サッポロテイネ (Sapporo Teine)",
           "snow": 1,
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
+        },
+        {
+          "name": "シャルマン火打スキー場 (Charmant)",
+          "snow": 1,
+          "prefecture": "新潟県",
+          "lat": 36.985,
+          "lon": 138.055
         },
         {
           "name": "カムイスキーリンクス (Kamui)",
@@ -880,18 +894,25 @@
           "lon": 140.638
         },
         {
-          "name": "シャルマン火打スキー場 (Charmant)",
-          "snow": 0.6,
-          "prefecture": "新潟県",
-          "lat": 36.985,
-          "lon": 138.055
-        },
-        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0.5,
           "prefecture": "北海道",
           "lat": 42.8631,
           "lon": 140.7042
+        },
+        {
+          "name": "白馬コルチナスキー場 (Cortina)",
+          "snow": 0.5,
+          "prefecture": "長野県",
+          "lat": 36.785,
+          "lon": 137.885
+        },
+        {
+          "name": "白馬乗鞍温泉スキー場 (Norikura)",
+          "snow": 0.5,
+          "prefecture": "長野県",
+          "lat": 36.775,
+          "lon": 137.865
         },
         {
           "name": "トマムスキー場 (Tomamu)",
@@ -908,32 +929,11 @@
           "lon": 142.8076
         },
         {
-          "name": "白馬コルチナスキー場 (Cortina)",
-          "snow": 0.4,
-          "prefecture": "長野県",
-          "lat": 36.785,
-          "lon": 137.885
-        },
-        {
-          "name": "白馬乗鞍温泉スキー場 (Norikura)",
-          "snow": 0.4,
-          "prefecture": "長野県",
-          "lat": 36.775,
-          "lon": 137.865
-        },
-        {
           "name": "大雪山旭岳ロープウェイ (Asahidake)",
           "snow": 0.3,
           "prefecture": "北海道",
           "lat": 43.6542,
           "lon": 142.7964
-        },
-        {
-          "name": "月山スキー場 (Gassan)",
-          "snow": 0.1,
-          "prefecture": "山形県",
-          "lat": 38.51892,
-          "lon": 140.00662
         },
         {
           "name": "関温泉スキー場 (Seki Onsen)",
