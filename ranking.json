@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T23:26:50.921Z",
+  "updated_at": "2026-03-21T01:52:05.138Z",
   "dates": [
     {
       "date": "2026-03-22",
@@ -5082,6 +5082,27 @@
       "display_date": "3/28 (土)",
       "rankings": [
         {
+          "name": "大雪山旭岳ロープウェイ (Asahidake)",
+          "snow": 0.3,
+          "prefecture": "北海道",
+          "lat": 43.6542,
+          "lon": 142.7964
+        },
+        {
+          "name": "富良野スキー場 (Furano)",
+          "snow": 0.1,
+          "prefecture": "北海道",
+          "lat": 43.3243,
+          "lon": 142.3456
+        },
+        {
+          "name": "トマムスキー場 (Tomamu)",
+          "snow": 0.1,
+          "prefecture": "北海道",
+          "lat": 43.0628,
+          "lon": 142.6322
+        },
+        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -5096,13 +5117,6 @@
           "lon": 140.9029
         },
         {
-          "name": "富良野スキー場 (Furano)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.3243,
-          "lon": 142.3456
-        },
-        {
           "name": "キロロスノーワールド (Kiroro)",
           "snow": 0,
           "prefecture": "北海道",
@@ -5115,13 +5129,6 @@
           "prefecture": "北海道",
           "lat": 43.0724,
           "lon": 141.0827
-        },
-        {
-          "name": "トマムスキー場 (Tomamu)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.0628,
-          "lon": 142.6322
         },
         {
           "name": "サッポロテイネ (Sapporo Teine)",
@@ -5150,13 +5157,6 @@
           "prefecture": "北海道",
           "lat": 42.855,
           "lon": 140.638
-        },
-        {
-          "name": "大雪山旭岳ロープウェイ (Asahidake)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.6542,
-          "lon": 142.7964
         },
         {
           "name": "八甲田スキー場 (Hakkoda)",
