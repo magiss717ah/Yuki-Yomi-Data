@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21T21:23:23.610Z",
+  "updated_at": "2026-03-21T22:22:25.062Z",
   "dates": [
     {
       "date": "2026-03-22",
@@ -1699,7 +1699,7 @@
       "rankings": [
         {
           "name": "サッポロテイネ (Sapporo Teine)",
-          "snow": 1.8,
+          "snow": 2.7,
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
@@ -1712,6 +1712,13 @@
           "lon": 138.135
         },
         {
+          "name": "富良野スキー場 (Furano)",
+          "snow": 1,
+          "prefecture": "北海道",
+          "lat": 43.3243,
+          "lon": 142.3456
+        },
+        {
           "name": "八甲田スキー場 (Hakkoda)",
           "snow": 0.4,
           "prefecture": "青森県",
@@ -1719,11 +1726,18 @@
           "lon": 140.8654
         },
         {
-          "name": "富良野スキー場 (Furano)",
-          "snow": 0.2,
+          "name": "トマムスキー場 (Tomamu)",
+          "snow": 0.3,
           "prefecture": "北海道",
-          "lat": 43.3243,
-          "lon": 142.3456
+          "lat": 43.0628,
+          "lon": 142.6322
+        },
+        {
+          "name": "サホロリゾート (Sahoro)",
+          "snow": 0.3,
+          "prefecture": "北海道",
+          "lat": 43.1749,
+          "lon": 142.8076
         },
         {
           "name": "月山スキー場 (Gassan)",
@@ -1761,25 +1775,11 @@
           "lon": 141.0827
         },
         {
-          "name": "トマムスキー場 (Tomamu)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.0628,
-          "lon": 142.6322
-        },
-        {
           "name": "カムイスキーリンクス (Kamui)",
           "snow": 0,
           "prefecture": "北海道",
           "lat": 43.6444,
           "lon": 142.2283
-        },
-        {
-          "name": "サホロリゾート (Sahoro)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.1749,
-          "lon": 142.8076
         },
         {
           "name": "ニセコモイワスキー場 (Niseko Moiwa)",
@@ -3390,27 +3390,6 @@
       "display_date": "3/26 (木)",
       "rankings": [
         {
-          "name": "車山高原SKYPARK (Kurumayama)",
-          "snow": 1.5,
-          "prefecture": "長野県",
-          "lat": 36.105,
-          "lon": 138.205
-        },
-        {
-          "name": "白馬コルチナスキー場 (Cortina)",
-          "snow": 0.4,
-          "prefecture": "長野県",
-          "lat": 36.785,
-          "lon": 137.885
-        },
-        {
-          "name": "白馬乗鞍温泉スキー場 (Norikura)",
-          "snow": 0.4,
-          "prefecture": "長野県",
-          "lat": 36.775,
-          "lon": 137.865
-        },
-        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -3922,6 +3901,20 @@
           "lon": 138.6339
         },
         {
+          "name": "白馬コルチナスキー場 (Cortina)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.785,
+          "lon": 137.885
+        },
+        {
+          "name": "白馬乗鞍温泉スキー場 (Norikura)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.775,
+          "lon": 137.865
+        },
+        {
           "name": "白馬岩岳スノーフィールド (Iwatake)",
           "snow": 0,
           "prefecture": "長野県",
@@ -3962,6 +3955,13 @@
           "prefecture": "長野県",
           "lat": 36.765,
           "lon": 138.085
+        },
+        {
+          "name": "車山高原SKYPARK (Kurumayama)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.105,
+          "lon": 138.205
         },
         {
           "name": "奥志賀高原スキー場 (Okushiga)",
