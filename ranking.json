@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21T16:27:41.583Z",
+  "updated_at": "2026-03-21T17:24:08.989Z",
   "dates": [
     {
       "date": "2026-03-22",
@@ -1698,13 +1698,6 @@
       "display_date": "3/24 (火)",
       "rankings": [
         {
-          "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 2.5,
-          "prefecture": "新潟県",
-          "lat": 36.895,
-          "lon": 138.135
-        },
-        {
           "name": "サッポロテイネ (Sapporo Teine)",
           "snow": 1.8,
           "prefecture": "北海道",
@@ -1712,8 +1705,15 @@
           "lon": 141.2044
         },
         {
+          "name": "関温泉スキー場 (Seki Onsen)",
+          "snow": 1.4,
+          "prefecture": "新潟県",
+          "lat": 36.895,
+          "lon": 138.135
+        },
+        {
           "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0.5,
+          "snow": 0.4,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
@@ -1726,11 +1726,11 @@
           "lon": 142.3456
         },
         {
-          "name": "万座温泉スキー場 (Manza Onsen)",
+          "name": "月山スキー場 (Gassan)",
           "snow": 0.1,
-          "prefecture": "群馬県",
-          "lat": 36.6341,
-          "lon": 138.5133
+          "prefecture": "山形県",
+          "lat": 38.51892,
+          "lon": 140.00662
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -1929,13 +1929,6 @@
           "lon": 140.455
         },
         {
-          "name": "月山スキー場 (Gassan)",
-          "snow": 0,
-          "prefecture": "山形県",
-          "lat": 38.51892,
-          "lon": 140.00662
-        },
-        {
           "name": "星野リゾート ネコマ マウンテン (Nekoma)",
           "snow": 0,
           "prefecture": "福島県",
@@ -2025,6 +2018,13 @@
           "prefecture": "群馬県",
           "lat": 36.7867,
           "lon": 139.0667
+        },
+        {
+          "name": "万座温泉スキー場 (Manza Onsen)",
+          "snow": 0,
+          "prefecture": "群馬県",
+          "lat": 36.6341,
+          "lon": 138.5133
         },
         {
           "name": "ノルン水上スキー場 (Norn Minakami)",
