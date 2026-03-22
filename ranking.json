@@ -1,10 +1,45 @@
 {
-  "updated_at": "2026-03-22T11:22:11.161Z",
+  "updated_at": "2026-03-22T12:47:35.872Z",
   "dates": [
     {
       "date": "2026-03-23",
       "display_date": "3/23 (月)",
       "rankings": [
+        {
+          "name": "サンメドウズ清里 (Sun Meadows)",
+          "snow": 0.5,
+          "prefecture": "山梨県",
+          "lat": 35.9381,
+          "lon": 138.4069
+        },
+        {
+          "name": "車山高原SKYPARK (Kurumayama)",
+          "snow": 0.1,
+          "prefecture": "長野県",
+          "lat": 36.105,
+          "lon": 138.205
+        },
+        {
+          "name": "ふじてんスノーリゾート (Fujiten)",
+          "snow": 0.1,
+          "prefecture": "山梨県",
+          "lat": 35.4328,
+          "lon": 138.6947
+        },
+        {
+          "name": "スノーウェーブパーク白鳥高原 (Shiratori Kogen)",
+          "snow": 0.1,
+          "prefecture": "岐阜県",
+          "lat": 35.9397,
+          "lon": 136.7864
+        },
+        {
+          "name": "ほおのき平スキー場 (Honoki Daira)",
+          "snow": 0.1,
+          "prefecture": "岐阜県",
+          "lat": 36.1436,
+          "lon": 137.4528
+        },
         {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
@@ -573,32 +608,11 @@
           "lon": 138.085
         },
         {
-          "name": "車山高原SKYPARK (Kurumayama)",
-          "snow": 0,
-          "prefecture": "長野県",
-          "lat": 36.105,
-          "lon": 138.205
-        },
-        {
           "name": "奥志賀高原スキー場 (Okushiga)",
           "snow": 0,
           "prefecture": "長野県",
           "lat": 36.78,
           "lon": 138.54
-        },
-        {
-          "name": "ふじてんスノーリゾート (Fujiten)",
-          "snow": 0,
-          "prefecture": "山梨県",
-          "lat": 35.4328,
-          "lon": 138.6947
-        },
-        {
-          "name": "サンメドウズ清里 (Sun Meadows)",
-          "snow": 0,
-          "prefecture": "山梨県",
-          "lat": 35.9381,
-          "lon": 138.4069
         },
         {
           "name": "カムイみさかスキー場 (Misaka)",
@@ -643,25 +657,11 @@
           "lon": 136.7906
         },
         {
-          "name": "スノーウェーブパーク白鳥高原 (Shiratori Kogen)",
-          "snow": 0,
-          "prefecture": "岐阜県",
-          "lat": 35.9397,
-          "lon": 136.7864
-        },
-        {
           "name": "めいほうスキー場 (Meiho)",
           "snow": 0,
           "prefecture": "岐阜県",
           "lat": 35.9418,
           "lon": 137.043
-        },
-        {
-          "name": "ほおのき平スキー場 (Honoki Daira)",
-          "snow": 0,
-          "prefecture": "岐阜県",
-          "lat": 36.1436,
-          "lon": 137.4528
         },
         {
           "name": "ひるがの高原スキー場 (Hirugano)",
@@ -853,17 +853,31 @@
       "rankings": [
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 1.3,
+          "snow": 1.8,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
         },
         {
           "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0.5,
+          "snow": 0.2,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
+        },
+        {
+          "name": "菅平高原スノーリゾート (Sugadaira)",
+          "snow": 0.2,
+          "prefecture": "長野県",
+          "lat": 36.5414,
+          "lon": 138.3581
+        },
+        {
+          "name": "月山スキー場 (Gassan)",
+          "snow": 0.1,
+          "prefecture": "山形県",
+          "lat": 38.51892,
+          "lon": 140.00662
         },
         {
           "name": "万座温泉スキー場 (Manza Onsen)",
@@ -871,6 +885,13 @@
           "prefecture": "群馬県",
           "lat": 36.6341,
           "lon": 138.5133
+        },
+        {
+          "name": "志賀高原 焼額山 (Shiga Kogen)",
+          "snow": 0.1,
+          "prefecture": "長野県",
+          "lat": 36.7621,
+          "lon": 138.5367
         },
         {
           "name": "奥志賀高原スキー場 (Okushiga)",
@@ -1088,13 +1109,6 @@
           "prefecture": "山形県",
           "lat": 38.455,
           "lon": 140.455
-        },
-        {
-          "name": "月山スキー場 (Gassan)",
-          "snow": 0,
-          "prefecture": "山形県",
-          "lat": 38.51892,
-          "lon": 140.00662
         },
         {
           "name": "星野リゾート ネコマ マウンテン (Nekoma)",
@@ -1347,20 +1361,6 @@
           "prefecture": "長野県",
           "lat": 36.9197,
           "lon": 138.4485
-        },
-        {
-          "name": "志賀高原 焼額山 (Shiga Kogen)",
-          "snow": 0,
-          "prefecture": "長野県",
-          "lat": 36.7621,
-          "lon": 138.5367
-        },
-        {
-          "name": "菅平高原スノーリゾート (Sugadaira)",
-          "snow": 0,
-          "prefecture": "長野県",
-          "lat": 36.5414,
-          "lon": 138.3581
         },
         {
           "name": "軽井沢プリンスホテルスキー場 (Karuizawa)",
