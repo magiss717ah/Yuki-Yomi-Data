@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T14:26:30.829Z",
+  "updated_at": "2026-03-22T15:24:40.322Z",
   "dates": [
     {
       "date": "2026-03-23",
@@ -32,13 +32,6 @@
           "prefecture": "岐阜県",
           "lat": 35.9397,
           "lon": 136.7864
-        },
-        {
-          "name": "ほおのき平スキー場 (Honoki Daira)",
-          "snow": 0.1,
-          "prefecture": "岐阜県",
-          "lat": 36.1436,
-          "lon": 137.4528
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -662,6 +655,13 @@
           "prefecture": "岐阜県",
           "lat": 35.9418,
           "lon": 137.043
+        },
+        {
+          "name": "ほおのき平スキー場 (Honoki Daira)",
+          "snow": 0,
+          "prefecture": "岐阜県",
+          "lat": 36.1436,
+          "lon": 137.4528
         },
         {
           "name": "ひるがの高原スキー場 (Hirugano)",
