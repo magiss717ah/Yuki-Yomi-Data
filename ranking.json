@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T05:52:04.070Z",
+  "updated_at": "2026-03-22T06:49:27.108Z",
   "dates": [
     {
       "date": "2026-03-23",
@@ -853,14 +853,14 @@
       "rankings": [
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 0.7,
+          "snow": 1.1,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
         },
         {
           "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0.2,
+          "snow": 0.8,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
@@ -878,6 +878,20 @@
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
+        },
+        {
+          "name": "月山スキー場 (Gassan)",
+          "snow": 0.1,
+          "prefecture": "山形県",
+          "lat": 38.51892,
+          "lon": 140.00662
+        },
+        {
+          "name": "志賀高原 焼額山 (Shiga Kogen)",
+          "snow": 0.1,
+          "prefecture": "長野県",
+          "lat": 36.7621,
+          "lon": 138.5367
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -1074,13 +1088,6 @@
           "prefecture": "山形県",
           "lat": 38.455,
           "lon": 140.455
-        },
-        {
-          "name": "月山スキー場 (Gassan)",
-          "snow": 0,
-          "prefecture": "山形県",
-          "lat": 38.51892,
-          "lon": 140.00662
         },
         {
           "name": "星野リゾート ネコマ マウンテン (Nekoma)",
@@ -1340,13 +1347,6 @@
           "prefecture": "長野県",
           "lat": 36.9197,
           "lon": 138.4485
-        },
-        {
-          "name": "志賀高原 焼額山 (Shiga Kogen)",
-          "snow": 0,
-          "prefecture": "長野県",
-          "lat": 36.7621,
-          "lon": 138.5367
         },
         {
           "name": "菅平高原スノーリゾート (Sugadaira)",
