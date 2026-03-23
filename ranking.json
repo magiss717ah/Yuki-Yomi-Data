@@ -1,38 +1,10 @@
 {
-  "updated_at": "2026-03-23T14:53:04.543Z",
+  "updated_at": "2026-03-23T15:58:35.911Z",
   "dates": [
     {
       "date": "2026-03-24",
       "display_date": "3/24 (火)",
       "rankings": [
-        {
-          "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 0.9,
-          "prefecture": "新潟県",
-          "lat": 36.895,
-          "lon": 138.135
-        },
-        {
-          "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0.6,
-          "prefecture": "青森県",
-          "lat": 40.6868,
-          "lon": 140.8654
-        },
-        {
-          "name": "サッポロテイネ (Sapporo Teine)",
-          "snow": 0.1,
-          "prefecture": "北海道",
-          "lat": 43.0973,
-          "lon": 141.2044
-        },
-        {
-          "name": "奥志賀高原スキー場 (Okushiga)",
-          "snow": 0.1,
-          "prefecture": "長野県",
-          "lat": 36.78,
-          "lon": 138.54
-        },
         {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
@@ -76,6 +48,13 @@
           "lon": 142.6322
         },
         {
+          "name": "サッポロテイネ (Sapporo Teine)",
+          "snow": 0,
+          "prefecture": "北海道",
+          "lat": 43.0973,
+          "lon": 141.2044
+        },
+        {
           "name": "カムイスキーリンクス (Kamui)",
           "snow": 0,
           "prefecture": "北海道",
@@ -102,6 +81,13 @@
           "prefecture": "北海道",
           "lat": 43.6542,
           "lon": 142.7964
+        },
+        {
+          "name": "八甲田スキー場 (Hakkoda)",
+          "snow": 0,
+          "prefecture": "青森県",
+          "lat": 40.6868,
+          "lon": 140.8654
         },
         {
           "name": "青森スプリング (Aomori Spring)",
@@ -461,6 +447,13 @@
           "lon": 138.165
         },
         {
+          "name": "関温泉スキー場 (Seki Onsen)",
+          "snow": 0,
+          "prefecture": "新潟県",
+          "lat": 36.895,
+          "lon": 138.135
+        },
+        {
           "name": "上越国際スキー場 (Joetsu Kokusai)",
           "snow": 0,
           "prefecture": "新潟県",
@@ -585,6 +578,13 @@
           "prefecture": "長野県",
           "lat": 36.105,
           "lon": 138.205
+        },
+        {
+          "name": "奥志賀高原スキー場 (Okushiga)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.78,
+          "lon": 138.54
         },
         {
           "name": "ふじてんスノーリゾート (Fujiten)",
