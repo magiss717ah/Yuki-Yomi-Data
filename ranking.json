@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T02:05:12.606Z",
+  "updated_at": "2026-03-23T05:01:36.214Z",
   "dates": [
     {
       "date": "2026-03-24",
@@ -1727,14 +1727,14 @@
         },
         {
           "name": "白馬コルチナスキー場 (Cortina)",
-          "snow": 0.8,
+          "snow": 0.4,
           "prefecture": "長野県",
           "lat": 36.785,
           "lon": 137.885
         },
         {
           "name": "白馬乗鞍温泉スキー場 (Norikura)",
-          "snow": 0.8,
+          "snow": 0.4,
           "prefecture": "長野県",
           "lat": 36.775,
           "lon": 137.865
@@ -2544,6 +2544,13 @@
       "display_date": "3/27 (金)",
       "rankings": [
         {
+          "name": "カムイスキーリンクス (Kamui)",
+          "snow": 0.1,
+          "prefecture": "北海道",
+          "lat": 43.6444,
+          "lon": 142.2283
+        },
+        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -2591,13 +2598,6 @@
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
-        },
-        {
-          "name": "カムイスキーリンクス (Kamui)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.6444,
-          "lon": 142.2283
         },
         {
           "name": "サホロリゾート (Sahoro)",
