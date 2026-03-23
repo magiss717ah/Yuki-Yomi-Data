@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T11:41:45.199Z",
+  "updated_at": "2026-03-23T13:03:43.065Z",
   "dates": [
     {
       "date": "2026-03-24",
@@ -7,31 +7,17 @@
       "rankings": [
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 1.6,
+          "snow": 0.9,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
         },
         {
           "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0.4,
+          "snow": 0.6,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
-        },
-        {
-          "name": "奥志賀高原スキー場 (Okushiga)",
-          "snow": 0.3,
-          "prefecture": "長野県",
-          "lat": 36.78,
-          "lon": 138.54
-        },
-        {
-          "name": "志賀高原 焼額山 (Shiga Kogen)",
-          "snow": 0.2,
-          "prefecture": "長野県",
-          "lat": 36.7621,
-          "lon": 138.5367
         },
         {
           "name": "サッポロテイネ (Sapporo Teine)",
@@ -39,6 +25,13 @@
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
+        },
+        {
+          "name": "奥志賀高原スキー場 (Okushiga)",
+          "snow": 0.1,
+          "prefecture": "長野県",
+          "lat": 36.78,
+          "lon": 138.54
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -508,6 +501,13 @@
           "prefecture": "長野県",
           "lat": 36.9197,
           "lon": 138.4485
+        },
+        {
+          "name": "志賀高原 焼額山 (Shiga Kogen)",
+          "snow": 0,
+          "prefecture": "長野県",
+          "lat": 36.7621,
+          "lon": 138.5367
         },
         {
           "name": "菅平高原スノーリゾート (Sugadaira)",
