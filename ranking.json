@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T08:53:19.639Z",
+  "updated_at": "2026-03-23T10:01:04.858Z",
   "dates": [
     {
       "date": "2026-03-24",
@@ -39,6 +39,13 @@
           "prefecture": "群馬県",
           "lat": 36.6341,
           "lon": 138.5133
+        },
+        {
+          "name": "サッポロテイネ (Sapporo Teine)",
+          "snow": 0.1,
+          "prefecture": "北海道",
+          "lat": 43.0973,
+          "lon": 141.2044
         },
         {
           "name": "月山スキー場 (Gassan)",
@@ -95,13 +102,6 @@
           "prefecture": "北海道",
           "lat": 43.0628,
           "lon": 142.6322
-        },
-        {
-          "name": "サッポロテイネ (Sapporo Teine)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.0973,
-          "lon": 141.2044
         },
         {
           "name": "カムイスキーリンクス (Kamui)",
@@ -2544,13 +2544,6 @@
       "display_date": "3/27 (金)",
       "rankings": [
         {
-          "name": "カムイスキーリンクス (Kamui)",
-          "snow": 0.1,
-          "prefecture": "北海道",
-          "lat": 43.6444,
-          "lon": 142.2283
-        },
-        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -2598,6 +2591,13 @@
           "prefecture": "北海道",
           "lat": 43.0973,
           "lon": 141.2044
+        },
+        {
+          "name": "カムイスキーリンクス (Kamui)",
+          "snow": 0,
+          "prefecture": "北海道",
+          "lat": 43.6444,
+          "lon": 142.2283
         },
         {
           "name": "サホロリゾート (Sahoro)",
