@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T23:25:35.865Z",
+  "updated_at": "2026-03-23T02:05:12.606Z",
   "dates": [
     {
       "date": "2026-03-24",
@@ -7,17 +7,24 @@
       "rankings": [
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 1.8,
+          "snow": 2.5,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
         },
         {
           "name": "八甲田スキー場 (Hakkoda)",
-          "snow": 0.3,
+          "snow": 0.2,
           "prefecture": "青森県",
           "lat": 40.6868,
           "lon": 140.8654
+        },
+        {
+          "name": "志賀高原 焼額山 (Shiga Kogen)",
+          "snow": 0.2,
+          "prefecture": "長野県",
+          "lat": 36.7621,
+          "lon": 138.5367
         },
         {
           "name": "月山スキー場 (Gassan)",
@@ -27,11 +34,11 @@
           "lon": 140.00662
         },
         {
-          "name": "志賀高原 焼額山 (Shiga Kogen)",
+          "name": "万座温泉スキー場 (Manza Onsen)",
           "snow": 0.1,
-          "prefecture": "長野県",
-          "lat": 36.7621,
-          "lon": 138.5367
+          "prefecture": "群馬県",
+          "lat": 36.6341,
+          "lon": 138.5133
         },
         {
           "name": "菅平高原スノーリゾート (Sugadaira)",
@@ -347,13 +354,6 @@
           "prefecture": "群馬県",
           "lat": 36.7867,
           "lon": 139.0667
-        },
-        {
-          "name": "万座温泉スキー場 (Manza Onsen)",
-          "snow": 0,
-          "prefecture": "群馬県",
-          "lat": 36.6341,
-          "lon": 138.5133
         },
         {
           "name": "ノルン水上スキー場 (Norn Minakami)",
