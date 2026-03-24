@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T23:30:37.734Z",
+  "updated_at": "2026-03-24T01:57:04.429Z",
   "dates": [
     {
       "date": "2026-03-25",
@@ -853,10 +853,17 @@
       "rankings": [
         {
           "name": "万座温泉スキー場 (Manza Onsen)",
-          "snow": 0.3,
+          "snow": 1.7,
           "prefecture": "群馬県",
           "lat": 36.6341,
           "lon": 138.5133
+        },
+        {
+          "name": "車山高原SKYPARK (Kurumayama)",
+          "snow": 1.6,
+          "prefecture": "長野県",
+          "lat": 36.105,
+          "lon": 138.205
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -1417,13 +1424,6 @@
           "prefecture": "長野県",
           "lat": 36.765,
           "lon": 138.085
-        },
-        {
-          "name": "車山高原SKYPARK (Kurumayama)",
-          "snow": 0,
-          "prefecture": "長野県",
-          "lat": 36.105,
-          "lon": 138.205
         },
         {
           "name": "奥志賀高原スキー場 (Okushiga)",
