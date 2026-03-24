@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T01:57:04.429Z",
+  "updated_at": "2026-03-24T04:22:05.543Z",
   "dates": [
     {
       "date": "2026-03-25",
@@ -2544,6 +2544,20 @@
       "display_date": "3/28 (土)",
       "rankings": [
         {
+          "name": "サホロリゾート (Sahoro)",
+          "snow": 0.4,
+          "prefecture": "北海道",
+          "lat": 43.1749,
+          "lon": 142.8076
+        },
+        {
+          "name": "トマムスキー場 (Tomamu)",
+          "snow": 0.2,
+          "prefecture": "北海道",
+          "lat": 43.0628,
+          "lon": 142.6322
+        },
+        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -2579,13 +2593,6 @@
           "lon": 141.0827
         },
         {
-          "name": "トマムスキー場 (Tomamu)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.0628,
-          "lon": 142.6322
-        },
-        {
           "name": "サッポロテイネ (Sapporo Teine)",
           "snow": 0,
           "prefecture": "北海道",
@@ -2598,13 +2605,6 @@
           "prefecture": "北海道",
           "lat": 43.6444,
           "lon": 142.2283
-        },
-        {
-          "name": "サホロリゾート (Sahoro)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.1749,
-          "lon": 142.8076
         },
         {
           "name": "ニセコモイワスキー場 (Niseko Moiwa)",
@@ -5082,6 +5082,13 @@
       "display_date": "3/31 (火)",
       "rankings": [
         {
+          "name": "サホロリゾート (Sahoro)",
+          "snow": 0.1,
+          "prefecture": "北海道",
+          "lat": 43.1749,
+          "lon": 142.8076
+        },
+        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -5136,13 +5143,6 @@
           "prefecture": "北海道",
           "lat": 43.6444,
           "lon": 142.2283
-        },
-        {
-          "name": "サホロリゾート (Sahoro)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.1749,
-          "lon": 142.8076
         },
         {
           "name": "ニセコモイワスキー場 (Niseko Moiwa)",
