@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T11:43:27.416Z",
+  "updated_at": "2026-03-24T13:08:11.807Z",
   "dates": [
     {
       "date": "2026-03-25",
@@ -853,52 +853,52 @@
       "rankings": [
         {
           "name": "万座温泉スキー場 (Manza Onsen)",
-          "snow": 9.1,
+          "snow": 9,
           "prefecture": "群馬県",
           "lat": 36.6341,
           "lon": 138.5133
         },
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 3.8,
+          "snow": 2.2,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
         },
         {
-          "name": "車山高原SKYPARK (Kurumayama)",
-          "snow": 2.4,
-          "prefecture": "長野県",
-          "lat": 36.105,
-          "lon": 138.205
-        },
-        {
-          "name": "ほおのき平スキー場 (Honoki Daira)",
-          "snow": 1.2,
-          "prefecture": "岐阜県",
-          "lat": 36.1436,
-          "lon": 137.4528
-        },
-        {
           "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
-          "snow": 1.1,
+          "snow": 1.6,
           "prefecture": "宮城県",
           "lat": 38.125,
           "lon": 140.482
         },
         {
-          "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
-          "snow": 0.5,
-          "prefecture": "栃木県",
-          "lat": 36.805,
-          "lon": 139.42
+          "name": "車山高原SKYPARK (Kurumayama)",
+          "snow": 1.3,
+          "prefecture": "長野県",
+          "lat": 36.105,
+          "lon": 138.205
         },
         {
           "name": "丸沼高原スキー場 (Marunuma)",
-          "snow": 0.2,
+          "snow": 0.6,
           "prefecture": "群馬県",
           "lat": 36.8183,
           "lon": 139.3364
+        },
+        {
+          "name": "サンメドウズ清里 (Sun Meadows)",
+          "snow": 0.3,
+          "prefecture": "山梨県",
+          "lat": 35.9381,
+          "lon": 138.4069
+        },
+        {
+          "name": "ほおのき平スキー場 (Honoki Daira)",
+          "snow": 0.1,
+          "prefecture": "岐阜県",
+          "lat": 36.1436,
+          "lon": 137.4528
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -1181,6 +1181,13 @@
           "lon": 139.755
         },
         {
+          "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
+          "snow": 0,
+          "prefecture": "栃木県",
+          "lat": 36.805,
+          "lon": 139.42
+        },
+        {
           "name": "川場スキー場 (Kawaba)",
           "snow": 0,
           "prefecture": "群馬県",
@@ -1445,13 +1452,6 @@
           "prefecture": "山梨県",
           "lat": 35.4328,
           "lon": 138.6947
-        },
-        {
-          "name": "サンメドウズ清里 (Sun Meadows)",
-          "snow": 0,
-          "prefecture": "山梨県",
-          "lat": 35.9381,
-          "lon": 138.4069
         },
         {
           "name": "カムイみさかスキー場 (Misaka)",
