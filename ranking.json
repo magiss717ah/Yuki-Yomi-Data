@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T08:51:34.092Z",
+  "updated_at": "2026-03-24T09:54:36.261Z",
   "dates": [
     {
       "date": "2026-03-25",
@@ -2544,13 +2544,6 @@
       "display_date": "3/28 (土)",
       "rankings": [
         {
-          "name": "サホロリゾート (Sahoro)",
-          "snow": 0.2,
-          "prefecture": "北海道",
-          "lat": 43.1749,
-          "lon": 142.8076
-        },
-        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -2605,6 +2598,13 @@
           "prefecture": "北海道",
           "lat": 43.6444,
           "lon": 142.2283
+        },
+        {
+          "name": "サホロリゾート (Sahoro)",
+          "snow": 0,
+          "prefecture": "北海道",
+          "lat": 43.1749,
+          "lon": 142.8076
         },
         {
           "name": "ニセコモイワスキー場 (Niseko Moiwa)",
