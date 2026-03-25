@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T23:30:57.840Z",
+  "updated_at": "2026-03-25T02:03:15.715Z",
   "dates": [
     {
       "date": "2026-03-26",
@@ -7,59 +7,59 @@
       "rankings": [
         {
           "name": "万座温泉スキー場 (Manza Onsen)",
-          "snow": 8.9,
+          "snow": 9,
           "prefecture": "群馬県",
           "lat": 36.6341,
           "lon": 138.5133
         },
         {
           "name": "関温泉スキー場 (Seki Onsen)",
-          "snow": 3.5,
+          "snow": 3.1,
           "prefecture": "新潟県",
           "lat": 36.895,
           "lon": 138.135
         },
         {
-          "name": "車山高原SKYPARK (Kurumayama)",
-          "snow": 2.6,
-          "prefecture": "長野県",
-          "lat": 36.105,
-          "lon": 138.205
-        },
-        {
           "name": "マウンテンフィールド宮城蔵王すみかわ (Sumikawa)",
-          "snow": 2,
+          "snow": 2.3,
           "prefecture": "宮城県",
           "lat": 38.125,
           "lon": 140.482
         },
         {
+          "name": "車山高原SKYPARK (Kurumayama)",
+          "snow": 2.2,
+          "prefecture": "長野県",
+          "lat": 36.105,
+          "lon": 138.205
+        },
+        {
           "name": "サンメドウズ清里 (Sun Meadows)",
-          "snow": 2,
+          "snow": 0.6,
           "prefecture": "山梨県",
           "lat": 35.9381,
           "lon": 138.4069
         },
         {
-          "name": "ほおのき平スキー場 (Honoki Daira)",
-          "snow": 1.7,
-          "prefecture": "岐阜県",
-          "lat": 36.1436,
-          "lon": 137.4528
+          "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
+          "snow": 0.1,
+          "prefecture": "栃木県",
+          "lat": 36.805,
+          "lon": 139.42
         },
         {
           "name": "丸沼高原スキー場 (Marunuma)",
-          "snow": 0.8,
+          "snow": 0.1,
           "prefecture": "群馬県",
           "lat": 36.8183,
           "lon": 139.3364
         },
         {
-          "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
-          "snow": 0.7,
-          "prefecture": "栃木県",
-          "lat": 36.805,
-          "lon": 139.42
+          "name": "ほおのき平スキー場 (Honoki Daira)",
+          "snow": 0.1,
+          "prefecture": "岐阜県",
+          "lat": 36.1436,
+          "lon": 137.4528
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -852,11 +852,18 @@
       "display_date": "3/27 (金)",
       "rankings": [
         {
-          "name": "万座温泉スキー場 (Manza Onsen)",
+          "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
+          "snow": 0.2,
+          "prefecture": "栃木県",
+          "lat": 36.805,
+          "lon": 139.42
+        },
+        {
+          "name": "丸沼高原スキー場 (Marunuma)",
           "snow": 0.1,
           "prefecture": "群馬県",
-          "lat": 36.6341,
-          "lon": 138.5133
+          "lat": 36.8183,
+          "lon": 139.3364
         },
         {
           "name": "ニセコユナイテッド (Niseko United)",
@@ -1146,20 +1153,6 @@
           "lon": 139.755
         },
         {
-          "name": "日光湯元温泉スキー場 (Nikko Yumoto)",
-          "snow": 0,
-          "prefecture": "栃木県",
-          "lat": 36.805,
-          "lon": 139.42
-        },
-        {
-          "name": "丸沼高原スキー場 (Marunuma)",
-          "snow": 0,
-          "prefecture": "群馬県",
-          "lat": 36.8183,
-          "lon": 139.3364
-        },
-        {
           "name": "川場スキー場 (Kawaba)",
           "snow": 0,
           "prefecture": "群馬県",
@@ -1172,6 +1165,13 @@
           "prefecture": "群馬県",
           "lat": 36.7867,
           "lon": 139.0667
+        },
+        {
+          "name": "万座温泉スキー場 (Manza Onsen)",
+          "snow": 0,
+          "prefecture": "群馬県",
+          "lat": 36.6341,
+          "lon": 138.5133
         },
         {
           "name": "ノルン水上スキー場 (Norn Minakami)",
