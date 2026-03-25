@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T08:50:22.998Z",
+  "updated_at": "2026-03-25T09:52:41.618Z",
   "dates": [
     {
       "date": "2026-03-26",
@@ -1698,6 +1698,34 @@
       "display_date": "3/28 (土)",
       "rankings": [
         {
+          "name": "トマムスキー場 (Tomamu)",
+          "snow": 0.6,
+          "prefecture": "北海道",
+          "lat": 43.0628,
+          "lon": 142.6322
+        },
+        {
+          "name": "サホロリゾート (Sahoro)",
+          "snow": 0.6,
+          "prefecture": "北海道",
+          "lat": 43.1749,
+          "lon": 142.8076
+        },
+        {
+          "name": "富良野スキー場 (Furano)",
+          "snow": 0.4,
+          "prefecture": "北海道",
+          "lat": 43.3243,
+          "lon": 142.3456
+        },
+        {
+          "name": "サッポロテイネ (Sapporo Teine)",
+          "snow": 0.1,
+          "prefecture": "北海道",
+          "lat": 43.0973,
+          "lon": 141.2044
+        },
+        {
           "name": "ニセコユナイテッド (Niseko United)",
           "snow": 0,
           "prefecture": "北海道",
@@ -1710,13 +1738,6 @@
           "prefecture": "北海道",
           "lat": 42.7533,
           "lon": 140.9029
-        },
-        {
-          "name": "富良野スキー場 (Furano)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.3243,
-          "lon": 142.3456
         },
         {
           "name": "キロロスノーワールド (Kiroro)",
@@ -1733,32 +1754,11 @@
           "lon": 141.0827
         },
         {
-          "name": "トマムスキー場 (Tomamu)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.0628,
-          "lon": 142.6322
-        },
-        {
-          "name": "サッポロテイネ (Sapporo Teine)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.0973,
-          "lon": 141.2044
-        },
-        {
           "name": "カムイスキーリンクス (Kamui)",
           "snow": 0,
           "prefecture": "北海道",
           "lat": 43.6444,
           "lon": 142.2283
-        },
-        {
-          "name": "サホロリゾート (Sahoro)",
-          "snow": 0,
-          "prefecture": "北海道",
-          "lat": 43.1749,
-          "lon": 142.8076
         },
         {
           "name": "ニセコモイワスキー場 (Niseko Moiwa)",
