@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T23:30:49.542Z",
+  "updated_at": "2026-03-27T02:09:38.928Z",
   "dates": [
     {
       "date": "2026-03-28",
@@ -16,7 +16,7 @@
             "snowQuality": 0.7,
             "weather": 0.5,
             "wind": 0.7231218051243897,
-            "visibility": 0.034356615757743576
+            "visibility": 0.007420946872565819
           }
         },
         {
@@ -30,7 +30,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.6456563062257954,
-            "visibility": 0.9999999063779678
+            "visibility": 0.9887045995725687
           }
         },
         {
@@ -44,7 +44,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.826353352980995,
-            "visibility": 0.261149993915751
+            "visibility": 0.02137346279068961
           }
         },
         {
@@ -58,7 +58,7 @@
             "snowQuality": 0.7,
             "weather": 0,
             "wind": 0.9370266439430035,
-            "visibility": 0.007075616036711294
+            "visibility": 0.007246239595831429
           }
         },
         {
@@ -72,7 +72,7 @@
             "snowQuality": 0.7,
             "weather": 0,
             "wind": 0.826353352980995,
-            "visibility": 0.01222466072588893
+            "visibility": 0.007132042661800201
           }
         },
         {
@@ -86,7 +86,7 @@
             "snowQuality": 0.7,
             "weather": 0,
             "wind": 0.9701133201963639,
-            "visibility": 0.01222466072588893
+            "visibility": 0.007132042661800201
           }
         },
         {
@@ -100,7 +100,7 @@
             "snowQuality": 0.7,
             "weather": 0,
             "wind": 0.8721384336809187,
-            "visibility": 0.2230465403980427
+            "visibility": 0.9999998569397752
           }
         },
         {
@@ -114,7 +114,7 @@
             "snowQuality": 0.7,
             "weather": 0,
             "wind": 0.8965995485417504,
-            "visibility": 0.9941995359273322
+            "visibility": 0.9980383387492721
           }
         },
         {
@@ -128,7 +128,7 @@
             "snowQuality": 0.7,
             "weather": 0,
             "wind": 0.8721384336809187,
-            "visibility": 0.9862381827674607
+            "visibility": 0.9997857172826397
           }
         },
         {
@@ -142,7 +142,7 @@
             "snowQuality": 0.7,
             "weather": 0.5,
             "wind": 0.6177478747692491,
-            "visibility": 0.9999999063779678
+            "visibility": 0.9887045995725687
           }
         },
         {
@@ -156,7 +156,7 @@
             "snowQuality": 0.7,
             "weather": 0.5,
             "wind": 0.8965995485417504,
-            "visibility": 0.9999999998145062
+            "visibility": 0.9999999997857763
           }
         },
         {
@@ -169,7 +169,7 @@
             "snowfall": 0,
             "snowQuality": 0.7,
             "weather": 0.8,
-            "wind": 0.9683237716209436,
+            "wind": 0.9718047120298574,
             "visibility": 1
           }
         },
@@ -183,7 +183,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8909031788043871,
+            "wind": 0.8849332679544502,
             "visibility": 1
           }
         },
@@ -211,7 +211,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9468488636019362,
+            "wind": 0.9525741268224334,
             "visibility": 1
           }
         },
@@ -225,7 +225,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9776865613009676,
+            "wind": 0.9823636596602773,
             "visibility": 1
           }
         },
@@ -253,7 +253,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9404756340234984,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -267,7 +267,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9623121094913941,
+            "wind": 0.9525741268224334,
             "visibility": 1
           }
         },
@@ -295,7 +295,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9683237716209436,
+            "wind": 0.9718047120298574,
             "visibility": 1
           }
         },
@@ -309,7 +309,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9896462624689083,
+            "wind": 0.990806294632712,
             "visibility": 1
           }
         },
@@ -322,7 +322,7 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.2,
-            "weather": 0.8,
+            "weather": 1,
             "wind": 0.9664307767185175,
             "visibility": 1
           }
@@ -337,7 +337,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9896462624689083,
+            "wind": 0.988341583445167,
             "visibility": 1
           }
         },
@@ -350,8 +350,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0.8,
-            "wind": 0.9552122969502131,
+            "weather": 1,
+            "wind": 0.9437470664268327,
             "visibility": 1
           }
         },
@@ -364,8 +364,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.2,
-            "weather": 0.8,
-            "wind": 0.9577102281579662,
+            "weather": 1,
+            "wind": 0.9552122969502131,
             "visibility": 1
           }
         },
@@ -379,7 +379,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9623121094913941,
+            "wind": 0.9644288107273639,
             "visibility": 1
           }
         },
@@ -393,7 +393,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9497887268097336,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -407,7 +407,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9468488636019362,
+            "wind": 0.9333919644249093,
             "visibility": 1
           }
         },
@@ -421,7 +421,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9437470664268327,
+            "wind": 0.9404756340234984,
             "visibility": 1
           }
         },
@@ -435,7 +435,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9577102281579662,
+            "wind": 0.9552122969502131,
             "visibility": 1
           }
         },
@@ -449,7 +449,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9497887268097336,
+            "wind": 0.9437470664268327,
             "visibility": 1
           }
         },
@@ -462,7 +462,7 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0,
+            "weather": 0.8,
             "wind": 0.9437470664268327,
             "visibility": 1
           }
@@ -476,8 +476,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0,
-            "wind": 0.9763394218445388,
+            "weather": 0.8,
+            "wind": 0.9749130378465203,
             "visibility": 1
           }
         },
@@ -490,7 +490,7 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0,
+            "weather": 0.8,
             "wind": 0.9437470664268327,
             "visibility": 1
           }
@@ -505,7 +505,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9404756340234984,
+            "wind": 0.9295632691071828,
             "visibility": 1
           }
         },
@@ -519,7 +519,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9404756340234984,
+            "wind": 0.9295632691071828,
             "visibility": 1
           }
         },
@@ -532,8 +532,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.2,
-            "weather": 0.8,
-            "wind": 0.9525741268224334,
+            "weather": 0,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -547,7 +547,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9789586529795317,
+            "wind": 0.9812934900456455,
             "visibility": 1
           }
         },
@@ -561,7 +561,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9468488636019362,
+            "wind": 0.9525741268224334,
             "visibility": 1
           }
         },
@@ -575,7 +575,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9789586529795317,
+            "wind": 0.9812934900456455,
             "visibility": 1
           }
         },
@@ -589,7 +589,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9525741268224334,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -603,8 +603,8 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.960074666047186,
-            "visibility": 0.9999999999999989
+            "wind": 0.9525741268224334,
+            "visibility": 1
           }
         },
         {
@@ -617,7 +617,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9852259683067269,
+            "wind": 0.9789586529795317,
             "visibility": 1
           }
         },
@@ -631,7 +631,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9852259683067269,
+            "wind": 0.9801596942659225,
             "visibility": 1
           }
         },
@@ -644,7 +644,7 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.7,
-            "weather": 0,
+            "weather": 0.8,
             "wind": 0.907207046882843,
             "visibility": 1
           }
@@ -659,7 +659,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9876295852598377,
+            "wind": 0.9852259683067269,
             "visibility": 1
           }
         },
@@ -672,9 +672,9 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0.8,
-            "wind": 0.9749130378465203,
-            "visibility": 0.9999999999999989
+            "weather": 0,
+            "wind": 0.9718047120298574,
+            "visibility": 1
           }
         },
         {
@@ -687,8 +687,8 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.973403006423134,
-            "visibility": 0.9999999999999989
+            "wind": 0.9701133201963639,
+            "visibility": 1
           }
         },
         {
@@ -701,7 +701,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0,
-            "wind": 0.988341583445167,
+            "wind": 0.9852259683067269,
             "visibility": 1
           }
         },
@@ -715,7 +715,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0,
-            "wind": 0.9876295852598377,
+            "wind": 0.9852259683067269,
             "visibility": 1
           }
         },
@@ -729,8 +729,8 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9776865613009676,
-            "visibility": 0.999999999999996
+            "wind": 0.9701133201963639,
+            "visibility": 0.9999999999999887
           }
         },
         {
@@ -743,8 +743,8 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9497887268097336,
-            "visibility": 0.999999999999996
+            "wind": 0.9437470664268327,
+            "visibility": 0.9999999999999887
           }
         },
         {
@@ -757,7 +757,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9525741268224334,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -785,7 +785,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9623121094913941,
+            "wind": 0.960074666047186,
             "visibility": 1
           }
         },
@@ -799,7 +799,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9121360851706988,
+            "wind": 0.9168273035060777,
             "visibility": 1
           }
         },
@@ -813,7 +813,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9212896628294647,
+            "wind": 0.907207046882843,
             "visibility": 1
           }
         },
@@ -827,7 +827,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9525741268224334,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -841,7 +841,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9525741268224334,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -869,7 +869,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9683237716209436,
+            "wind": 0.9623121094913941,
             "visibility": 1
           }
         },
@@ -897,7 +897,7 @@
             "snowfall": 0,
             "snowQuality": 0.7,
             "weather": 0.8,
-            "wind": 0.9644288107273639,
+            "wind": 0.9577102281579662,
             "visibility": 1
           }
         },
@@ -911,7 +911,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9295632691071828,
+            "wind": 0.9255320548339719,
             "visibility": 1
           }
         },
@@ -925,7 +925,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8721384336809187,
+            "wind": 0.8652969480479719,
             "visibility": 1
           }
         },
@@ -937,9 +937,9 @@
           "lon": 137.8327,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.3,
+            "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9404756340234984,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -953,7 +953,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9718047120298574,
+            "wind": 0.973403006423134,
             "visibility": 1
           }
         },
@@ -967,7 +967,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9525741268224334,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -981,7 +981,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.7989910002494707,
+            "wind": 0.8084546514385326,
             "visibility": 1
           }
         },
@@ -994,8 +994,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0,
-            "wind": 0.9552122969502131,
+            "weather": 0.8,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -1008,8 +1008,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0,
-            "wind": 0.907207046882843,
+            "weather": 0.8,
+            "wind": 0.9020311957024462,
             "visibility": 1
           }
         },
@@ -1021,9 +1021,9 @@
           "lon": 138.6339,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9664307767185175,
+            "wind": 0.9701133201963639,
             "visibility": 1
           }
         },
@@ -1037,7 +1037,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9468488636019362,
+            "wind": 0.9437470664268327,
             "visibility": 1
           }
         },
@@ -1051,7 +1051,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9468488636019362,
+            "wind": 0.9437470664268327,
             "visibility": 1
           }
         },
@@ -1065,7 +1065,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9404756340234984,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -1079,7 +1079,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9404756340234984,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -1093,7 +1093,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8652969480479719,
+            "wind": 0.8786811621082631,
             "visibility": 1
           }
         },
@@ -1107,7 +1107,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8347951298093854,
+            "wind": 0.8506870654691563,
             "visibility": 1
           }
         },
@@ -1121,7 +1121,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8347951298093854,
+            "wind": 0.8506870654691563,
             "visibility": 1
           }
         },
@@ -1149,7 +1149,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9168273035060777,
+            "wind": 0.9212896628294647,
             "visibility": 1
           }
         },
@@ -1162,8 +1162,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0,
-            "wind": 0.9497887268097336,
+            "weather": 0.8,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -1177,8 +1177,8 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8347951298093854,
-            "visibility": 0.9999999999999956
+            "wind": 0.8506870654691563,
+            "visibility": 0.999999999999998
           }
         },
         {
@@ -1191,7 +1191,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8175744761936437,
+            "wind": 0.8084546514385326,
             "visibility": 1
           }
         },
@@ -1205,8 +1205,8 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9404756340234984,
-            "visibility": 0.9999999999999956
+            "wind": 0.9468488636019362,
+            "visibility": 0.999999999999998
           }
         },
         {
@@ -1232,8 +1232,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0.8,
-            "wind": 0.9121360851706988,
+            "weather": 0,
+            "wind": 0.8786811621082631,
             "visibility": 1
           }
         },
@@ -1261,7 +1261,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9121360851706988,
+            "wind": 0.9168273035060777,
             "visibility": 1
           }
         },
@@ -1275,7 +1275,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9497887268097336,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -1289,7 +1289,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9497887268097336,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -1303,7 +1303,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9468488636019362,
+            "wind": 0.9577102281579662,
             "visibility": 1
           }
         },
@@ -1317,7 +1317,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0,
-            "wind": 0.9212896628294647,
+            "wind": 0.9370266439430035,
             "visibility": 1
           }
         },
@@ -1331,7 +1331,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9370266439430035,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -1344,8 +1344,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.2,
-            "weather": 0,
-            "wind": 0.9664307767185175,
+            "weather": 0.8,
+            "wind": 0.9623121094913941,
             "visibility": 1
           }
         },
@@ -1401,7 +1401,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9121360851706988,
+            "wind": 0.9020311957024462,
             "visibility": 1
           }
         },
@@ -1414,8 +1414,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.2,
-            "weather": 0,
-            "wind": 0.9121360851706988,
+            "weather": 0.8,
+            "wind": 0.907207046882843,
             "visibility": 1
           }
         },
@@ -1429,7 +1429,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9437470664268327,
+            "wind": 0.9370266439430035,
             "visibility": 1
           }
         },
@@ -1443,7 +1443,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.960074666047186,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -1457,7 +1457,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9552122969502131,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -1471,7 +1471,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9644288107273639,
+            "wind": 0.9525741268224334,
             "visibility": 1
           }
         },
@@ -1485,7 +1485,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9404756340234984,
+            "wind": 0.9370266439430035,
             "visibility": 1
           }
         },
@@ -1513,7 +1513,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9370266439430035,
+            "wind": 0.9437470664268327,
             "visibility": 1
           }
         },
@@ -1555,7 +1555,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9168273035060777,
+            "wind": 0.9212896628294647,
             "visibility": 1
           }
         },
@@ -1569,7 +1569,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9168273035060777,
+            "wind": 0.9212896628294647,
             "visibility": 1
           }
         },
@@ -1583,7 +1583,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9525741268224334,
+            "wind": 0.9577102281579662,
             "visibility": 1
           }
         },
@@ -1596,8 +1596,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.2,
-            "weather": 0,
-            "wind": 0.9168273035060777,
+            "weather": 0.8,
+            "wind": 0.9333919644249093,
             "visibility": 1
           }
         },
@@ -1625,7 +1625,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.7464939833376623,
+            "wind": 0.7685247834990175,
             "visibility": 1
           }
         },
@@ -1639,7 +1639,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8786811621082631,
+            "wind": 0.8849332679544502,
             "visibility": 1
           }
         },
@@ -1666,8 +1666,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.2,
-            "weather": 0.8,
-            "wind": 0.9370266439430035,
+            "weather": 1,
+            "wind": 0.9437470664268327,
             "visibility": 1
           }
         },
@@ -1730,7 +1730,7 @@
             "snowQuality": 0.7,
             "weather": 0.8,
             "wind": 0.6726070170677603,
-            "visibility": 1
+            "visibility": 0.9999999999999998
           }
         },
         {
@@ -1814,7 +1814,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.24232036099629511,
-            "visibility": 0.9999999999999993
+            "visibility": 1
           }
         },
         {
@@ -1842,7 +1842,7 @@
             "snowQuality": 0.3,
             "weather": 0.5,
             "wind": 0.6984652160025387,
-            "visibility": 0.9994360607913078
+            "visibility": 0.9999999999929641
           }
         },
         {
@@ -3612,7 +3612,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.6726070170677603,
-            "visibility": 0.9999999999999967
+            "visibility": 1
           }
         },
         {
@@ -3724,7 +3724,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.3407396115486146,
-            "visibility": 0.9999999999877807
+            "visibility": 1
           }
         },
         {
@@ -3738,7 +3738,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.1150667320455498,
-            "visibility": 0.99999999999999
+            "visibility": 1
           }
         },
         {
@@ -3808,7 +3808,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.6177478747692491,
-            "visibility": 1
+            "visibility": 0.9999999999999998
           }
         },
         {
@@ -3822,7 +3822,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.07871033717053527,
-            "visibility": 0.9999999999999984
+            "visibility": 0.9999999999999976
           }
         },
         {
@@ -3878,7 +3878,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.826353352980995,
-            "visibility": 0.9999999999999998
+            "visibility": 1
           }
         },
         {
@@ -3892,7 +3892,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.826353352980995,
-            "visibility": 0.9999999999999998
+            "visibility": 1
           }
         },
         {
@@ -3920,7 +3920,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.8965995485417504,
-            "visibility": 1
+            "visibility": 0.9999999999999987
           }
         },
         {
@@ -3948,7 +3948,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.8347951298093854,
-            "visibility": 1
+            "visibility": 0.9999999999999987
           }
         },
         {
@@ -4018,7 +4018,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.7109495026250039,
-            "visibility": 1
+            "visibility": 0.9999999999999984
           }
         },
         {
@@ -4102,7 +4102,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.24232036099629511,
-            "visibility": 1
+            "visibility": 0.9999999999999998
           }
         },
         {
@@ -4116,7 +4116,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.6984652160025387,
-            "visibility": 1
+            "visibility": 0.9999999999999998
           }
         },
         {
@@ -4242,7 +4242,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.9121360851706988,
-            "visibility": 1
+            "visibility": 0.9999999999999976
           }
         },
         {
@@ -4312,7 +4312,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.425557483188341,
-            "visibility": 0.9999999999999909
+            "visibility": 1
           }
         },
         {
@@ -4326,7 +4326,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.7349725994665188,
-            "visibility": 0.9999999999999909
+            "visibility": 1
           }
         },
         {
@@ -4340,7 +4340,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.425557483188341,
-            "visibility": 1
+            "visibility": 0.999999999999998
           }
         },
         {
@@ -4368,7 +4368,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.8849332679544502,
-            "visibility": 1
+            "visibility": 0.9999999999999984
           }
         },
         {
@@ -4410,7 +4410,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.425557483188341,
-            "visibility": 1
+            "visibility": 0.999999999999998
           }
         },
         {
@@ -4424,7 +4424,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.425557483188341,
-            "visibility": 0.9999999999999909
+            "visibility": 1
           }
         },
         {
@@ -4438,7 +4438,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.425557483188341,
-            "visibility": 0.9999999999999909
+            "visibility": 1
           }
         },
         {
@@ -4452,7 +4452,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.7349725994665188,
-            "visibility": 0.9999999999999909
+            "visibility": 1
           }
         },
         {
@@ -4466,7 +4466,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.8849332679544502,
-            "visibility": 1
+            "visibility": 0.9999999999999984
           }
         },
         {
@@ -4508,7 +4508,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.8429045311145473,
-            "visibility": 1
+            "visibility": 0.999999999999998
           }
         },
         {
@@ -4522,7 +4522,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.01098694263059318,
-            "visibility": 0.9999998029878032
+            "visibility": 0.9999999999997633
           }
         },
         {
@@ -4536,7 +4536,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.8849332679544502,
-            "visibility": 1
+            "visibility": 0.9999999999999984
           }
         },
         {
@@ -4564,7 +4564,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.0250869621534798,
-            "visibility": 0.9999999966422677
+            "visibility": 1
           }
         },
         {
@@ -4592,7 +4592,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.3965167501352738,
-            "visibility": 0.9999999999845899
+            "visibility": 0.9999999999869731
           }
         },
         {
@@ -4606,7 +4606,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.3965167501352738,
-            "visibility": 0.9999999999999791
+            "visibility": 0.9999999999869731
           }
         },
         {
@@ -4620,7 +4620,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.3965167501352738,
-            "visibility": 0.9999999999999791
+            "visibility": 0.9999999999869731
           }
         },
         {
@@ -4634,7 +4634,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.3965167501352738,
-            "visibility": 0.9999999999845899
+            "visibility": 0.9999999999869731
           }
         },
         {
@@ -4648,7 +4648,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.3143198860617461,
-            "visibility": 0.9999999999999791
+            "visibility": 0.9999999999869731
           }
         },
         {
@@ -4662,7 +4662,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.3143198860617461,
-            "visibility": 0.9999999999999791
+            "visibility": 0.9999999999869731
           }
         },
         {
@@ -4676,7 +4676,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.12786156631908138,
-            "visibility": 0.9999999999845899
+            "visibility": 0.9999999999869731
           }
         },
         {
@@ -4690,7 +4690,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.28905049737499605,
-            "visibility": 0.959921058361331
+            "visibility": 0.9999999982152723
           }
         },
         {
@@ -4704,7 +4704,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.3965167501352738,
-            "visibility": 0.9999999999845899
+            "visibility": 0.9999999999869731
           }
         },
         {
@@ -4718,7 +4718,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.10340045145824961,
-            "visibility": 0.9999999999999953
+            "visibility": 0.9999999999982925
           }
         },
         {
@@ -4732,7 +4732,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.1150667320455498,
-            "visibility": 0.9999999999999998
+            "visibility": 1
           }
         },
         {
@@ -4746,7 +4746,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.3143198860617461,
-            "visibility": 0.9999999999999791
+            "visibility": 0.9999999999869731
           }
         },
         {
@@ -4816,7 +4816,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.6034832498647262,
-            "visibility": 1
+            "visibility": 0.9999999999999143
           }
         },
         {
@@ -4872,7 +4872,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.2535060166623378,
-            "visibility": 0.9999999999999998
+            "visibility": 0.9999999984422137
           }
         },
         {
@@ -4900,7 +4900,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.20100899975052933,
-            "visibility": 0.9999999999999967
+            "visibility": 0.9999999999999998
           }
         },
         {
@@ -5354,7 +5354,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.00423553964084342,
-            "visibility": 1
+            "visibility": 0.9999999999966831
           }
         },
         {
@@ -5368,7 +5368,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.589040434058665,
-            "visibility": 1
+            "visibility": 0.9999999999999998
           }
         },
         {
@@ -5396,7 +5396,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.00423553964084342,
-            "visibility": 1
+            "visibility": 0.9999999999966831
           }
         },
         {
@@ -5466,7 +5466,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.6592603884513855,
-            "visibility": 1
+            "visibility": 0.9999999999966831
           }
         },
         {
@@ -5480,7 +5480,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.000039467245100628656,
-            "visibility": 1
+            "visibility": 0.9999999999928506
           }
         },
         {
@@ -5508,7 +5508,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.7576796390037049,
-            "visibility": 1
+            "visibility": 0.9999999999999991
           }
         },
         {
@@ -5522,7 +5522,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0033348073074133443,
-            "visibility": 1
+            "visibility": 0.9999999999999774
           }
         },
         {
@@ -5536,7 +5536,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0033348073074133443,
-            "visibility": 1
+            "visibility": 0.9999999999928506
           }
         },
         {
@@ -5550,7 +5550,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0033348073074133443,
-            "visibility": 1
+            "visibility": 0.9999999999999774
           }
         },
         {
@@ -5564,7 +5564,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.002328964151546739,
-            "visibility": 1
+            "visibility": 0.9999999999584448
           }
         },
         {
@@ -5578,7 +5578,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.002328964151546739,
-            "visibility": 1
+            "visibility": 0.9999999999584448
           }
         },
         {
@@ -5592,7 +5592,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0002857807008418791,
-            "visibility": 1
+            "visibility": 0.9999999997622973
           }
         },
         {
@@ -5606,7 +5606,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.0044962731609411825,
-            "visibility": 0.9999999999999998
+            "visibility": 0.9999999819838997
           }
         },
         {
@@ -5620,7 +5620,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.0002857807008418791,
-            "visibility": 1
+            "visibility": 0.9999999997734375
           }
         },
         {
@@ -5634,7 +5634,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.015673288066048584,
-            "visibility": 0.9999999999999998
+            "visibility": 0.9999999819838997
           }
         },
         {
@@ -5648,7 +5648,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.1150667320455498,
-            "visibility": 0.9999999999998093
+            "visibility": 0.9999603745760278
           }
         },
         {
@@ -5662,7 +5662,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.013925640306500382,
-            "visibility": 0.9999999999999483
+            "visibility": 0.9999999041038591
           }
         },
         {
@@ -5676,7 +5676,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.010353737531091742,
-            "visibility": 0.9999999999999756
+            "visibility": 0.9999982916827022
           }
         },
         {
@@ -5690,7 +5690,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.010353737531091742,
-            "visibility": 0.9999999999999756
+            "visibility": 0.9999982916827022
           }
         },
         {
@@ -5704,7 +5704,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.029886679803636223,
-            "visibility": 0.999999999840663
+            "visibility": 0.9998053280436042
           }
         },
         {
@@ -5718,7 +5718,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.18242552380635635,
-            "visibility": 0.9999999999999756
+            "visibility": 0.9999982916827022
           }
         },
         {
@@ -5732,7 +5732,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.002786996219042281,
-            "visibility": 0.9999999999999483
+            "visibility": 0.9999999041038591
           }
         },
         {
@@ -5746,7 +5746,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.002786996219042281,
-            "visibility": 0.9999999999999483
+            "visibility": 0.9999999041038591
           }
         },
         {
@@ -5760,7 +5760,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0012050842337789477,
-            "visibility": 0.9999999999999756
+            "visibility": 0.9999982916827022
           }
         },
         {
@@ -5774,7 +5774,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.18242552380635635,
-            "visibility": 0.9999999999999756
+            "visibility": 0.9999982916827022
           }
         },
         {
@@ -5788,7 +5788,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.009756665624551365,
-            "visibility": 0.9999999999924991
+            "visibility": 0.995781297347365
           }
         },
         {
@@ -5802,7 +5802,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0024726231566347743,
-            "visibility": 0.9999999999924991
+            "visibility": 0.995781297347365
           }
         },
         {
@@ -5816,7 +5816,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.5448788923735802,
-            "visibility": 1
+            "visibility": 0.9999999907994265
           }
         },
         {
@@ -5830,7 +5830,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.5448788923735802,
-            "visibility": 1
+            "visibility": 0.9999999907994265
           }
         },
         {
@@ -5844,7 +5844,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.1150667320455498,
-            "visibility": 0.9999999999999998
+            "visibility": 0.9999982916827022
           }
         },
         {
@@ -5858,7 +5858,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.0031412132848294247,
-            "visibility": 0.9999999999999685
+            "visibility": 0.9999968872473063
           }
         },
         {
@@ -5872,7 +5872,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.574442516811659,
-            "visibility": 1
+            "visibility": 0.9999999907994265
           }
         },
         {
@@ -5886,7 +5886,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.5448788923735802,
-            "visibility": 1
+            "visibility": 0.9999999907994265
           }
         },
         {
@@ -5900,7 +5900,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.574442516811659,
-            "visibility": 1
+            "visibility": 0.9999999907994265
           }
         },
         {
@@ -5914,7 +5914,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.7790261077798122,
-            "visibility": 0.9999999999999996
+            "visibility": 0.9999999974825013
           }
         },
         {
@@ -5928,7 +5928,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.5,
-            "visibility": 0.9999999999999984
+            "visibility": 0.9999962584243618
           }
         },
         {
@@ -5942,7 +5942,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0031412132848294247,
-            "visibility": 0.9999999999999998
+            "visibility": 0.9999982916827022
           }
         },
         {
@@ -5956,7 +5956,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.0031412132848294247,
-            "visibility": 0.9999999999999998
+            "visibility": 0.9999982916827022
           }
         },
         {
@@ -5970,7 +5970,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.7790261077798122,
-            "visibility": 1
+            "visibility": 0.9999999907994265
           }
         },
         {
@@ -5984,7 +5984,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.02819528797014257,
-            "visibility": 1
+            "visibility": 0.9999999957314856
           }
         },
         {
@@ -5998,7 +5998,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.026596993576865863,
-            "visibility": 0.9999999993641129
+            "visibility": 0.9797670029042146
           }
         },
         {
@@ -6012,7 +6012,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.0250869621534798,
-            "visibility": 0.9999999993641129
+            "visibility": 0.9797670029042146
           }
         },
         {
@@ -6026,7 +6026,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.026596993576865863,
-            "visibility": 0.9999999999981355
+            "visibility": 0.9996537488956686
           }
         },
         {
@@ -6040,7 +6040,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.002328964151546739,
-            "visibility": 1
+            "visibility": 0.9999999957314856
           }
         },
         {
@@ -6054,7 +6054,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.03167622837905641,
-            "visibility": 0.999999999840663
+            "visibility": 0.9998053280436042
           }
         },
         {
@@ -6068,7 +6068,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.10909682119561294,
-            "visibility": 0.999999999999128
+            "visibility": 0.9999996233691764
           }
         },
         {
@@ -6082,7 +6082,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.3965167501352738,
-            "visibility": 0.9999999999997038
+            "visibility": 0.9999931276666936
           }
         },
         {
@@ -6096,7 +6096,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.026596993576865863,
-            "visibility": 0.9999999999981355
+            "visibility": 0.9996537488956686
           }
         },
         {
@@ -6110,7 +6110,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.026596993576865863,
-            "visibility": 0.9999999993641129
+            "visibility": 0.9797670029042146
           }
         },
         {
@@ -6124,7 +6124,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.026596993576865863,
-            "visibility": 0.9999999993641129
+            "visibility": 0.9797670029042146
           }
         },
         {
@@ -6138,7 +6138,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0250869621534798,
-            "visibility": 0.9999999993641129
+            "visibility": 0.9797670029042146
           }
         },
         {
@@ -6152,7 +6152,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.03167622837905641,
-            "visibility": 0.999999999840663
+            "visibility": 0.9998053280436042
           }
         },
         {
@@ -6166,7 +6166,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.0031412132848294247,
-            "visibility": 0.9999999999999685
+            "visibility": 0.9999968872473063
           }
         },
         {
@@ -6180,7 +6180,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.0031412132848294247,
-            "visibility": 0.9999999999999685
+            "visibility": 0.9999968872473063
           }
         },
         {
@@ -6194,7 +6194,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.07043673089281705,
-            "visibility": 0.9999999999981355
+            "visibility": 0.9996537488956686
           }
         },
         {
@@ -6208,7 +6208,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.02231343869903223,
-            "visibility": 0.9999999999973275
+            "visibility": 0.9961964134884649
           }
         },
         {
@@ -6222,7 +6222,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.03167622837905641,
-            "visibility": 0.999999999840663
+            "visibility": 0.9998053280436042
           }
         },
         {
@@ -6236,7 +6236,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0007026140220416549,
-            "visibility": 0.9666893491346411
+            "visibility": 0.6796143329051354
           }
         },
         {
@@ -6250,7 +6250,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.01984030573407751,
-            "visibility": 0.9999999999964355
+            "visibility": 0.9994917354070931
           }
         },
         {
@@ -6264,7 +6264,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.6726070170677603,
-            "visibility": 0.9666893491346411
+            "visibility": 0.6796143329051354
           }
         },
         {
@@ -6278,7 +6278,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.1150667320455498,
-            "visibility": 0.9943363107534109
+            "visibility": 0.9573850283377755
           }
         },
         {
@@ -6292,7 +6292,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.1150667320455498,
-            "visibility": 0.9661702673871027
+            "visibility": 0.3747247960009128
           }
         },
         {
@@ -6306,7 +6306,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.1150667320455498,
-            "visibility": 0.9661702673871027
+            "visibility": 0.3747247960009128
           }
         },
         {
@@ -6320,7 +6320,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.1150667320455498,
-            "visibility": 0.9943363107534109
+            "visibility": 0.9573850283377755
           }
         },
         {
@@ -6334,7 +6334,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.012370414740162428,
-            "visibility": 0.9661702673871027
+            "visibility": 0.3747247960009128
           }
         },
         {
@@ -6348,7 +6348,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.012370414740162428,
-            "visibility": 0.9661702673871027
+            "visibility": 0.3747247960009128
           }
         },
         {
@@ -6362,7 +6362,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.010353737531091742,
-            "visibility": 0.9943363107534109
+            "visibility": 0.9573850283377755
           }
         },
         {
@@ -6376,7 +6376,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.38225212523075086,
-            "visibility": 0.9999516018224729
+            "visibility": 0.11105596671140756
           }
         },
         {
@@ -6390,7 +6390,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.1150667320455498,
-            "visibility": 0.9943363107534109
+            "visibility": 0.9573850283377755
           }
         },
         {
@@ -6404,7 +6404,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.026596993576865863,
-            "visibility": 0.999996136758126
+            "visibility": 0.9997525365080518
           }
         },
         {
@@ -6418,7 +6418,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0744679451660281,
-            "visibility": 0.9964878200367779
+            "visibility": 0.9999926146140752
           }
         },
         {
@@ -6432,7 +6432,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.012370414740162428,
-            "visibility": 0.9661702673871027
+            "visibility": 0.3747247960009128
           }
         },
         {
@@ -6446,7 +6446,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.002786996219042281,
-            "visibility": 0.9940120487332132
+            "visibility": 0.9995345312413917
           }
         },
         {
@@ -6460,7 +6460,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0017263811657371527,
-            "visibility": 0.9999560318024866
+            "visibility": 0.04565117078444373
           }
         },
         {
@@ -6474,7 +6474,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.013925640306500382,
-            "visibility": 0.998814020997263
+            "visibility": 0.9959782167988157
           }
         },
         {
@@ -6488,7 +6488,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.03356922328148252,
-            "visibility": 0.9999560318024866
+            "visibility": 0.04565117078444373
           }
         },
         {
@@ -6502,7 +6502,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0012795071344630122,
-            "visibility": 0.9999998993885834
+            "visibility": 0.7996326495315751
           }
         },
         {
@@ -6516,7 +6516,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.023660578155461225,
-            "visibility": 0.9999560318024866
+            "visibility": 0.04565117078444373
           }
         },
         {
@@ -6530,7 +6530,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.2108182934777472,
-            "visibility": 0.9999830292107447
+            "visibility": 0.1056467358004965
           }
         },
         {
@@ -6544,7 +6544,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.023660578155461225,
-            "visibility": 0.9999830292107447
+            "visibility": 0.1056467358004965
           }
         },
         {
@@ -6558,7 +6558,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.0210413470204683,
-            "visibility": 0.11836552882005752
+            "visibility": 0.21349259321304817
           }
         },
         {
@@ -6572,7 +6572,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.14931293453084374,
-            "visibility": 0.15815770905624837
+            "visibility": 0.009340602702059306
           }
         },
         {
@@ -6586,7 +6586,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.029886679803636223,
-            "visibility": 0.9422419850965748
+            "visibility": 0.9661702673871027
           }
         },
         {
@@ -6600,7 +6600,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.35434369377420455,
-            "visibility": 0.36354745971843366
+            "visibility": 0.010436031753860332
           }
         },
         {
@@ -6614,7 +6614,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.1652048701906147,
-            "visibility": 0.36354745971843366
+            "visibility": 0.010436031753860332
           }
         },
         {
@@ -6628,7 +6628,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.22097389222018785,
-            "visibility": 0.36354745971843366
+            "visibility": 0.010436031753860332
           }
         },
         {
@@ -6642,7 +6642,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.1570954688854527,
-            "visibility": 0.012717214003392662
+            "visibility": 0.9710272837968915
           }
         },
         {
@@ -6656,7 +6656,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.14185106490048782,
-            "visibility": 0.009718095418721774
+            "visibility": 0.49400028798341217
           }
         },
         {
@@ -6670,7 +6670,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.35434369377420455,
-            "visibility": 0.012717214003392662
+            "visibility": 0.9710272837968915
           }
         },
         {
@@ -6684,7 +6684,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.07043673089281705,
-            "visibility": 0.4561132279447145
+            "visibility": 0.9999999999979963
           }
         },
         {
@@ -6698,7 +6698,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.037687890508605916,
-            "visibility": 0.9926959830995805
+            "visibility": 0.017023340545725404
           }
         },
         {
@@ -6712,7 +6712,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.05952436597650152,
-            "visibility": 0.02039219625815854
+            "visibility": 0.010353737531091742
           }
         },
         {
@@ -6726,7 +6726,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.015673288066048584,
-            "visibility": 0.02039219625815854
+            "visibility": 0.010353737531091742
           }
         },
         {
@@ -6740,7 +6740,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.07043673089281705,
-            "visibility": 0.02039219625815854
+            "visibility": 0.010353737531091742
           }
         }
       ]
@@ -7208,7 +7208,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.9525741268224334,
-            "visibility": 0.9999999999923168
+            "visibility": 1
           }
         },
         {
@@ -7236,7 +7236,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.9525741268224334,
-            "visibility": 0.9999999999923168
+            "visibility": 1
           }
         },
         {
@@ -7306,7 +7306,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.9644288107273639,
-            "visibility": 0.9999999999999918
+            "visibility": 1
           }
         },
         {
@@ -7334,7 +7334,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9468488636019362,
-            "visibility": 0.9999999999862228
+            "visibility": 0.9999999999716955
           }
         },
         {
@@ -7348,7 +7348,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.9295632691071828,
-            "visibility": 0.9999999999999998
+            "visibility": 1
           }
         },
         {
@@ -7362,7 +7362,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.9121360851706988,
-            "visibility": 0.9999999999999993
+            "visibility": 1
           }
         },
         {
@@ -7376,7 +7376,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.9121360851706988,
-            "visibility": 0.9999999999999993
+            "visibility": 1
           }
         },
         {
@@ -7404,7 +7404,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.9020311957024462,
-            "visibility": 0.9999999999999993
+            "visibility": 1
           }
         },
         {
@@ -7418,7 +7418,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.9212896628294647,
-            "visibility": 0.9999999999999998
+            "visibility": 1
           }
         },
         {
@@ -7432,7 +7432,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.9212896628294647,
-            "visibility": 0.9999999999999998
+            "visibility": 1
           }
         },
         {
@@ -7446,7 +7446,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.9212896628294647,
-            "visibility": 0.9999999999999993
+            "visibility": 1
           }
         },
         {
@@ -7460,7 +7460,7 @@
             "snowQuality": 0.3,
             "weather": 0,
             "wind": 0.9020311957024462,
-            "visibility": 0.9999999999999993
+            "visibility": 1
           }
         },
         {
@@ -7474,7 +7474,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.8786811621082631,
-            "visibility": 0.9999995134861595
+            "visibility": 1
           }
         },
         {
@@ -7488,7 +7488,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9623121094913941,
-            "visibility": 0.9999995134861595
+            "visibility": 1
           }
         },
         {
@@ -7502,7 +7502,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9497887268097336,
-            "visibility": 0.9999999999736617
+            "visibility": 1
           }
         },
         {
@@ -7516,7 +7516,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.9497887268097336,
-            "visibility": 0.9999999999736617
+            "visibility": 1
           }
         },
         {
@@ -7558,7 +7558,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9437470664268327,
-            "visibility": 0.9999999999736617
+            "visibility": 1
           }
         },
         {
@@ -7572,7 +7572,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.9497887268097336,
-            "visibility": 0.9999999999736617
+            "visibility": 1
           }
         },
         {
@@ -7586,7 +7586,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.9437470664268327,
-            "visibility": 0.9999999999736617
+            "visibility": 1
           }
         },
         {
@@ -7600,7 +7600,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.9168273035060777,
-            "visibility": 0.9999994558280437
+            "visibility": 1
           }
         },
         {
@@ -7656,7 +7656,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.9168273035060777,
-            "visibility": 0.9999999999736617
+            "visibility": 1
           }
         },
         {
@@ -7684,7 +7684,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9644288107273639,
-            "visibility": 0.999999997837498
+            "visibility": 1
           }
         },
         {
@@ -7698,7 +7698,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9437470664268327,
-            "visibility": 0.999999997837498
+            "visibility": 1
           }
         },
         {
@@ -7796,7 +7796,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9644288107273639,
-            "visibility": 0.999999997837498
+            "visibility": 1
           }
         },
         {
@@ -7810,7 +7810,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9644288107273639,
-            "visibility": 0.999999997837498
+            "visibility": 1
           }
         },
         {
@@ -7824,7 +7824,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9437470664268327,
-            "visibility": 0.999999997837498
+            "visibility": 1
           }
         },
         {
@@ -7894,7 +7894,7 @@
             "snowQuality": 0.7,
             "weather": 0.3,
             "wind": 0.9852259683067269,
-            "visibility": 0.9999994813313094
+            "visibility": 1
           }
         },
         {
@@ -7922,7 +7922,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.9255320548339719,
-            "visibility": 0.008766608519020941
+            "visibility": 0.009193705367288094
           }
         },
         {
@@ -7936,7 +7936,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.960074666047186,
-            "visibility": 0.9999994813313094
+            "visibility": 0.9999999999999996
           }
         },
         {
@@ -7950,7 +7950,7 @@
             "snowQuality": 0.2,
             "weather": 0,
             "wind": 0.9333919644249093,
-            "visibility": 0.008766608519020941
+            "visibility": 0.009193705367288094
           }
         },
         {
@@ -7978,7 +7978,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9370266439430035,
-            "visibility": 0.9999999992830393
+            "visibility": 1
           }
         },
         {
@@ -7992,7 +7992,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9370266439430035,
-            "visibility": 0.9999999992830393
+            "visibility": 1
           }
         },
         {
@@ -8020,7 +8020,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9121360851706988,
-            "visibility": 0.9999999992830393
+            "visibility": 1
           }
         },
         {
@@ -8034,7 +8034,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9121360851706988,
-            "visibility": 0.9999999992830393
+            "visibility": 1
           }
         },
         {
@@ -8062,7 +8062,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.8786811621082631,
-            "visibility": 0.9999999941217104
+            "visibility": 1
           }
         },
         {
@@ -8090,7 +8090,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.9212896628294647,
-            "visibility": 0.9999992970645027
+            "visibility": 1
           }
         },
         {
@@ -8118,7 +8118,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.9121360851706988,
-            "visibility": 0.9999999992830393
+            "visibility": 1
           }
         },
         {
@@ -8132,7 +8132,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.7231218051243897,
-            "visibility": 0.6830880948621851
+            "visibility": 1
           }
         },
         {
@@ -8146,7 +8146,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.3143198860617461,
-            "visibility": 0.9999999959961121
+            "visibility": 1
           }
         },
         {
@@ -8160,7 +8160,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.7576796390037049,
-            "visibility": 0.9999999121820652
+            "visibility": 1
           }
         },
         {
@@ -8174,7 +8174,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.017636340339722684,
-            "visibility": 0.9999999959961121
+            "visibility": 1
           }
         },
         {
@@ -8188,7 +8188,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.7685247834990175,
-            "visibility": 0.9999770001531353
+            "visibility": 0.9999999999999993
           }
         },
         {
@@ -8202,7 +8202,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.8347951298093854,
-            "visibility": 0.9999999959961121
+            "visibility": 1
           }
         },
         {
@@ -8216,7 +8216,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.5597136492671929,
-            "visibility": 0.9999994936311631
+            "visibility": 1
           }
         },
         {
@@ -8230,7 +8230,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.8347951298093854,
-            "visibility": 0.9999994936311631
+            "visibility": 1
           }
         },
         {
@@ -8244,7 +8244,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.4700359482354283,
-            "visibility": 0.9999999999999987
+            "visibility": 1
           }
         },
         {
@@ -8272,7 +8272,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.410959565941335,
-            "visibility": 0.9902046126023112
+            "visibility": 0.9999999999999991
           }
         },
         {
@@ -8286,7 +8286,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.789181706522253,
-            "visibility": 0.9999999999999776
+            "visibility": 1
           }
         },
         {
@@ -8300,7 +8300,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.8652969480479719,
-            "visibility": 0.9999999999999776
+            "visibility": 1
           }
         },
         {
@@ -8314,7 +8314,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.8849332679544502,
-            "visibility": 0.9999999999999776
+            "visibility": 1
           }
         },
         {
@@ -8328,7 +8328,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.9776865613009676,
-            "visibility": 0.9999999999999951
+            "visibility": 1
           }
         },
         {
@@ -8356,7 +8356,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.789181706522253,
-            "visibility": 0.9999999999999951
+            "visibility": 1
           }
         },
         {
@@ -8726,7 +8726,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.6456563062257954,
-            "visibility": 0.9999999982294931
+            "visibility": 0.9999999996700235
           }
         },
         {
@@ -8768,7 +8768,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.6456563062257954,
-            "visibility": 0.9999999982294931
+            "visibility": 0.9999999996700235
           }
         },
         {
@@ -8796,7 +8796,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.8084546514385326,
-            "visibility": 0.9999999999999829
+            "visibility": 1
           }
         },
         {
@@ -8838,7 +8838,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.8652969480479719,
-            "visibility": 0.9999999982294931
+            "visibility": 0.9999999996700235
           }
         },
         {
@@ -8852,7 +8852,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.7349725994665188,
-            "visibility": 1
+            "visibility": 0.9991453811554223
           }
         },
         {
@@ -8880,7 +8880,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.7685247834990175,
-            "visibility": 1
+            "visibility": 0.23721668391288905
           }
         },
         {
@@ -8894,7 +8894,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.6034832498647262,
-            "visibility": 1
+            "visibility": 0.9999985442676576
           }
         },
         {
@@ -8908,7 +8908,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.6034832498647262,
-            "visibility": 1
+            "visibility": 0.9991453811554223
           }
         },
         {
@@ -8922,7 +8922,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.6034832498647262,
-            "visibility": 1
+            "visibility": 0.9999985442676576
           }
         },
         {
@@ -8936,7 +8936,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.2108182934777472,
-            "visibility": 1
+            "visibility": 0.9999877748129885
           }
         },
         {
@@ -8950,7 +8950,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.2108182934777472,
-            "visibility": 1
+            "visibility": 0.9999877748129885
           }
         },
         {
@@ -8964,7 +8964,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.4850044983805899,
-            "visibility": 1
+            "visibility": 0.9948520732745844
           }
         },
         {
@@ -8978,7 +8978,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.6456563062257954,
-            "visibility": 1
+            "visibility": 0.9999999999994691
           }
         },
         {
@@ -8992,7 +8992,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.4850044983805899,
-            "visibility": 1
+            "visibility": 0.9999993715445085
           }
         },
         {
@@ -9006,7 +9006,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.8721384336809187,
-            "visibility": 1
+            "visibility": 0.9999999999994691
           }
         },
         {
@@ -9020,7 +9020,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.38225212523075086,
-            "visibility": 0.9999999999995546
+            "visibility": 1
           }
         },
         {
@@ -9034,7 +9034,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.589040434058665,
-            "visibility": 1
+            "visibility": 0.9999999934774473
           }
         },
         {
@@ -9048,7 +9048,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.4700359482354283,
-            "visibility": 1
+            "visibility": 0.9999992506058444
           }
         },
         {
@@ -9062,7 +9062,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.4700359482354283,
-            "visibility": 1
+            "visibility": 0.9999992506058444
           }
         },
         {
@@ -9090,7 +9090,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.8786811621082631,
-            "visibility": 1
+            "visibility": 0.9999992506058444
           }
         },
         {
@@ -9104,7 +9104,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.6456563062257954,
-            "visibility": 1
+            "visibility": 0.9999999934774473
           }
         },
         {
@@ -9118,7 +9118,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.6456563062257954,
-            "visibility": 1
+            "visibility": 0.9999999934774473
           }
         },
         {
@@ -9132,7 +9132,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.45512110762641983,
-            "visibility": 1
+            "visibility": 0.9999992506058444
           }
         },
         {
@@ -9146,7 +9146,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.8786811621082631,
-            "visibility": 1
+            "visibility": 0.9999992506058444
           }
         },
         {
@@ -9160,7 +9160,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.7989910002494707,
-            "visibility": 1
+            "visibility": 0.9999994687326887
           }
         },
         {
@@ -9174,7 +9174,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.7109495026250039,
-            "visibility": 1
+            "visibility": 0.9999994687326887
           }
         },
         {
@@ -9188,7 +9188,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.8429045311145473,
-            "visibility": 1
+            "visibility": 0.9999999999375091
           }
         },
         {
@@ -9202,7 +9202,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.8429045311145473,
-            "visibility": 1
+            "visibility": 0.9999999999375091
           }
         },
         {
@@ -9244,7 +9244,7 @@
             "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.8721384336809187,
-            "visibility": 1
+            "visibility": 0.9999999999375091
           }
         },
         {
@@ -9258,7 +9258,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.8429045311145473,
-            "visibility": 1
+            "visibility": 0.9999999999375091
           }
         },
         {
@@ -9272,7 +9272,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.8721384336809187,
-            "visibility": 1
+            "visibility": 0.9999999999375091
           }
         },
         {
@@ -9286,7 +9286,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.9212896628294647,
-            "visibility": 1
+            "visibility": 0.9852259683067269
           }
         },
         {
@@ -9342,7 +9342,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.9212896628294647,
-            "visibility": 1
+            "visibility": 0.9999999999375091
           }
         },
         {
@@ -9370,7 +9370,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.3407396115486146,
-            "visibility": 1
+            "visibility": 0.9999999999998108
           }
         },
         {
@@ -9384,7 +9384,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.6318124177361018,
-            "visibility": 1
+            "visibility": 0.9999999999998108
           }
         },
         {
@@ -9482,7 +9482,7 @@
             "snowQuality": 0.7,
             "weather": 0.3,
             "wind": 0.3407396115486146,
-            "visibility": 1
+            "visibility": 0.9999999999998108
           }
         },
         {
@@ -9496,7 +9496,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.3407396115486146,
-            "visibility": 1
+            "visibility": 0.9999999999998108
           }
         },
         {
@@ -9510,7 +9510,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.6318124177361018,
-            "visibility": 1
+            "visibility": 0.9999999999998108
           }
         },
         {
@@ -9580,7 +9580,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.7349725994665188,
-            "visibility": 1
+            "visibility": 0.9999990773362064
           }
         },
         {
@@ -9608,7 +9608,7 @@
             "snowQuality": 0.3,
             "weather": 0.3,
             "wind": 0.8721384336809187,
-            "visibility": 0.999999999864222
+            "visibility": 1
           }
         },
         {
@@ -9622,7 +9622,7 @@
             "snowQuality": 0.2,
             "weather": 0.3,
             "wind": 0.14185106490048782,
-            "visibility": 0.9999999999999998
+            "visibility": 1
           }
         },
         {
@@ -9636,7 +9636,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.9212896628294647,
-            "visibility": 0.999999999864222
+            "visibility": 1
           }
         },
         {
@@ -9874,7 +9874,7 @@
             "snowQuality": 0.2,
             "weather": 0.8,
             "wind": 0.9168273035060777,
-            "visibility": 1
+            "visibility": 0.9999999999999996
           }
         },
         {
@@ -10131,7 +10131,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.6456563062257954,
+            "wind": 0.7790261077798122,
             "visibility": 1
           }
         },
@@ -10145,7 +10145,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.6318124177361018,
+            "wind": 0.8652969480479719,
             "visibility": 1
           }
         },
@@ -10159,7 +10159,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.3,
-            "wind": 0.8347951298093854,
+            "wind": 0.9812934900456455,
             "visibility": 1
           }
         },
@@ -10173,7 +10173,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.6034832498647262,
+            "wind": 0.9295632691071828,
             "visibility": 1
           }
         },
@@ -10187,7 +10187,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8909031788043871,
+            "wind": 0.9852259683067269,
             "visibility": 1
           }
         },
@@ -10201,7 +10201,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.3,
-            "wind": 0.14931293453084374,
+            "wind": 0.8175744761936437,
             "visibility": 1
           }
         },
@@ -10215,7 +10215,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9763394218445388,
+            "wind": 0.9295632691071828,
             "visibility": 1
           }
         },
@@ -10229,7 +10229,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.5,
+            "wind": 0.973403006423134,
             "visibility": 1
           }
         },
@@ -10243,7 +10243,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.3,
-            "wind": 0.24232036099629511,
+            "wind": 0.9295632691071828,
             "visibility": 1
           }
         },
@@ -10257,7 +10257,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.7790261077798122,
+            "wind": 0.8429045311145473,
             "visibility": 1
           }
         },
@@ -10271,7 +10271,7 @@
             "snowfall": 0,
             "snowQuality": 0.7,
             "weather": 0.8,
-            "wind": 0.574442516811659,
+            "wind": 0.9552122969502131,
             "visibility": 1
           }
         },
@@ -10285,7 +10285,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8909031788043871,
+            "wind": 0.9333919644249093,
             "visibility": 1
           }
         },
@@ -10299,7 +10299,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9552122969502131,
+            "wind": 0.8786811621082631,
             "visibility": 1
           }
         },
@@ -10311,9 +10311,9 @@
           "lon": 140.8033,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8909031788043871,
+            "wind": 0.9333919644249093,
             "visibility": 1
           }
         },
@@ -10327,7 +10327,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.6592603884513855,
+            "wind": 0.8175744761936437,
             "visibility": 1
           }
         },
@@ -10339,9 +10339,9 @@
           "lon": 140.9749,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9860743596934995,
+            "wind": 0.9812934900456455,
             "visibility": 1
           }
         },
@@ -10369,7 +10369,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8721384336809187,
+            "wind": 0.9168273035060777,
             "visibility": 1
           }
         },
@@ -10381,9 +10381,9 @@
           "lon": 141.0264,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.6318124177361018,
+            "wind": 0.7109495026250039,
             "visibility": 1
           }
         },
@@ -10397,7 +10397,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8721384336809187,
+            "wind": 0.9168273035060777,
             "visibility": 1
           }
         },
@@ -10411,7 +10411,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9404756340234984,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -10423,9 +10423,9 @@
           "lon": 140.7226,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8721384336809187,
+            "wind": 0.7790261077798122,
             "visibility": 1
           }
         },
@@ -10453,7 +10453,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9404756340234984,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -10467,7 +10467,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8652969480479719,
+            "wind": 0.8965995485417504,
             "visibility": 1
           }
         },
@@ -10481,7 +10481,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9644288107273639,
+            "wind": 0.9683237716209436,
             "visibility": 1
           }
         },
@@ -10495,7 +10495,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.6592603884513855,
+            "wind": 0.6456563062257954,
             "visibility": 1
           }
         },
@@ -10509,7 +10509,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.574442516811659,
+            "wind": 0.589040434058665,
             "visibility": 1
           }
         },
@@ -10523,7 +10523,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9552122969502131,
+            "wind": 0.9577102281579662,
             "visibility": 1
           }
         },
@@ -10535,9 +10535,9 @@
           "lon": 140.1197,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9644288107273639,
+            "wind": 0.9749130378465203,
             "visibility": 1
           }
         },
@@ -10549,9 +10549,9 @@
           "lon": 140.455,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.3,
-            "wind": 0.9525741268224334,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -10565,7 +10565,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9404756340234984,
+            "wind": 0.9552122969502131,
             "visibility": 1
           }
         },
@@ -10579,7 +10579,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.907207046882843,
+            "wind": 0.9168273035060777,
             "visibility": 1
           }
         },
@@ -10593,7 +10593,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.907207046882843,
+            "wind": 0.9168273035060777,
             "visibility": 1
           }
         },
@@ -10607,7 +10607,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9295632691071828,
+            "wind": 0.9437470664268327,
             "visibility": 1
           }
         },
@@ -10619,9 +10619,9 @@
           "lon": 140.23,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
-            "weather": 0,
-            "wind": 0.9577102281579662,
+            "snowQuality": 0.3,
+            "weather": 0.8,
+            "wind": 0.8965995485417504,
             "visibility": 1
           }
         },
@@ -10634,8 +10634,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0,
-            "wind": 0.9577102281579662,
+            "weather": 0.8,
+            "wind": 0.8965995485417504,
             "visibility": 1
           }
         },
@@ -10649,7 +10649,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9644288107273639,
+            "wind": 0.9020311957024462,
             "visibility": 1
           }
         },
@@ -10662,8 +10662,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0,
-            "wind": 0.7349725994665188,
+            "weather": 0.8,
+            "wind": 0.7109495026250039,
             "visibility": 1
           }
         },
@@ -10676,8 +10676,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0,
-            "wind": 0.589040434058665,
+            "weather": 0.8,
+            "wind": 0.5597136492671929,
             "visibility": 1
           }
         },
@@ -10690,8 +10690,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0,
-            "wind": 0.7790261077798122,
+            "weather": 0.3,
+            "wind": 0.7576796390037049,
             "visibility": 1
           }
         },
@@ -10704,8 +10704,8 @@
           "scores": {
             "snowfall": 0,
             "snowQuality": 0.3,
-            "weather": 0.3,
-            "wind": 0.8786811621082631,
+            "weather": 0.8,
+            "wind": 0.9020311957024462,
             "visibility": 1
           }
         },
@@ -10719,7 +10719,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.7231218051243897,
+            "wind": 0.6984652160025387,
             "visibility": 1
           }
         },
@@ -10733,7 +10733,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.6856801139382539,
+            "wind": 0.7231218051243897,
             "visibility": 1
           }
         },
@@ -10747,7 +10747,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.6856801139382539,
+            "wind": 0.7231218051243897,
             "visibility": 1
           }
         },
@@ -10761,7 +10761,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8175744761936437,
+            "wind": 0.8429045311145473,
             "visibility": 1
           }
         },
@@ -10773,9 +10773,9 @@
           "lon": 138.9722,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.3,
-            "wind": 0.7685247834990175,
+            "wind": 0.7231218051243897,
             "visibility": 1
           }
         },
@@ -10789,7 +10789,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.574442516811659,
+            "wind": 0.6456563062257954,
             "visibility": 1
           }
         },
@@ -10801,9 +10801,9 @@
           "lon": 139.23,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.574442516811659,
+            "wind": 0.6456563062257954,
             "visibility": 1
           }
         },
@@ -10817,7 +10817,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.5,
+            "wind": 0.5448788923735802,
             "visibility": 1
           }
         },
@@ -10831,7 +10831,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.3,
-            "wind": 0.8347951298093854,
+            "wind": 0.8175744761936437,
             "visibility": 1
           }
         },
@@ -10843,9 +10843,9 @@
           "lon": 138.7844,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.3,
-            "wind": 0.907207046882843,
+            "wind": 0.6856801139382539,
             "visibility": 1
           }
         },
@@ -10859,7 +10859,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.3,
-            "wind": 0.8347951298093854,
+            "wind": 0.5448788923735802,
             "visibility": 1
           }
         },
@@ -10873,7 +10873,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.7231218051243897,
+            "wind": 0.826353352980995,
             "visibility": 1
           }
         },
@@ -10887,7 +10887,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.789181706522253,
+            "wind": 0.8652969480479719,
             "visibility": 1
           }
         },
@@ -10915,7 +10915,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8965995485417504,
+            "wind": 0.8786811621082631,
             "visibility": 1
           }
         },
@@ -10929,7 +10929,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9683237716209436,
+            "wind": 0.789181706522253,
             "visibility": 1
           }
         },
@@ -10943,7 +10943,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.7231218051243897,
+            "wind": 0.826353352980995,
             "visibility": 1
           }
         },
@@ -10957,7 +10957,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9683237716209436,
+            "wind": 0.789181706522253,
             "visibility": 1
           }
         },
@@ -10971,7 +10971,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8909031788043871,
+            "wind": 0.9468488636019362,
             "visibility": 1
           }
         },
@@ -10985,7 +10985,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.6984652160025387,
+            "wind": 0.789181706522253,
             "visibility": 1
           }
         },
@@ -10999,7 +10999,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8965995485417504,
+            "wind": 0.8786811621082631,
             "visibility": 1
           }
         },
@@ -11013,7 +11013,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8965995485417504,
+            "wind": 0.8786811621082631,
             "visibility": 1
           }
         },
@@ -11027,7 +11027,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8581489350995123,
+            "wind": 0.9701133201963639,
             "visibility": 1
           }
         },
@@ -11041,7 +11041,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8175744761936437,
+            "wind": 0.9020311957024462,
             "visibility": 1
           }
         },
@@ -11053,9 +11053,9 @@
           "lon": 137.8327,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8581489350995123,
+            "wind": 0.9333919644249093,
             "visibility": 1
           }
         },
@@ -11067,9 +11067,9 @@
           "lon": 137.8306,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.6318124177361018,
+            "wind": 0.7685247834990175,
             "visibility": 1
           }
         },
@@ -11083,7 +11083,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8347951298093854,
+            "wind": 0.8429045311145473,
             "visibility": 1
           }
         },
@@ -11097,7 +11097,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8721384336809187,
+            "wind": 0.9255320548339719,
             "visibility": 1
           }
         },
@@ -11125,7 +11125,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9121360851706988,
+            "wind": 0.8652969480479719,
             "visibility": 1
           }
         },
@@ -11139,7 +11139,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.3,
-            "wind": 0.6984652160025387,
+            "wind": 0.6592603884513855,
             "visibility": 1
           }
         },
@@ -11151,9 +11151,9 @@
           "lon": 137.885,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.960074666047186,
+            "wind": 0.9497887268097336,
             "visibility": 1
           }
         },
@@ -11167,7 +11167,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9370266439430035,
+            "wind": 0.9212896628294647,
             "visibility": 1
           }
         },
@@ -11181,7 +11181,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8581489350995123,
+            "wind": 0.9333919644249093,
             "visibility": 1
           }
         },
@@ -11193,9 +11193,9 @@
           "lon": 137.835,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.8581489350995123,
+            "wind": 0.9370266439430035,
             "visibility": 1
           }
         },
@@ -11223,7 +11223,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9664307767185175,
+            "wind": 0.9212896628294647,
             "visibility": 1
           }
         },
@@ -11235,9 +11235,9 @@
           "lon": 138.285,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9664307767185175,
+            "wind": 0.9212896628294647,
             "visibility": 1
           }
         },
@@ -11251,7 +11251,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9020311957024462,
+            "wind": 0.8721384336809187,
             "visibility": 1
           }
         },
@@ -11265,7 +11265,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9552122969502131,
+            "wind": 0.960074666047186,
             "visibility": 1
           }
         },
@@ -11293,7 +11293,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.9525741268224334,
+            "wind": 0.9577102281579662,
             "visibility": 1
           }
         },
@@ -11321,7 +11321,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.960074666047186,
+            "wind": 0.9823636596602773,
             "visibility": 1
           }
         },
@@ -11335,7 +11335,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.7685247834990175,
+            "wind": 0.6856801139382539,
             "visibility": 1
           }
         },
@@ -11349,7 +11349,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.7685247834990175,
+            "wind": 0.6856801139382539,
             "visibility": 1
           }
         },
@@ -11363,7 +11363,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.7685247834990175,
+            "wind": 0.6856801139382539,
             "visibility": 1
           }
         },
@@ -11375,7 +11375,7 @@
           "lon": 136.935,
           "scores": {
             "snowfall": 0,
-            "snowQuality": 0.2,
+            "snowQuality": 0.3,
             "weather": 0.8,
             "wind": 0.7349725994665188,
             "visibility": 1
@@ -11391,7 +11391,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.7989910002494707,
+            "wind": 0.7109495026250039,
             "visibility": 1
           }
         },
@@ -11405,7 +11405,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.7989910002494707,
+            "wind": 0.7109495026250039,
             "visibility": 1
           }
         },
@@ -11433,7 +11433,7 @@
             "snowfall": 0,
             "snowQuality": 0.3,
             "weather": 0.8,
-            "wind": 0.7349725994665188,
+            "wind": 0.7989910002494707,
             "visibility": 1
           }
         },
@@ -11447,7 +11447,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.7685247834990175,
+            "wind": 0.6856801139382539,
             "visibility": 1
           }
         },
@@ -11461,7 +11461,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9255320548339719,
+            "wind": 0.789181706522253,
             "visibility": 1
           }
         },
@@ -11475,7 +11475,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8175744761936437,
+            "wind": 0.9020311957024462,
             "visibility": 1
           }
         },
@@ -11489,7 +11489,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9121360851706988,
+            "wind": 0.7685247834990175,
             "visibility": 1
           }
         },
@@ -11503,7 +11503,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.826353352980995,
+            "wind": 0.7989910002494707,
             "visibility": 1
           }
         },
@@ -11517,7 +11517,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.7576796390037049,
+            "wind": 0.8652969480479719,
             "visibility": 1
           }
         },
@@ -11531,7 +11531,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8084546514385326,
+            "wind": 0.8909031788043871,
             "visibility": 1
           }
         },
@@ -11545,7 +11545,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8786811621082631,
+            "wind": 0.9121360851706988,
             "visibility": 1
           }
         },
@@ -11559,7 +11559,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.7109495026250039,
+            "wind": 0.7790261077798122,
             "visibility": 1
           }
         },
@@ -11573,7 +11573,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.7790261077798122,
+            "wind": 0.826353352980995,
             "visibility": 1
           }
         },
@@ -11587,7 +11587,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8347951298093854,
+            "wind": 0.8429045311145473,
             "visibility": 1
           }
         },
@@ -11601,7 +11601,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.6856801139382539,
+            "wind": 0.7464939833376623,
             "visibility": 1
           }
         },
@@ -11615,7 +11615,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9623121094913941,
+            "wind": 0.9701133201963639,
             "visibility": 1
           }
         },
@@ -11629,7 +11629,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8581489350995123,
+            "wind": 0.8652969480479719,
             "visibility": 1
           }
         },
@@ -11643,7 +11643,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8965995485417504,
+            "wind": 0.8721384336809187,
             "visibility": 1
           }
         },
@@ -11657,7 +11657,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9644288107273639,
+            "wind": 0.9801596942659225,
             "visibility": 1
           }
         },
@@ -11671,7 +11671,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9664307767185175,
+            "wind": 0.9812934900456455,
             "visibility": 1
           }
         },
@@ -11685,7 +11685,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9683237716209436,
+            "wind": 0.9823636596602773,
             "visibility": 1
           }
         },
@@ -11699,7 +11699,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.907207046882843,
+            "wind": 0.8347951298093854,
             "visibility": 1
           }
         },
@@ -11713,7 +11713,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.8786811621082631,
+            "wind": 0.8652969480479719,
             "visibility": 1
           }
         },
@@ -11727,7 +11727,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0.8,
-            "wind": 0.9577102281579662,
+            "wind": 0.8347951298093854,
             "visibility": 1
           }
         },
@@ -11741,7 +11741,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0,
-            "wind": 0.9168273035060777,
+            "wind": 0.9020311957024462,
             "visibility": 1
           }
         },
@@ -11755,7 +11755,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0,
-            "wind": 0.8506870654691563,
+            "wind": 0.8849332679544502,
             "visibility": 1
           }
         },
@@ -11783,7 +11783,7 @@
             "snowfall": 0,
             "snowQuality": 0.2,
             "weather": 0,
-            "wind": 0.9552122969502131,
+            "wind": 0.8429045311145473,
             "visibility": 1
           }
         },
